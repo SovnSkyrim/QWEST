@@ -132,7 +132,8 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 
 This list is aimed towards very low end PCs, but that doesn't mean ENB isn't an option.
 I recommend anyone with a 2GB card to skip this step and test in game, then check afterwards for what's following, ENB is the biggest performance hit in modding (if you don't go nuts with textures which I didn't).
-For the lucky ones with more than 2GB of VRAM but still low end, I really recommend [The Truth](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which is the best enb in my opinion for how little it impacts FPS. Install instructions will follow but before I wanna talk about another alternative, which is ReShade, more below.
+For the lucky ones with more than 2GB of VRAM but still low end, I really recommend [The Truth](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which is the best enb in my opinion for how little it impacts FPS.
+There is also another option which is ReShade, it's even less heavy but does less, instructions on this option are below The Truth ENB's installation instructions.
 
 To install The Truth ENB, follow these:
 - Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
