@@ -1,6 +1,6 @@
-# Project:QWEST!
+# Project: QWEST!
 
-- [Project:QWEST!](#Project:QWEST!)
+- [Project: QWEST!](#Project: QWEST!)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
