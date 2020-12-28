@@ -1,6 +1,6 @@
-# Project: QWEST!
+# Project:QWEST!
 
-- [Project: QWEST!](#Project: QWEST!)
+- [Project:QWEST!](#Project:QWEST!)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
@@ -68,7 +68,9 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the Shredder: https://www.nexusmods.com/skyrimspecialedition/mods/30133
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133)
+
+If you ever used Vortex to mod Skyrim SE, using the Shredder becomes a critically important step, as Vortex will conflict heavily with any Wabbajack installation, so backup your stuff or shred it. [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133)
 
 #### Start Skyrim
 
