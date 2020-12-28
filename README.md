@@ -1,6 +1,5 @@
 # Project: QWEST
 
-- [Project: QWEST](#Project: QWEST)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
@@ -35,19 +34,20 @@
 
 # Preamble
 
-Project: QWEST was born after a few friends were talking about how their friends couldn't enjoy cool quests in modded Skyrim even with Wabbajack due to all the hardware requirements.
-This list has very, very little graphic enhancement, and if you're struggling still you can even remove it.
-I chose mods that overhauls almost all the vanilla quests, added some like Legacy of the Dragonborn, Interesting NPCs, Wyrmstooth or The Forgotten City, animations has been overalled a bit, new music, new armors and weapons linked to LotD and vanilla enhancing weathers and lighting.
-It should run on any hardware that runs Vanilla Skyrim
+Project: QWEST was born after a few friends were talking about how some of their friends couldn't enjoy cool quests in modded Skyrim, even with Wabbajack, due to the hardware requirements. This list has very few graphical enhancements which can be removed if you find you're struggling to run it.
+
+I chose mods that overhaul almost all of the vanilla quests, added some major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth and the Forgotten city, and also overhauled the animations a bit. You'll also find new music, new armors and weapons that are linked to LotD and vanilla enhancing weathers and lighting.
+
+If you can run vanilla Skyrim, you should be able to run this.
 
 ## Installation
 ### Pre-Installation
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
+These steps are only needed if you install this Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 #### Steam Library
 
@@ -70,7 +70,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133)
 
-If you ever used Vortex to mod Skyrim SE, using the Shredder becomes a critically important step, as Vortex will conflict heavily with any Wabbajack installation, so backup your stuff or shred it. [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133)
+If you ever used Vortex to mod Skyrim SE, using the Shredder becomes a critically important step, as Vortex will conflict heavily with any Wabbajack installation, so backup your stuff or shred it.
 
 #### Start Skyrim
 
@@ -131,8 +131,8 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 #### Getting an ENB
 
 This list is aimed towards very low end PCs, but that doesn't mean ENB isn't an option.
-I recommend anyone with a 2GB card to skip this step and test in game, then check afterwards for what's following, ENB is the biggest performance hit in modding (if you don't go nuts with textures which I didn't).
-For the lucky ones with more than 2GB of VRAM but still low end, I really recommend [The Truth](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which is the best enb in my opinion for how little it impacts FPS.
+
+I recommend anyone with a 2GB card to skip this step and test in game, then check afterwards for what's following, ENB is the biggest performance hit in modding (if you don't go nuts with textures which I didn't). For the lucky ones with more than 2GB of VRAM but still low end, I really recommend [The Truth](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which is the best enb in my opinion for how little it impacts FPS.
 There is also another option which is ReShade, it's even less heavy but does less, instructions on this option are below The Truth ENB's installation instructions.
 
 To install The Truth ENB, follow these:
@@ -156,7 +156,7 @@ Now we'll go back to the presets downloaded
 - Open the ReShade Preset archive and paste it to your game folder.
 - When Skyrim launches (Refer to the next step in the readme if lost on this step), press the home button on your keyboard and select the .ini file you just put in your Skyrim Folder as the loaded .ini
 - Press home again to close the window.
-Know that you can switch any ini at anytime during your gameplay, so if you want to compare between the 2 that I recommend, you can totally do that In Game.
+Know that you can switch any ini at anytime during your gameplay, so if you want to compare between the 2 that I recommend, you can totally do that in game.
 
 ## How to start up Project: QWEST!
 
@@ -294,10 +294,6 @@ Simply step up to the statue of mara and choose a start.
 ### Ultrawide Options
 If you have an ultrawide monitor (21:9 or 32:9), the UI will be off. You just need to enable "Dear Diary for (screen resolution)" under the Separator "Activate this if you have a widescreen monitor" in MO2. [Those](https://prnt.sc/udw0qv)
 
-### Performance stuff
-
-If you have less than 6GB of VRAM, there is an alternative DynDOLOD and TexGEN output, without 3D tree lods, available in the discord. Follow the instructions to swap to the alternate.
-
 ## Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
@@ -307,7 +303,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Xanza, Jdsmith and Luca inspiring me to make this, y'all are neat.
-- Althro for being such a resourceful person and helping for the Discord and development a lot.
+- Althro for being such a resourceful person and helping with the Discord and development a lot.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 
 ## Contact
