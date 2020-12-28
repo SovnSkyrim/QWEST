@@ -162,7 +162,6 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
-
 ## Updating
 
 If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
@@ -263,11 +262,6 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Barter Menu : Disabled
   - Container Menu : Disabled
   - Crafting Menu : Disabled
-  
-#### Skyrim's Unique Treasure
-- SUT Configuration
-  - Lore friendly items only : Enabled
-  (this is a personal choice, if you want to leave it disabled, it won't create problems)
 
 #### SmoothCam  -for 3rd person players-
 - Presets
