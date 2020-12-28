@@ -1,4 +1,4 @@
-# Among Sovngarde's Stars
+# Project: QWEST!
 
 - [Project: QWEST!](#Project: QWEST!)
 - [Preamble](#preamble)
