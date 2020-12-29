@@ -19,7 +19,7 @@
     - [Getting an ENB](#getting-an-enb)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
-- [Creating your Character](#creating-your-character)
+- [How to start playing](#How to start playing)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
   - [Performance stuff](#Performance-stuff)
@@ -270,7 +270,7 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
 - Disable Injuries: Enabled
 - Allow Wildcat to manage difficulty: Enabled
 
-## Creating your Character
+## How to start playing
 
 Simply step up to the statue of mara and choose a start.
 
