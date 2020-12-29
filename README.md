@@ -223,16 +223,9 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Player Houses: Enabled
 
 #### moreHUD (mostly preferences, I play with this)
-
-- Enemy's Level
-  - General:
-    - Show Enemy Level: Disabled
-    - Show Soul Level: Disabled
-- Enemy Meters:
-  - Enemy Meter
-    - Show Magicka Meter: Disabled
-    - Show Stamina Meter: Disabled
-    
+- Presets
+  - Save Settings with FISS
+    - Load User Settings? : GO
 #### Simple Horse
 - Call Horse Key : change it if you want to! (I leave it on default)
 
