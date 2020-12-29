@@ -283,7 +283,8 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Xanza, Jdsmith and Luca inspiring me to make this, y'all are neat.
+- Xanza, Jdsmith inspiring me to make this, y'all are neat.
+- Luca for all the testing, feedback and recommendations, you are amazing.
 - Althro for being such a resourceful person and helping with the Discord and development a lot.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 
