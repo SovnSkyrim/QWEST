@@ -290,9 +290,6 @@ Simply step up to the statue of mara and choose a start.
 
 ## FAQ
 
-### Ultrawide Options
-If you have an ultrawide monitor (21:9 or 32:9), the UI will be off. You just need to enable "Dear Diary for (screen resolution)" under the Separator "Activate this if you have a widescreen monitor" in MO2. [Those](https://prnt.sc/udw0qv)
-
 ## Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
