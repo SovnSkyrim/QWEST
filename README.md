@@ -216,16 +216,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Nothing is really important, you can toggle stuff depending on your Race tho!
 Reminder that you can't switch race/sex using Showracemenu because of such a mod!
 
-#### Keep It Clean - CAN REMAIN DEACTIVATED IF YOU DO NOT LIKE SURVIVAL ASPECTS
-- Settings → Parameters :
-  - Soap Buff Duration : 12
-  - Duration before becoming Dirty : 24
-  - Duration before becoming Very Dirty : 48
-- Settings → Toggles :
-  - Start Keep It Clean: Enabled
-  
-**Note : Exit the MCM to let it start up properly**
-  
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
   - Carriages: Enabled
