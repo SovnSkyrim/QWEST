@@ -297,6 +297,10 @@ If you have an ultrawide monitor (21:9 or 32:9), the UI will be off. You just ne
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
+## I still have too low fps..
+
+Well, besides disabling the "Project Clarity" Mods in MO2, there's not much else I can recommend.
+
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
