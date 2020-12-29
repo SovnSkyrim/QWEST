@@ -17,7 +17,6 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Getting an ENB](#getting-an-enb)
-    - [Switching Weather Mods (or Profiles)](#Switching-Weather-Mods)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [Creating your Character](#creating-your-character)
@@ -171,10 +170,6 @@ If this Modlist receives an update please check the Changelog before doing anyth
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-
-## Switching Weather Mods
-
-Look at the drop menu on top of the right panel and next to "Profile" in MO2, you should be able to select the profile with the weather mod of your choice. Like [this](http://prntscr.com/tmu8ar).
 
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
