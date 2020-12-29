@@ -248,13 +248,15 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
     There are 2 presets available for your to use, I personally prefer the Modern one but some prefer EasyEase's, try both and see which you prefer!
     
 #### Thieves Guild Requirements
- - Load Prest
- - Cycle through all the tabs
+- Misc Options 
+  - Load Preset  
+Cycle through all the tabs
  - Load Preset again (now it will stick)
   
 #### Timing is Everything
- - Load Prest
- - Cycle through all the tabs
+- Extra Options 
+  - Load Preset  
+Cycle through all the tabs
  - Load Preset again (now it will stick)
 
 #### VioLens
