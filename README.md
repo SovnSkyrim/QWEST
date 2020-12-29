@@ -20,7 +20,7 @@
     - [Getting an ENB](#getting-an-enb)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
-- [How to start playing](#How to start playing)
+- [How to start playing](#How-to-start-playing)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
   - [Performance stuff](#Performance-stuff)
