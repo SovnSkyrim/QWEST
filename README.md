@@ -141,7 +141,7 @@ On a Ryzen 5 2400G paired with a GTX 950 2GB VRAM and 24GB RAM (never used more 
 
 - If you have 8GB RAM and **NO SSD** or if it still has frame drops, then I recommend:
   - Disabling:
-    - list of project clarity mods DynDOLOD here (maybe with DynDOLOD as a seperate recommendation to try first to maybe keep the better textures)
+    - The following mods in MO2 : [Project Clarity](http://prntscr.com/wchkqq)
   - And testing:
     - BethINI(Normal) -> BethINI(Poor) and stopping by the preset that has a playable framerate for you.
 
@@ -158,7 +158,7 @@ To install The Truth ENB, follow these:
 **Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
 
 Now Let's talk about the ReShade option.
-ReShade is simpler than ENBs, they generally focus on color correction but if rightly used, they can enhance the game graphics nicely with even lower fps loss!
+ReShade is simpler than ENBs, they generally focus on color correction but if rightly used, they can enhance the game graphics nicely with even lower fps loss, couple that with a SKyrim set on Low and even the weaker gpus can experience more than vanilla Skyrim lighting.
 For Skyrim, it's very common for ReShade to be made with a certain ENB in mind, but some exist to be used on top of Vanilla Skyrim. I'll introduce you to 2 of them.
 - [BTS - Beautifully Textured Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/25489)
 - [Ulver](https://www.nexusmods.com/skyrimspecialedition/mods/40433)
@@ -293,10 +293,6 @@ Simply step up to the statue of mara and choose a start.
 ## Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
-
-## I still have too low fps..
-
-Well, besides disabling the "Project Clarity" Mods in MO2, there's not much else I can recommend.
 
 ## Credits and Thanks
 
