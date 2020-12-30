@@ -91,7 +91,7 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-TO EDIT WHEN RELEASED TO PUBLIC : PART WHERE I SAY GRAB THE .WABBAJACK FROM EITHER UNOFFICIAL MODLIST SUBMISSION OR THE UI
+Grab the .Wabbajack from the #links channel in my discord. If you dont have it here's a link: https://discord.gg/ZgjVrXp
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
