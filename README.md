@@ -40,7 +40,7 @@ I chose mods that overhaul almost all of the vanilla quests, added some major mo
 
 If you can run vanilla Skyrim, you should be able to run this.
 
-The name and picture are a reference to the amazing and wholesome webcome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com).
+The name and picture are a reference to the amazing and wholesome webcome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com), their official Twitter is [here](https://twitter.com/swordscomic).
 
 ## Installation
 ### Pre-Installation
