@@ -265,6 +265,17 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Load Preset
     There are 2 presets available for your to use, I personally prefer the Modern one but some prefer EasyEase's, try both and see which you prefer!
     
+#### The Ultimate Dodge Mod  
+ - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key. This step is very important
+ A Keybinding example would be:
+ - Vanilla Sneak key within Options: C
+ - Sneak key within TUDM's MCM: Left Control
+Now your character will roll/sidestep with C and Sneak with Left Control
+I also would recommend to use sidestep (personal preference)
+
+- Npc Settings :
+  - NPC Dodge AI: Disabled
+
 #### Thieves Guild Requirements
 - Misc Options 
   - Load Preset  
