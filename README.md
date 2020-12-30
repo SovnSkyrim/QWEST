@@ -322,10 +322,6 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the Discord. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU** but you can safely ping me in #unofficial-modlist-support or my own Discord, I'll answer whenever I can.
 
-## Contributing
-
-See [Contributing](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Contrbuting.md).
-
 ## Changelog
 
-See [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md).
+See [Changelog](https://github.com/SovnSkyrim/QWEST/blob/main/Changelog.md).
