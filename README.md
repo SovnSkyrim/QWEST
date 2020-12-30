@@ -42,7 +42,7 @@ If you can run vanilla Skyrim, you should be able to run this.
 
 It is a fork of the amazing SME/FT list; if you want to build your own list check it out [here](https://github.com/EzioTheDeadPoet/SME-FT-)!
 
-The name and picture are a reference to the amazing and wholesome webcome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com), their official Twitter is [here](https://twitter.com/swordscomic).
+The name and picture are a reference to the amazing and wholesome webcomic Quest Sprout comic available on [swordscomic.com](https://swordscomic.com), their official Twitter is [here](https://twitter.com/swordscomic).
 
 ## Installation
 ### Pre-Installation
