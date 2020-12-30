@@ -102,7 +102,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load _Project: QWEST!.wabbajack file_ from Disk (or download from the UI depending on where you go it)
+2. Load _Project: QWEST!.wabbajack file_ from Disk (it'll be in your downloads)
 3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Among Sovngarde's Stars".
 4. Select the created folder in 3. as your installation folder.
 5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
