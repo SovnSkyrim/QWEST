@@ -5,7 +5,7 @@ Fixes the Black faces on childrens, Nothing else. Silent update.
 
 ## 1.0: Initial Release
 
-**Released at**: `30.012.2020`
+**Released at**: `30.12.2020`
 
 **Info**:
 
