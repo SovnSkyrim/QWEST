@@ -1,3 +1,7 @@
+## 1.0.1 Kid Facegen
+
+Fixes the Black faces on childrens, Nothing else. Silent update.
+
 
 ## 1.0: Initial Release
 
