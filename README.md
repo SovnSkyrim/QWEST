@@ -42,7 +42,7 @@ If you can run vanilla Skyrim, you should be able to run this.
 
 It is a fork of the amazing SME/FT list; if you want to build your own list check it out [here](https://github.com/EzioTheDeadPoet/SME-FT-)!
 
-The name and picture are a reference to the amazing and wholesome webcomic Quest Sprout comic available on [swordscomic.com](https://swordscomic.com), their official Twitter is [here](https://twitter.com/swordscomic).
+The name and picture are a reference to the amazing and wholesome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com). Their official Twitter is [here](https://twitter.com/swordscomic).
 
 ## Installation
 ### Pre-Installation
@@ -72,7 +72,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133)
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133).
 
 If you ever used Vortex to mod Skyrim SE, using the Shredder becomes a critically important step, as Vortex will conflict heavily with any Wabbajack installation, so backup your stuff or shred it.
 
@@ -221,22 +221,22 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### Follower Framework
 - System :
-  - Load From File 
+  - Load From File
+  
+#### Growl Werebeasts 
+- Features
+  - Invulnerable During Transformation: Enabled
+- If you want to be a Werebear instead:
+  - Immersion : Werebear : Enabled
   
 #### Immersive HUD
 - Activation
   - Compass Activation
     - Key press toggles : Enabled
 
-#### Growl Werebeasts 
-- Features
-  - Invulnerable During Transformation: Enabled
-- If you want to be a Werebear instead:
-  - Immersion : Werebear : Enabled
-
 #### Imperious Racials
-- Nothing is really important, you can toggle stuff depending on your Race tho!
-Reminder that you can't switch race/sex using Showracemenu because of such a mod!
+- Nothing is really important, you can toggle stuff depending on your Race though!
+Remember that you can't switch race/sex using Showracemenu because of such a mod!
 
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
