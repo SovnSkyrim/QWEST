@@ -128,11 +128,11 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Post-Installation
 
-#### Copy Game Folder Files
+## Copy Game Folder Files
 
 Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
 
-#### Graphical Settings
+## Graphical Settings
 
 On a Ryzen 5 2400G paired with a GTX 950 2GB VRAM and 24GB RAM (never used more than 14GB, so 8GB RAM should be fine, **WHEN** installed on an SSD, if you use an HDD 16GB RAM minimum is recommended):
 - BethINI(Low)(locked to 60 FPS):
@@ -149,7 +149,7 @@ On a Ryzen 5 2400G paired with a GTX 950 2GB VRAM and 24GB RAM (never used more 
   - And testing:
     - BethINI(Normal) -> BethINI(Poor) and stopping by the preset that has a playable framerate for you.
 
-#### Getting an ENB
+## Getting an ENB
 
 This list is aimed towards very low end PCs, but that doesn't mean ENB isn't an option.
 
