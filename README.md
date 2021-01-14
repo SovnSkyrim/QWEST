@@ -41,6 +41,8 @@ I chose mods that overhaul almost all of the vanilla quests, added some major mo
 
 If you can run vanilla Skyrim, you should be able to run this.
 
+If you have any questions regarding the list, you're free to ask in the main Wabbajack Discord or mine :[here](https://discord.gg/ZgjVrXp)
+
 It is a fork of the amazing SME/FT list; if you want to build your own list check it out [here](https://github.com/EzioTheDeadPoet/SME-FT-)!
 
 The name and picture are a reference to the amazing and wholesome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com). Their official Twitter is [here](https://twitter.com/swordscomic).
