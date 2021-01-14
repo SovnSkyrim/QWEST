@@ -37,7 +37,7 @@
 
 QWEST! was born after a few friends were talking about how some of their friends couldn't enjoy cool quests in modded Skyrim, even with Wabbajack, due to the hardware requirements. This list has very few graphical enhancements which can be removed if you find you're struggling to run it.
 
-I chose mods that overhaul almost all of the vanilla quests, added some major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth and the Forgotten city, and also overhauled the animations a bit. You'll also find new music, new armors and weapons that are linked to LotD and vanilla enhancing weathers and lighting.
+I chose mods that overhaul almost all of the vanilla quests, added some major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth and the Forgotten city, and also overhauled the animations a bit. You'll also find new music, new armors and weapons that are linked to LotD and vanilla enhancing weathers and lighting. You even have the choice between EnaiRim and SimonRim with the 2 available Profiles!
 
 If you can run vanilla Skyrim, you should be able to run this.
 
