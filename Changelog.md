@@ -1,6 +1,6 @@
 ## 1.0 Initial Official Release!
 
-**Released at**: `Unreleased`
+**Released at**: `14/01/2020`
 
 **Notes** : Not Savefile compatible. Thanks everyone for testing!
 
