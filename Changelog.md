@@ -1,4 +1,4 @@
-## 1.0 Initial Release!
+## 1.0 Initial Official Release!
 
 **Released at**: `Unreleased`
 
