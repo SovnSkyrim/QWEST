@@ -189,6 +189,11 @@ You can look them up here: [EnaiRim](https://www.nexusmods.com/skyrimspecialedit
 
 To change the profile, there's a dropdown menu on the top right of MO2, the default profile is EnaiRim, so only change if you want the SimonRim one.
 
+You can also notice 2 unticked mods: 
+- SkyHUD - Oblivion
+- Unequip Quiver SE
+You can turn them on or off at anytime, and it does not void Rule 11, it's purely cosmetic.
+
 ## How to start up QWEST!
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
