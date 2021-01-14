@@ -179,6 +179,13 @@ Now we'll go back to the presets downloaded
 - Press home again to close the window.
 Know that you can switch any ini at anytime during your gameplay, so if you want to compare between the 2 that I recommend, you can totally do that in game.
 
+## Profiles 
+
+QWEST! has 2 profiles, one with EnaiRim, one with SimonRim. The main difference is that EnaiRim is kinda unbalanced and very strong while SimonRim is kinda like what vanilla Skyrim should've been.
+You can look them up here: [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) and [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746)
+
+To change the profile, there's a dropdown menu on the top right of MO2, the default profile is EnaiRim, so only change if you want the SimonRim one.
+
 ## How to start up QWEST!
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
