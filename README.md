@@ -18,6 +18,7 @@
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Graphical Settings](#graphical-settings)
     - [Getting an ENB](#getting-an-enb)
+    - [Profiles](#Profiles)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [How to start playing](#How-to-start-playing)
