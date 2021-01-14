@@ -237,12 +237,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### Follower Framework
 - System :
   - Load From File
-    
-#### Immersive HUD
-- Activation
-  - Compass Activation
-    - Key press toggles : Enabled
-  
+
 #### Growl Werebeasts 
 - Features
   - Invulnerable During Transformation: Enabled
