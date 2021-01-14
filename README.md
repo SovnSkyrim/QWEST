@@ -76,7 +76,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 If you ever used Vortex to mod Skyrim SE, using the Shredder becomes a critically important step, as Vortex will conflict heavily with any Wabbajack installation, so backup your stuff or shred it.
 
-#### Start Skyrim
+## Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
 
@@ -89,7 +89,7 @@ Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
 
-#### Preparations
+## Preparations
 
 Grab the .Wabbajack from the #links channel in my discord. If you dont have it here's a link: https://discord.gg/ZgjVrXp
 
@@ -97,7 +97,7 @@ Download the release to a _working folder_. This folder **must not** be in a _co
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
-#### Downloading and Installing
+## Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
@@ -110,7 +110,7 @@ The download and installation process can take a very long time depending on you
 7. Click the Go/Begin button.
 8. Wait for Wabbajack to finish.
 
-##### Problems with Wabbajack
+### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
 
