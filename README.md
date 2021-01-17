@@ -287,9 +287,9 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
    - A Keybinding example would be:
       - Vanilla Sneak key within Options: C
       - Sneak key within TUDM's MCM: Left Control
-  Now your character will roll/sidestep with C and Sneak with Left Control
-  I also would recommend to use sidestep (personal preference)
-   Please Note: 
+  - Now your character will roll/sidestep with C and Sneak with Left Control
+  - I also would recommend to use sidestep (personal preference)
+  - Please Note: 
     - You cannot dodge in the Starting Cell, you need to choose a path first.
     - The first time you'll dodge, you'll be stuck in a weird position in the air, Press G (or your dodge swap key) 2 times to be un stuck.
 
