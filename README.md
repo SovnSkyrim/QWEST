@@ -131,7 +131,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Copy Game Folder Files
 
-Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+Copy the all of the files from the `QWEST!/Game Folder Files` directory into your game folder.
 
 ## Graphical Settings
 
