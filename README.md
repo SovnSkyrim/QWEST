@@ -146,7 +146,7 @@ On a Ryzen 5 2400G paired with a GTX 950 2GB VRAM and 24GB RAM (never used more 
 
 - If you have 8GB RAM and **NO SSD** or if it still has frame drops, then I recommend:
   - Disabling:
-    - The following mods in MO2 : [Project Clarity](http://prntscr.com/wchkqq)
+    - The following mods in MO2 : [Stuff below the Separator](http://prntscr.com/x2p70m)
   - And testing:
     - BethINI(Normal) -> BethINI(Poor) and stopping by the preset that has a playable framerate for you.
 
