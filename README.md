@@ -284,15 +284,14 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
     
 #### The Ultimate Dodge Mod  
  - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key. This step is very important
- A Keybinding example would be:
- - Vanilla Sneak key within Options: C
- - Sneak key within TUDM's MCM: Left Control
-Now your character will roll/sidestep with C and Sneak with Left Control
-I also would recommend to use sidestep (personal preference)
-
-Please Note: 
-- You cannot dodge in the Starting Cell, you need to choose a path first.
-- The first time you'll dodge, you'll be stuck in a weird position in the air, Press G (or your dodge swap key) 2 times to be un stuck.
+   - A Keybinding example would be:
+      - Vanilla Sneak key within Options: C
+      - Sneak key within TUDM's MCM: Left Control
+  Now your character will roll/sidestep with C and Sneak with Left Control
+  I also would recommend to use sidestep (personal preference)
+   Please Note: 
+    - You cannot dodge in the Starting Cell, you need to choose a path first.
+    - The first time you'll dodge, you'll be stuck in a weird position in the air, Press G (or your dodge swap key) 2 times to be un stuck.
 
 
 - Npc Settings :
