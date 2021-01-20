@@ -19,11 +19,11 @@ Added:
     - Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt And Blood
     - Dirt and Blood - Keep It Clean Patch
     - Tentapalooza for Campfire
-    - Dear Diary
-    - Wood and Paper - SkyUI - Dear Diary Skin
     - Shoulderpacks
 - EnaiRim Profile Specific:
     - Andromeda - Unique Standing Stones of Skyrim (as it should've from the get go)
+- Dear Diary
+- Wood and Paper - SkyUI - Dear Diary Skin
 - Project Clarity: Architecture
 - A Quality World Map 
 - Extra Drawing Animations
