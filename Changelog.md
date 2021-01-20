@@ -1,4 +1,4 @@
-## 1.1 Initial Official Release!
+## 1.1 Animation, Survival and Bugfixes
 
 **Released at**: `Unreleased`
 
