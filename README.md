@@ -232,6 +232,16 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Enable Weapons : Enabled
   - Enable Misc. Item Display : Disabled
 
+#### Campfire (Survival)
+- Gameplay
+  - Hotkeys
+    - Set your Hotkeys however you want
+    - I go by :
+    - Create item : C
+    - Build Campfire : B
+    - Harvest wood : H
+    - Instincts : Nothing
+
 #### Follower Framework
 - System :
   - Load From File
@@ -281,6 +291,14 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
 - Presets
   - Load Preset
     There are 2 presets available for your to use, I personally prefer the Modern one but some prefer EasyEase's, try both and see which you prefer!
+    
+#### SunHelm
+- General Settings
+  - SunHelm Suvival : Enabled (close MCMs and wait a bit in game)
+- It is a fully customizable mod so if something bothers you in game, you can go back to this MCM and tweak it.
+    
+#### Tentapalooza
+- Set all tents in all tabs as "Rain and Snow" instead of "No Protection"
     
 #### The Ultimate Dodge Mod  
  - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key. This step is very important
