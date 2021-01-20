@@ -6,7 +6,6 @@
 
 Added:
 - Gamepad Support Integrated
-
 - Survival Mods (toggleable, enabled by default on both profile, it's all or nothing when using those.)
     - Campfire - Complete Camping System (Supports Skyrim VR)
     - Campfire - Unofficial SSE Update
@@ -23,10 +22,8 @@ Added:
     - Dear Diary
     - Wood and Paper - SkyUI - Dear Diary Skin
     - Shoulderpacks
-
 - EnaiRim Profile Specific:
     - Andromeda - Unique Standing Stones of Skyrim (as it should've from the get go)
-
 - Project Clarity: Architecture
 - A Quality World Map 
 - Extra Drawing Animations
