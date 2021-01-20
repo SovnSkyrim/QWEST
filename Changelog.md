@@ -1,3 +1,61 @@
+## 1.1 Initial Official Release!
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile compatible. Have a read at the readme, lots of stuff changed
+
+Added:
+- Gamepad Support Integrated
+
+- Survival Mods (toggleable, enabled by default on both profile, it's all or nothing when using those.)
+    - Campfire - Complete Camping System (Supports Skyrim VR)
+    - Campfire - Unofficial SSE Update
+    - The Frozen North - Minimalistic survival overhaul
+    - The Frozen North - Percentage Damage
+    - SunHelm Survival
+    - SunHelm Survival - Compatibility Patches
+    - Keep It Clean - A Bathing mod
+    - Dirt and Blood - Dynamic Visual Effects
+    - Dirt and Blood HD Retexture
+    - Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt And Blood
+    - Dirt and Blood - Keep It Clean Patch
+    - Tentapalooza for Campfire
+    - Dear Diary
+    - Wood and Paper - SkyUI - Dear Diary Skin
+    - Shoulderpacks
+
+- EnaiRim Profile Specific:
+    - Andromeda - Unique Standing Stones of Skyrim (as it should've from the get go)
+
+- Project Clarity: Architecture
+- A Quality World Map 
+- Extra Drawing Animations
+- Legacy of the Dragonborn Generic Tourists - Alternative Relic Condition and Named NPCs
+- Additional Dev Aveza locations for Legacy of the Dragonborn
+- Atronach Forge Give Conjuration Skill Up
+- Spider Crafting Give Enchanting Skill Up
+- Staves Give XP
+- Interesting NPCs - Imperious Patch (that I forgot sorry)
+- RUSTIC CLOTHING
+- HMB II - Vanilla Body with UNP Textures
+- Cuyi's Bosmeri Antlers 
+- Smaller Vanilla Cursors
+- Dynamic Animation Replacer
+- cookeh's conditional and random animations
+- DAR - Dynamic Swimming
+- DAR - Modesty - Cover Yourself
+- Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves
+- Jarl Sitting Animation Replacer - DAR
+- Jump Behavior Overhaul SE
+- Movement Behavior Overhaul SE
+- Smooth Random Blocking Animation
+- Equipment Durability System
+- Serio's Cycle Hotkeys
+- Bright Snow Fix for ENB
+- Improved Clouds Mesh
+- Improved Atmosphere Mesh
+- Dynamic Volumetric Lighting and Sun Shadows
+
 ## 1.0 Initial Official Release!
 
 **Released at**: `14/01/2020`
