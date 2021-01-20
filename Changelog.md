@@ -1,6 +1,6 @@
 ## 1.1 Animation, Survival and Bugfixes
 
-**Released at**: `Unreleased`
+**Released at**: `20/01/2021`
 
 **Notes** : Not Savefile compatible. Have a read at the readme, lots of stuff changed
 
