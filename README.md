@@ -187,14 +187,27 @@ You can look them up here: [EnaiRim](https://www.nexusmods.com/skyrimspecialedit
 
 To change the profile, there's a dropdown menu on the top right of MO2, the default profile is EnaiRim, so only change if you want the SimonRim one.
 
-You can also notice 2 unticked mods: 
-- SkyHUD - Oblivion
-- Unequip Quiver SE
-You can turn them on or off at anytime, and it does not void Rule 11, it's purely cosmetic.
+## Personalization
+
+On top of the 2 Profiles available for the core gameplay mods, QWEST! comes with some Quality of Life changes and gameplay mods that some may or may not enjoy. All of those are supported as written here, other modifications fall under Rule 11: No support will be given if modifications happen.
+
+First possible modifications is the [Survival Setup](http://prntscr.com/xb9grg). It is enabled by default, but if you do not wish to use those mods, simply untick ALL OF THEM. No support will be provided if you keep some mods on and others disable. ITS ALL OR NOTHING.
+
+Second modification: [Paper Ui](http://prntscr.com/xb9im1). It is enabled by default but you can disable one or both of those depending on what you want.
+
+Third modification: [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by default, it'll make your Player Character unequip it's ammunition everytime you go out of combat if turned on.
+
+Fourth modification: [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png)
+
+Fifth and last modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in the Discord if you want the details on how to use a controller with QWEST!
 
 ## How to start up QWEST!
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+
+## Personalization
+
+QWEST! Come
 
 ## Updating
 
@@ -292,12 +305,12 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
   - Load Preset
     There are 2 presets available for your to use, I personally prefer the Modern one but some prefer EasyEase's, try both and see which you prefer!
     
-#### SunHelm
+#### SunHelm (Survival)
 - General Settings
   - SunHelm Suvival : Enabled (close MCMs and wait a bit in game)
 - It is a fully customizable mod so if something bothers you in game, you can go back to this MCM and tweak it.
     
-#### Tentapalooza
+#### Tentapalooza (Survival)
 - Set all tents in all tabs as "Rain and Snow" instead of "No Protection"
     
 #### The Ultimate Dodge Mod  
