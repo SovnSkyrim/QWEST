@@ -52,26 +52,26 @@ The name and picture are a reference to the amazing and wholesome Quest Sprout c
 Depending on the choice of profile, you will have a very different approach to the list: Enairim will make you and your enemies stronger overall while Simonrim will remain simple and closer to Vanilla.
 If you're unfamiliar with those overhauls, you should read their modpages as their changes are at the base of everything.
 
-- Survival
+- Survival -
 If you chose to not make any modifications and go with the survival mods, you will have way more micromanagement to do.
 First you'll need to eat and sleep to survive, second you'll need to survive the cold or your stamina will drain and you'll die, third you'll need to clean yourself or you'll have very bad prices and everyone will smell you when trying to sneak.
 You should definitely check the Skill Trees within your campfire on top of the vanilla skill trees, your arrows will have a weight and you will need to sleep to level up your Character level.
 Horses have their own inventory with Saddlebags now, and you have your little light on your belt for the darkest caves.
 If you're unfamiliar with those mods, have a read on [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667), [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068), [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/40746), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) and [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).
 
-- Added Quests
+- Added Quests -
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980) is the core spine of the list but many new lands aren't integrated with it, I'm especially thinking of [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) or [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180/?).
 [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194), [Skyrim Sewers 4](https://www.nexusmods.com/skyrimspecialedition/mods/9320) and [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) are in and provide artifacts aswell as many new stuff to do, on top of those there is still The [Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168), [G.R.I.M](https://www.nexusmods.com/skyrimspecialedition/mods/41816), [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [Wyrmstooth](https://tes-mods.fandom.com/wiki/Wyrmstooth), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) or [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008).
 
-- Overhaul-ed Quests
+- Overhaul-ed Quests -
 From [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550) to [Save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681) with [Thieves' Guild Night On the Town](https://www.nexusmods.com/skyrimspecialedition/mods/42069) or [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/26788), many quests are changed.
 You should know that the [Thieves Guild have Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) now, and you can [Renounce the Daedra if you will](https://www.nexusmods.com/skyrimspecialedition/mods/36100), while [Vampires can skip Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/25783).
 
-- Followers
+- Followers -
 Interesting NPCs will provide a nice amount of high quality followers but there is still the unforgettable Inigo, Lucien or Auri. 
 There is also Serana Dialogue Edit and Add-on for all the love for the goth cutie.
 
-- Loot, Artefacts and Leveling
+- Loot, Artefacts and Leveling -
 Reliquary of Myth overhauls all vanilla Artifacts and Dynamic Dungeon Loot coupled with Lock Related Loot makes sure you do not find spider webs in the dungeon chests.
 Experience handles levels, quests will level your character levels, skills will not level it anymore, but they'll level independently. Also there's a skill cap to avoid powerleveling, it is determined by the Player Character level.
 
