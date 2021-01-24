@@ -165,6 +165,9 @@ Copy the all of the files from the `QWEST!/Game Folder Files` directory into you
 ## Graphical Settings
 
 On a Ryzen 5 2400G paired with a GTX 950 2GB VRAM and 24GB RAM (never used more than 14GB, so 8GB RAM should be fine, **WHEN** installed on an SSD, if you use an HDD 16GB RAM minimum is recommended):
+
+Make sure that Bethini is configured to the profile folder you will use in MO2 and not your vanilla INIs or any change will be rendered worthless!
+
 - BethINI(Low)(locked to 60 FPS):
   - Everywhere(where it got tested): 60FPS
 
