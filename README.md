@@ -56,8 +56,9 @@ If you're unfamiliar with those overhauls, you should read their modpages as the
 If you chose to not make any modifications and go with the survival mods, you will have way more micromanagement to do.
 First you'll need to eat and sleep to survive, second you'll need to survive the cold or your stamina will drain and you'll die, third you'll need to clean yourself or you'll have very bad prices and everyone will smell you when trying to sneak.
 You should definitely check the Skill Trees within your campfire on top of the vanilla skill trees, your arrows will have a weight and you will need to sleep to level up your Character level.
-Horses have their own inventory with Saddlebags now, and you have your little light on your belt for the darkest caves.
+Fast travel is disabled in multiple of these mods so there's no easy way to reactivate it.
 If you're unfamiliar with those mods, have a read on [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667), [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068), [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/40746), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) and [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).
+Lastly, all profiles have horses with their own inventory due to [Saddlebags](https://www.nexusmods.com/skyrim/mods/91395), and a [little light on your belt for the darkest caves](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=posts).
 
 - Added Quests -
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980) is the core spine of the list but many new lands aren't integrated with it, I'm especially thinking of [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) or [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180/?).
@@ -68,12 +69,12 @@ From [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19
 You should know that the [Thieves Guild have Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) now, and you can [Renounce the Daedra if you will](https://www.nexusmods.com/skyrimspecialedition/mods/36100), while [Vampires can skip Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/25783).
 
 - Followers -
-Interesting NPCs will provide a nice amount of high quality followers but there is still the unforgettable Inigo, Lucien or Auri. 
-There is also Serana Dialogue Edit and Add-on for all the love for the goth cutie.
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194#) will provide a nice amount of high quality followers but there is still the unforgettable [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) or [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)). 
+There is also Serana [Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/32161) for all the love for the goth cutie.
 
 - Loot, Artefacts and Leveling -
-Reliquary of Myth overhauls all vanilla Artifacts and Dynamic Dungeon Loot coupled with Lock Related Loot makes sure you do not find spider webs in the dungeon chests.
-Experience handles levels, quests will level your character levels, skills will not level it anymore, but they'll level independently. Also there's a skill cap to avoid powerleveling, it is determined by the Player Character level.
+[Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) overhauls all vanilla Artifacts and [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308) coupled with [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342) makes sure you do not find spider webs in the dungeon chests.
+[Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) handles levels, quests will level your character levels, skills will not level it anymore, but they'll level independently. Also there's a skill cap to avoid powerleveling, it is determined by the Player Character level, you really should check the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/17751)!
 
 ## Installation
 ### Pre-Installation
