@@ -1,6 +1,6 @@
 ## 1.1.1 | Manbeast, Map and Fixes
 
-**Released at**: `Unreleased`
+**Released at**: `26/01/2021`
 
 **Notes** : Not Savefile compatible with SimonRim Setups, but should be for EnaiRim Savefiles.
 
