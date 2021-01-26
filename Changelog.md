@@ -1,4 +1,23 @@
-## 1.1 Animation, Survival and Bugfixes
+## 1.1.1 | Manbeast, Map and Fixes
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile compatible with SimonRim Setups, but should be for EnaiRim Savefiles.
+
+Added:
+- SimonRim Profile Specific:
+    - Manbeast - A Werewolf Overhaul
+- Cathedral - Water
+
+Removed: 
+- SimonRim Profile Specific:
+    - Growl - Werebeasts of Skyrim
+    
+Fixed:
+- Map Problems
+- Experience should be finally fixed
+
+## 1.1 | Animation, Survival and Bugfixes
 
 **Released at**: `20/01/2021`
 
@@ -53,7 +72,7 @@ Added:
 - Improved Atmosphere Mesh
 - Dynamic Volumetric Lighting and Sun Shadows
 
-## 1.0 Initial Official Release!
+## 1.0 | Initial Official Release!
 
 **Released at**: `14/01/2020`
 
