@@ -18,6 +18,11 @@ Fixed:
 - Experience should be finally fixed
 - a bunch of small errors
 
+Updated:
+- DynDOLOD
+- SSE Engine Fixes
+- Regenerated Synthesis/Occlusion/TexGEN and DynDOLOD Setups
+
 ## 1.1 | Animation, Survival and Bugfixes
 
 **Released at**: `20/01/2021`
