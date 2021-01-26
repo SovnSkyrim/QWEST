@@ -16,6 +16,7 @@ Removed:
 Fixed:
 - Map Problems
 - Experience should be finally fixed
+- a bunch of small errors
 
 ## 1.1 | Animation, Survival and Bugfixes
 
