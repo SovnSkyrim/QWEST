@@ -223,7 +223,7 @@ To change the profile, there's a dropdown menu on the top right of MO2, the defa
 
 On top of the 2 Profiles available for the core gameplay mods, QWEST! comes with some Quality of Life changes and gameplay mods that some may or may not enjoy. All of those are supported as written here, other modifications fall under Rule 11: No support will be given if modifications happen.
 
-First possible modifications is the [Survival Setup](http://prntscr.com/xnxial). It is enabled by default, but if you do not wish to use those mods, simply untick ALL OF THEM. No support will be provided if you keep some mods on and others disable. ITS ALL OR NOTHING.
+First possible modifications is the [Survival Setup](http://prntscr.com/xnxial). It is enabled by default, but if you do not wish to use those mods, simply untick ALL OF THEM. No support will be provided if you keep some mods on and others disabled. ITS ALL OR NOTHING.
 
 Second modification: [Paper Ui](http://prntscr.com/xb9im1). It is enabled by default but you can disable one or both of those depending on what you want.
 
