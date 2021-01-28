@@ -250,6 +250,8 @@ Updating is like installing. You only have to make sure that you select the same
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
+MCMs are not automated due to a personal choice: There are many, many important tweaks, informations, and usefull stuff in them that can solve problems or make your experience better. Those are my own and what I recommend for the least amount of problems and a balanced experience.
+
 #### Game Difficulty
 - The difficulty in this game is very vanilla like but still generally harder, if you're used to Legendary you will have a hard time. I suggest playing in Expert or Master and if found too easy, crank it up.
 
