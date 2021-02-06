@@ -263,6 +263,8 @@ MCMs are not automated due to a personal choice: There are many, many important 
 #### AGO
 - Settings
   - Enable/Disable
+    - Bow Camera : Disabled
+    - Bow Crosshair : Disabled
     - Arrow Wounds (Player) : Disabled
     - Arrow Wounds (NPCs) : Disabled
     - Persistant Arrows : Disabled
