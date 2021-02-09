@@ -56,7 +56,7 @@ If you're unfamiliar with those overhauls, you should read their modpages as the
 If you chose to not make any modifications and go with the survival mods, you will have way more micromanagement to do.
 First you'll need to eat and sleep to survive, second you'll need to survive the cold or your stamina will drain and you'll die, third you'll need to clean yourself or you'll have very bad prices and everyone will smell you when trying to sneak.
 You should definitely check the Skill Trees within your campfire on top of the vanilla skill trees, your arrows will have a weight and you will need to sleep to level up your Character level.
-Fast travel is disabled in multiple of these mods so there's no easy way to reactivate it.
+Fast travel is disabled in multiple of these mods so there's no easy way to reactivate it at all times but there's an alternative: [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793).
 If you're unfamiliar with those mods, have a read on [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667), [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068), [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/40746), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) and [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).
 Lastly, all profiles have horses with their own inventory due to [Saddlebags](https://www.nexusmods.com/skyrim/mods/91395), and a [little light on your belt for the darkest caves](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=posts).
 
