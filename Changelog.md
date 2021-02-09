@@ -5,12 +5,10 @@
 **Notes** : Not Savefile compatible.
 
 Added
-
 - EnaiRim Profile Specific:
     - Improved NPC Encounter Zones (SkyRem - Inez) - Instead of Arena 
 - Survival Addons Specific:
     - Horizon Zero Dawn Fast Travel
-
 - Moonpath to Elsweyr SSE
 - Unofficial Moonpath to Elsweyr Patch
 - Moonpath to Elsweyr Sky and Lightning fix
