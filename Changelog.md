@@ -1,3 +1,57 @@
+## 1.2 | Fixes and more quests!
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile compatible.
+
+Added
+
+- EnaiRim Profile Specific:
+    - Improved NPC Encounter Zones (SkyRem - Inez) - Instead of Arena 
+- Survival Addons Specific:
+    - Horizon Zero Dawn Fast Travel
+
+- Moonpath to Elsweyr SSE
+- Unofficial Moonpath to Elsweyr Patch
+- Moonpath to Elsweyr Sky and Lightning fix
+- The Gray Cowl of Nocturnal SE
+- Gray Cowl of Nocturnal Alikr Flora Overhaul SE
+- The Gray Cowl of Nocturnal SE - Addons and Patches
+- Revenants of the Forbidden Order
+- Agent of Righteous Might - SSE
+- Aetherium Armor and Weapons Compilation by lautasantenni 
+- Artifacts - The Ice Blade of the Monarch [SSE]
+- Extended Encounters
+- Sneak Tools SE Edition
+- Unique Items Tweaks - Improved Miscellaneous Artifacts
+- Hoth
+- CFTO Carriage for Helgen Reborn
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold
+- Werewolf Transformation Timer - SkyUI Addon
+- First Person Combat Animations Overhaul 2.0 -SIZE MATTERS
+- Smooth Combat - Non Combat Animation System
+- Conditional Expressions - Subtle Face Animations
+- VIGILANT - Covered Female Robes
+- Modern Toggle Walk-Run Fix SE
+- To Your Face SE and VR
+- Khajiits Steal Too - Caravan Fence Option
+- Alik'r Warriors Aren't Welcome
+- Windhelm Segregation - Stay at New Gnisis Cornerclub
+- Werewolf Claws Affect Spider Webs
+- Poisoning Extended SE
+- Suspicious City Guards
+- Faster Mining Plus SE
+- Vampire Nightmares
+
+Removed 
+- EVG Animation Variance (tired of Skeleton crashes)
+
+Fixed
+- No Mysticism.ini for EEOS
+- Missing texture for Dark Brotherhood Armor
+- CTD when trying to load Auri's Head Part
+
+
 ## 1.1.1 | Manbeast, Map and Fixes
 
 **Released at**: `26/01/2021`
