@@ -223,7 +223,9 @@ To change the profile, there's a dropdown menu on the top right of MO2, the defa
 
 On top of the 2 Profiles available for the core gameplay mods, QWEST! comes with some Quality of Life changes and gameplay mods that some may or may not enjoy. All of those are supported as written here, other modifications fall under Rule 11: No support will be given if modifications happen.
 
-First possible modifications is the [Survival Setup](http://prntscr.com/xnxial). It is enabled by default, but if you do not wish to use those mods, simply untick ALL OF THEM. No support will be provided if you keep some mods on and others disabled. ITS ALL OR NOTHING.
+First possible modifications is the [Survival Setup](http://prntscr.com/xnxial). It is enabled by default as it has to be patched by Synthesis to work correctly. But if you follow carefully what I'm about to write, you will be able to remove it entirely. Yes entirely as I do not support removing only hypothermia or cleaning and washing while keeping food and sleep needs. There are 2 steps:
+- Untick all the mods under ``Survival Stuff`` ( [those](http://prntscr.com/yv90oj) ) 
+- Open Synthesis by clicking [the mushroom icon on top right](https://prnt.sc/yv11sk), a window shall appear, it is loading the patchers, simply wait until [the little arrow on bottom left appears](https://prnt.sc/yv10a0), once here, click it. Synthesis will patch stuff, you'll know it's finished when the window looks like [this](https://prnt.sc/yv18gd), at that point you can close it and it's done!
 
 Second modification: [Paper Ui](http://prntscr.com/xb9im1). It is enabled by default but you can disable one or both of those depending on what you want.
 
