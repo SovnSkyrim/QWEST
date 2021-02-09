@@ -32,6 +32,7 @@ Added
 - VIGILANT - Covered Female Robes
 - Modern Toggle Walk-Run Fix SE
 - To Your Face SE and VR
+- I'm Walkin' Here
 - Khajiits Steal Too - Caravan Fence Option
 - Alik'r Warriors Aren't Welcome
 - Windhelm Segregation - Stay at New Gnisis Cornerclub
