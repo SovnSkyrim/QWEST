@@ -1,3 +1,20 @@
+## 1.2.1 | Updates and Auri
+
+**Released at**: `Unreleased`
+
+**Notes** : Savefile compatible.
+
+Updated:
+- Arena
+- Blade and Blunt
+- Aetherius
+- Mysticism
+- Adamant
+- Dirt and Blood
+
+Fixed:
+- Auri not having correct face.
+
 ## 1.2 | Fixes and more quests!
 
 **Released at**: `10/02/2020`
