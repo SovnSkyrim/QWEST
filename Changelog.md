@@ -1,10 +1,11 @@
-## 1.2.1 | Updates and Auri
+## 1.2.1 | Updates and Small fixes
 
 **Released at**: `Unreleased`
 
 **Notes** : Savefile compatible.
 
 Updated:
+- Serana Dialogue Add-on
 - Arena
 - Blade and Blunt
 - Aetherius
@@ -14,6 +15,7 @@ Updated:
 
 Fixed:
 - Auri not having correct face.
+- Multiple MO2 errors (very minor)
 
 ## 1.2 | Fixes and more quests!
 
