@@ -1,6 +1,6 @@
 ## 1.2 | Fixes and more quests!
 
-**Released at**: `Unreleased`
+**Released at**: `10/02/2020`
 
 **Notes** : Not Savefile compatible.
 
