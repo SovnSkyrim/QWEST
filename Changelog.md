@@ -1,6 +1,6 @@
 ## 1.2.1 | Updates and Small fixes
 
-**Released at**: `Unreleased`
+**Released at**: `10/02/2020`
 
 **Notes** : Savefile compatible.
 
