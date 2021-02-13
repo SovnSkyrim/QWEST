@@ -310,6 +310,9 @@ MCMs are not automated due to a personal choice: There are many, many important 
 - Nothing is really important, you can toggle stuff depending on your Race though!
 Remember that you can't switch race/sex using Showracemenu because of such a mod!
 
+#### Keep It Clean (Survival)
+- MAKE SURE THE MOD IS DEACTIVATED, WE DO NOT USE IT's SYSTEMS, IT'S ONLY HERE FOR THE SHOWERS IN INNS AND MORE SOAPS.
+
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
   - Carriages: Enabled
