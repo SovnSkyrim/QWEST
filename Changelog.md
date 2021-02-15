@@ -9,6 +9,7 @@ Added:
 
 Updated: 
 - Smooth Combat - Non Combat Animation System
+- Blade and Blunt
 
 Fixed: 
 - the free stuff in Inigo's cell + the absurdly high amount of arrows given to the player
