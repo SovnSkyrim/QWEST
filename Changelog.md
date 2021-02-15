@@ -14,6 +14,10 @@ Fixed:
 - the free stuff in Inigo's cell + the absurdly high amount of arrows given to the player
 - Auri's perks, she'll be getting them through EEOS
 
+Removed (due to being hidden and merged into another mod):
+- Improved Atmosphere Mesh
+- Improved Clouds Mesh for Improved Atmosphere Mesh
+
 ## 1.2.1 | Updates and Small fixes
 
 **Released at**: `10/02/2020`
