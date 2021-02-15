@@ -217,7 +217,7 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 QWEST! has 2 profiles, one with EnaiRim, one with SimonRim. The main difference is that EnaiRim is kinda unbalanced and very strong while SimonRim is kinda like what vanilla Skyrim should've been.
 You can look them up here: [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) and [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746)
 
-To change the profile, there's a dropdown menu on the top right of MO2, the default profile is EnaiRim, so only change if you want the SimonRim one.
+To change the profile, there's a dropdown menu on the top left of MO2, the default profile is EnaiRim, so only change if you want the SimonRim one.
 
 ## Personalization
 
