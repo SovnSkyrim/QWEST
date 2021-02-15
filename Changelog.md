@@ -1,3 +1,19 @@
+## 1.2.2 | Follower fixing + Hidden Mods
+
+**Released at**: `Unreleased`
+
+**Notes** : Savefile compatible.
+
+Added:
+- Lucien - Moonpath to Elsweyr Patch
+
+Updated: 
+- Smooth Combat - Non Combat Animation System
+
+Fixed: 
+- the free stuff in Inigo's cell + the absurdly high amount of arrows given to the player
+- Auri's perks, she'll be getting them through EEOS
+
 ## 1.2.1 | Updates and Small fixes
 
 **Released at**: `10/02/2020`
