@@ -9,6 +9,7 @@ Added:
 
 Updated: 
 - Smooth Combat - Non Combat Animation System
+- Cuyi's Bosmeri Antlers
 - Blade and Blunt
 
 Fixed: 
