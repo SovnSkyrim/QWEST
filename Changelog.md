@@ -1,6 +1,16 @@
-## 1.2.2 | Follower fixing + Hidden Mods
+## 1.2.3 | Synthesis
 
 **Released at**: `Unreleased`
+
+**Notes** : Savefile compatible.
+
+Updated:
+- No more Synthesis to take out Survival Mods
+- Synthesis
+
+## 1.2.2 | Follower fixing + Hidden Mods
+
+**Released at**: `15/02/2021`
 
 **Notes** : Savefile compatible.
 
