@@ -1,6 +1,6 @@
 ## 1.2.3 | Synthesis
 
-**Released at**: `Unreleased`
+**Released at**: `16/02/2021`
 
 **Notes** : Savefile compatible.
 
