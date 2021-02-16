@@ -7,6 +7,7 @@
 Updated:
 - No more Synthesis to take out Survival Mods
 - Synthesis
+- Serana Dialogue Add-on
 
 ## 1.2.2 | Follower fixing + Hidden Mods
 
