@@ -338,13 +338,16 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
   - Crafting Menu : Disabled
 
 #### SmoothCam  -for 3rd person players-
+- Compatibility 
+  - Archery Gameplay Overhaul: Enabled
 - Presets
   - Load Preset
     There are 2 presets available for your to use, I personally prefer the Modern one but some prefer EasyEase's, try both and see which you prefer!
     
 #### SunHelm (Survival)
 - General Settings
-  - SunHelm Suvival : Enabled (close MCMs and wait a bit in game)
+  - General
+    - SunHelm Suvival : Enabled (close MCMs and wait a bit in game)
 - It is a fully customizable mod so if something bothers you in game, you can go back to this MCM and tweak it.
     
 #### Tentapalooza (Survival)
