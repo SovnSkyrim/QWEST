@@ -127,6 +127,8 @@ Download the release to a _working folder_. This folder **must not** be in a _co
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
+Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
+
 ## Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
