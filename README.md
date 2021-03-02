@@ -295,7 +295,7 @@ MCMs are not automated due to a personal choice: There are many, many important 
 - System :
   - Load From File
 
-#### Growl Werebeasts 
+#### Growl Werebeasts (EnaiRim)
 - Features
   - Invulnerable During Transformation: Enabled
 - If you want to be a Werebear instead:
@@ -305,8 +305,8 @@ MCMs are not automated due to a personal choice: There are many, many important 
 - Activation
   - Compass Activation
     - Key press toggles : Enabled
-
-#### Imperious Racials
+ 
+#### Imperious Racials (EnaiRim)
 - Nothing is really important, you can toggle stuff depending on your Race though!
 Remember that you can't switch race/sex using Showracemenu because of such a mod!
 
@@ -385,7 +385,7 @@ Cycle through all the tabs
 #### VioLens
 - Load Preset
 
-#### Wildcat
+#### Wildcat (EnaiRim)
 - Disable Injuries: Enabled
 - Allow Wildcat to manage difficulty: Enabled
 
