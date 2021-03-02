@@ -356,7 +356,7 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
 - Set all tents in all tabs as "Rain and Snow" instead of "No Protection"
     
 #### The Ultimate Dodge Mod  
- - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key. This step is very important
+ - Here is where you configure which key will allow you to Sneak (or crouch) and which will allow you to Dodge. TUDM hijacks the vanilla sneak key to have no delay or script lag.
    - A Keybinding example would be:
       - Vanilla Sneak key within Options: C
       - Sneak key within TUDM's MCM: Left Control
