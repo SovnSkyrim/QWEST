@@ -7,6 +7,7 @@
 Added:
 - EnaiRim Profile Specific
     - Odin - Skyrim Magic Overhaul
+    - Odin - Summons Redone
 - Survival Profile Specific
     - Pumping Iron - Dynamic Muscle Growth
 - Serana Re-Imagined
