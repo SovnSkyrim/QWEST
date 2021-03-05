@@ -2,7 +2,7 @@
 
 **Released at**: `Unreleased`
 
-**Notes** : Not Savefile Compatible
+**Notes** : Not Savefile Compatible, the game is going to be way harder, looking way better, and you got a lot more diversity in what you'll encounter. According to my testers, the performance price for this update is 3FPS in the heaviest areas. 
 
 Added:
 - EnaiRim Profile Specific
