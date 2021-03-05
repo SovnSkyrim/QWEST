@@ -1,3 +1,162 @@
+## 2.0 | Complete Overhaul
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+- EnaiRim Profile Specific
+    - Odin - Skyrim Magic Overhaul
+- Serana Re-Imagined
+- Hood Plus Hair for Serana Re-Imagined
+- Beards of Power - Sons of Skyrim - Npc replacer
+- BeastHHBB - Beast Hair Horn Beard and Brow - Vanilla based character creation options and NPC replacer for Khajiit and Argonians
+- Lamae's Gaze
+- Vilja in Skyrim 
+- Konahrik's Accoutrements
+- New Beginnings - Live Another Life Extension SSE
+- Become a Bard (MCM Restored)
+- A lute from Witcher 3 - Become a Bard
+- Become a Bard - The Lutenist's Songbooks
+- Become a Bard - Lute Instrumental Songbook
+- Become a Bard - Caslyn's Songbooks
+- No Grassias - A Universal Grass Fix For Grass Mods
+- No Grass In Objects - And it's Grass Cache
+- Caliente's Beautiful Bodies Enhancer -CBBE-
+- Vitruvia - Skin texture overhaul for males
+- Enhanced Lights and FX
+- ELFX - Enhancer
+- Unofficial ELFX SMIM fps performance patch
+- ELFX Fixes
+- Enhanced Vanilla Trees 
+- 3D Trees and Plants
+- Realistic Water 2
+- Glorious Doors of Skyrim
+- Improved Closefaced Helmets
+- Open More Improved Closefaced Helmets - Dragonborn DLC
+- Genesis Surface Spawns - Encounters Levelled
+- Genesis Unleashed Levelled - Dungeon Spawns and Encounters and Treasure
+- Splendor - Dragon Variants SE
+- Diverse Dragons Collection SE (DDCse)
+- Briraka's Draugr Overhaul
+- Draugr Upgrades and Improvements
+- Solstheim Mudcrab Variant
+- Karstaag - The Frost King Reborn
+- Cannibal Draugr on Solstheim
+- Zim's Dragon Improvements
+- Zim's Dremora Improvements
+- OBIS SE - Organized Bandits In Skyrim Special Edition
+- OBIS Patrols
+- Bigger Bosses for Draugr Improvements and OBIS
+- Better Vampire NPCs 1.9 SE
+- SkyTEST - Realistic Animals and Predators SE
+- True Hunter
+- Quick Loot RE
+- Honed Metal - SSE
+- Dave's UFHD Mountains SE
+- RUSTIC DRAGONS - Special Edition
+- Alduin's Imprefvicticious and Chapper's Demonic Retexture mashup
+- Illustrious Whiterun SE
+- RUSTIC ARMOR and WEAPONS SE
+- aMidianBorn Book of Silence - LE Ported
+- Embers HD
+- Detailing the Eldrich - Higher-Res Riekling Architecture
+- Detailing the Eldrich - Higher-Res Apocrypha - Temple of Miraak - Black Books
+- Realistic HD Food Remastered
+- Windhelm Retexture
+- Glow Be Gone SKSE Updated
+- FleshFX
+- Deadly Spell Impact
+- Deadly Spell Impacts Transparency Fix for ENB
+- Thunderbolt - HD Lightning (Downscaled to vanilla res)
+- Inferno - Fire Effects Redux
+- Arctic - Frost Effects Redux
+- Metallurgy - Ingots Ore and Veins HD
+- RUSTIC ANIMATED POTIONS and POISONS
+- Less Ugly Tundragrass
+- Less ugly Solitude Catacombs Stone
+- No grass in caves
+- Majestic Landscapes
+- Bellyaches Animal and Creature Pack
+- LITTLE THINGS
+- Arvak Replace SE
+- ShadowmereReplace
+- Convenient Horses
+- SC - Horses
+- Skyrim Horses Renewal SSE (Animations Only)
+- Meeko Reborn
+- Vigilance Reborn
+- Mystic Condenser
+- Underwear for NPCs
+- Immersive College NPCs
+- Ask Innkeepers To Show Room SE
+- Somebody Else's Problem - Ignore the Forsworn Conspiracy
+- First Person Combat Animations Overhaul - Katanas patch for various mods
+- Smooth Magic Casting Animation
+- Smooth Shield Power Attack 1.0
+- Smooth Random Sprint Animation
+- Ride Sharing
+- Heartbreaker - A Killmove Mod
+- Sky Idles SE
+- Sacrilege - Vampires can now Regenerate in sunlight
+- Vigilant Armors and Weapons Retexture SE
+- Immersive Armors - Realistic Armors replace SE
+- Mfg Fix
+- Walk like a normal person
+- VIGILANT - Book Covers
+- Missives - Notes Retexture
+- Legacy of The Dragonborn museum dome improved
+- Legacy of the Dragonborn dome retexture
+- Bard Instrumentals Mostly - Sing Rarely
+- No Silly Physics Damage - Carts Pots Bones etc
+- Shor's Gate -Tsun Voice Rework- (Enigma Series C2)
+- Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)
+- Unfaithed -Miraak's Voice Rework-
+- The Last Vigil -Ebony Warrior Voice Rework-
+- Nordic Shouts -Enigma Series- SSE
+- Daedric Enigma -Daedric Princes Voice Rework- SSE
+- Enigma Series -All In One- SSE
+- Enigma Series Compatibility Patches (Wyrmstooth and VIGILANT)
+- Immersive Dragon Sounds -iDS- (Enigma Remaster)
+- Falmer Sounds - the Betrayal Legacy Edition
+- Bow Before The Dead - Draugr Sounds Legacy Edition
+
+Updated:
+- Enemy (R)Evolution of Skyrim
+- Serana Dialogue Add-on
+- VIGILANT SE to v162
+- VIGILANT SE Voiced Addon
+- Unslaad SE
+- Unslaad SE Voiced Addon
+- xLODGEN
+
+
+Removed:
+- Relighting Skyrim
+    - Using ELFX + Enhancer now
+- Moonpath to Elsweyr Altogether
+    - I couldn't start it as I was playing through the game, multiple unsolvable issues AND, everyone I asked disliked it and thought it was a nuisance to the obtention of the Dev Aveza.
+- Project Clarity: Architecture
+    - Alternative Found
+- Project Clarity: Effects 
+    - Alternative Found
+- DAR - Modesty - Cover Yourself 
+    - Alternative Found
+- Saddlebags
+    - Switched to Convenient Horses
+- Simple Horse
+    - Switched to Convenient Horses
+- Cathedral Water
+    - Switched to Realistic Water 2
+- Vampire Nightmares 
+    - Couldnt Make it work
+- Fixed Body Collision
+    - I hate taking damage from walking on corpses
+
+Adjusted:
+- VioLens MCM Settings
+- Experience's Ini
+
 ## 1.2.3 | Synthesis
 
 **Released at**: `16/02/2021`
