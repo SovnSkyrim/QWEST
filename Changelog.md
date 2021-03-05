@@ -7,6 +7,8 @@
 Added:
 - EnaiRim Profile Specific
     - Odin - Skyrim Magic Overhaul
+- Survival Profile Specific
+    - Pumping Iron - Dynamic Muscle Growth
 - Serana Re-Imagined
 - Hood Plus Hair for Serana Re-Imagined
 - Beards of Power - Sons of Skyrim - Npc replacer
