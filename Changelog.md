@@ -119,7 +119,7 @@ Added:
 - Enigma Series Compatibility Patches (Wyrmstooth and VIGILANT)
 - Immersive Dragon Sounds -iDS- (Enigma Remaster)
 - Falmer Sounds - the Betrayal Legacy Edition
-- Bow Before The Dead - Draugr Sounds Legacy Edition
+- Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER)
 
 Updated:
 - Enemy (R)Evolution of Skyrim
