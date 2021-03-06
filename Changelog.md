@@ -8,6 +8,7 @@ Added:
 - EnaiRim Profile Specific
     - Odin - Skyrim Magic Overhaul
     - Odin - Summons Redone
+    - Sacrilege - Vampires can now Regenerate in sunlight
 - Survival Profile Specific
     - Pumping Iron - Dynamic Muscle Growth
 - Serana Re-Imagined
@@ -101,7 +102,6 @@ Added:
 - Ride Sharing
 - Heartbreaker - A Killmove Mod
 - Sky Idles SE
-- Sacrilege - Vampires can now Regenerate in sunlight
 - Vigilant Armors and Weapons Retexture SE
 - Immersive Armors - Realistic Armors replace SE
 - Mfg Fix
