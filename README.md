@@ -58,7 +58,7 @@ First you'll need to eat and sleep to survive, second you'll need to survive the
 You should definitely check the Skill Trees within your campfire on top of the vanilla skill trees, your arrows will have a weight and you will need to sleep to level up your Character level.
 Fast travel is disabled in multiple of these mods so there's no easy way to reactivate it at all times but there's an alternative: [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793).
 If you're unfamiliar with those mods, have a read on [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667), [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068), [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/40746), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) and [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).
-Lastly, all profiles have horses with their own inventory due to [Saddlebags](https://www.nexusmods.com/skyrim/mods/91395), and a [little light on your belt for the darkest caves](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=posts).
+Lastly, all profiles have way better horse management thanks to [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519)!
 
 - Added Quests -
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980) is the core spine of the list but many new lands aren't integrated with it, I'm especially thinking of [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) or [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180/?).
