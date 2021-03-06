@@ -69,12 +69,16 @@ From [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19
 You should know that the [Thieves Guild have Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) now, and you can [Renounce the Daedra if you will](https://www.nexusmods.com/skyrimspecialedition/mods/36100), while [Vampires can skip Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/25783).  A much more detailled Spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/15h4lGfMr4z_1hqPp8LDVbTLLRqgjaQBUUSIYc6XtJGU/edit#gid=0).
 
 - Followers -
-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194#) will provide a nice amount of high quality followers but there is still the unforgettable [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) or [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)). 
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194#) will provide a nice amount of high quality followers but there is still the unforgettable [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)), [Vilja](https://www.nexusmods.com/skyrimspecialedition/mods/6722), and even [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137). 
 There is also Serana [Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/32161) for all the love for the goth cutie.
 
 - Loot, Artefacts and Leveling -
 [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) overhauls all vanilla Artifacts and [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308) coupled with [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342) makes sure you do not find spider webs in the dungeon chests.
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) handles levels, quests will level your character levels, skills will not level it anymore, but they'll level independently. Also there's a skill cap to avoid powerleveling, it is determined by the Player Character level, you really should check the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/17751)!
+
+- Enemies and General Difficulty
+QWEST! isn't here to make the game feel like it's Dark Souls' difficulty. My philosophy on enemies is that diversity should be more important than difficulty, and that very diversity is gonna make the game more challenging. That is why you will find all kinds of bandits, draugrs, vampires, dragons, while they all have new cool spells due to [EEOS](https://www.nexusmods.com/skyrimspecialedition/mods/37228) and their spawns are increased due to [Genesis Unleashed](https://www.nexusmods.com/skyrimspecialedition/mods/23871).
+Here's a few mods adding diversity: For Draugrs we have: [DUI](https://www.nexusmods.com/skyrimspecialedition/mods/21775), [BriDO](https://www.nexusmods.com/skyrimspecialedition/mods/26188), [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238). Bandits have [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145) and it's Patrol addon. Vampires have [Better Vampire NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9510). Dragons have [Splendor](https://www.nexusmods.com/skyrimspecialedition/mods/9670), [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) and [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693). This list isn't exhaustive!
 
 ## Installation
 ### Pre-Installation
@@ -188,13 +192,11 @@ Make sure that Bethini is configured to the profile folder you will use in MO2 a
 
 This list is aimed towards very low end PCs, but that doesn't mean ENB isn't an option.
 
-I recommend anyone with a 2GB card to skip this step and test in game, then check afterwards for what's following, ENB is the biggest performance hit in modding (if you don't go nuts with textures which I didn't). For the lucky ones with more than 2GB of VRAM but still low end, I really recommend [The Truth](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which is the best enb in my opinion for how little it impacts FPS.
+I recommend anyone with a 2GB card to skip this step and test in game, then check afterwards for what's following, ENB is the biggest performance hit in modding (if you don't go nuts with textures which I didn't). For the lucky ones with more than 2GB of VRAM but still low end, we have a tweaked [Zangdar's Rudy Cathedral](https://www.nexusmods.com/skyrimspecialedition/mods/39113) specifically made for the list.
 There is also another option which is ReShade, it's even less heavy but does less, instructions on this option are below The Truth ENB's installation instructions.
 
-To install The Truth ENB, follow these:
-- Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
-- Download The Truth ENB from [here](https://www.nexusmods.com/skyrimspecialedition/mods/9162) and copy the contents of the .rar to your game folder.
-**Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
+To install Zangdar's Rudy Cathedral, navigate to `Your Installation Folder\ENB Presets`([here](http://prntscr.com/10e2nl4)) and simply drag and drop the contents of either the performance one or the higher end one to your Skyrim SE Directory (where the game .exe is). [Those](http://prntscr.com/10e2odv).
+On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini Preset, it is also very dependent on your PC, I do not recommend ENBs if your PC has an AMD GPU.
 
 Now Let's talk about the ReShade option.
 ReShade is simpler than ENBs, they generally focus on color correction but if rightly used, they can enhance the game graphics nicely with even lower fps loss, couple that with a SKyrim set on Low and even the weaker gpus can experience more than vanilla Skyrim lighting.
@@ -225,8 +227,8 @@ To change the profile, there's a dropdown menu on the top left of MO2, the defau
 
 On top of the 2 Profiles available for the core gameplay mods, QWEST! comes with some Quality of Life changes and gameplay mods that some may or may not enjoy. All of those are supported as written here, other modifications fall under Rule 11: No support will be given if modifications happen.
 
-First possible modifications is the [Survival Setup](http://prntscr.com/xnxial). It is enabled by default as it has to be patched by Synthesis to work correctly. But if you follow carefully what I'm about to write, you will be able to remove it entirely. Yes entirely as I do not support removing only hypothermia or cleaning and washing while keeping food and sleep needs. There are 2 steps:
-- Untick all the mods under ``Survival Stuff`` ( [those](https://prnt.sc/zqmvtx) ) 
+First possible modifications is the [Survival Setup](https://prnt.sc/10e38c9). It is enabled by default as it has to be patched by Synthesis to work correctly. But if you follow carefully what I'm about to write, you will be able to remove it entirely. Yes entirely as I do not support removing only hypothermia or cleaning and washing while keeping food and sleep needs. There are 2 steps:
+- Untick all the mods under ``Survival Stuff`` ( [those](https://prnt.sc/10e38c9) ) 
 - Tick the ``Synthesis No Survival`` at the bottom of the left pannel corresponding to your profile.
 
 Second modification: [Paper Ui](http://prntscr.com/xb9im1). It is enabled by default but you can disable one or both of those depending on what you want.
@@ -235,7 +237,9 @@ Third modification: [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by def
 
 Fourth modification: [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png)
 
-Fifth and last modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in [MY Discord](https://discord.gg/ZgjVrXp) (not Wabbajack's) if you want the details on how to use a controller with QWEST!
+Fifth Modification is [NeverNude](https://prnt.sc/10e3879). The list comes with Nude Bodies but with a Spell Perk Item Distributor Addon that gives npcs underwear. You obviously remain naked under your armor. Simply tick the mods if you want to take no risk and have no nudity. (you can also tick off the SPID Addon ``Equippable Underwear for NPCs``.)
+
+Sixth and last modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in [MY Discord](https://discord.gg/ZgjVrXp) (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
 ## How to start up QWEST!
 
@@ -257,7 +261,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 MCMs are not automated due to a personal choice: There are many, many important tweaks, informations, and usefull stuff in them that can solve problems or make your experience better. Those are my own and what I recommend for the least amount of problems and a balanced experience.
 
 #### Game Difficulty
-- The difficulty in this game is very vanilla like but still generally harder, if you're used to Legendary you will have a hard time. I suggest playing in Expert or Master and if found too easy, crank it up.
+- The difficulty in this Modlist is quite harder due to Genesis Spawns and enemy diversity brought by Draugr Upgrades and Improvements, OBIS or Better Vampire NPCs. I highly suggest playing in Adept or Expert and putting it higher only if you feel it's too easy.
 
 #### A Matter of Time
 
@@ -274,12 +278,19 @@ MCMs are not automated due to a personal choice: There are many, many important 
     - Persistant Arrows : Disabled
     
 #### All Geared up Derivative
+- Weapons - Player
+    - Shield Stay on arm while Equipped: Enable
+    - Toggle un/equipping Torso Armor: Enable 
 - Misc. Player :
-  - Enable Misc. Item Display : Disabled
   - Require Torso Armor : Enabled
+  - (you can tweak stuff showing on you whenever you want, if something bothers you)
 - NPC :
   - Enable Weapons : Enabled
-  - Enable Misc. Item Display : Disabled
+
+#### Better Vampire NPCs
+- Not an MCM   
+    - In your inventory there's an item called "Vampire's Bloodgem" allowing to tweak stuff by clicking on it while crouched. 
+        - I leave it as default. You can tweak it all you want. Experimental stuff may cause issues as expected. When done drop the bloodgem.
 
 #### Campfire (Survival)
 - Gameplay
@@ -291,6 +302,20 @@ MCMs are not automated due to a personal choice: There are many, many important 
     - Harvest wood : H
     - Instincts : Nothing
 
+#### Diverse Dragons Col. 3
+- Dragons
+  - Nether Dragon : Disabled
+  - Sanguine Dragon : Disabled
+  - Vile Dragon : Disabled
+
+#### EVG Conditional Idles
+- Player 
+    - Modesty Male: Disabled
+    - Modesty Female: Disabled
+- NPC 
+    - Modesty Male: Disabled
+    - Modesty Female: Disabled
+
 #### Follower Framework
 - System :
   - Load From File
@@ -300,6 +325,11 @@ MCMs are not automated due to a personal choice: There are many, many important 
   - Invulnerable During Transformation: Enabled
 - If you want to be a Werebear instead:
   - Immersion : Werebear : Enabled
+
+#### Heartbreaker (Optional) 
+- Main Settings
+    - Learn Spell Power: Enabled
+    - It gives you a power to put npcs in stagger once per IRL hour so you can rip their hearts, you can also bind it so you can do it anytime.
   
 #### Immersive HUD
 - Activation
@@ -318,14 +348,20 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
   - Carriages: Enabled
   - Inns: Enabled
   - Player Houses: Enabled
+  - A lot of stuff is very nice in LOTD's MCMs, you should check them all just to know what they do, it'll be useful on the long run.
 
 #### moreHUD
 - Presets
   - Save Settings with FISS
     - Load User Settings? : GO
-    
-#### Simple Horse
-- Call Horse Key : change it if you want to! (I leave it on default)
+
+#### OBIS - Bandits
+- Leave as is
+    - Why? Enabling in the MCMs is only for the additional spawns option, but that is handled by Genesis Unleashed, so you'd end up with 50 bandits in Embershard Mine. Sounds fun? Enable it at your own peril.
+
+#### OBIS - Patrols
+- Settings
+    - Enable: Enabled
 
 #### SkyUI
 - General → Item List :
@@ -389,6 +425,9 @@ Cycle through all the tabs
 - Disable Injuries: Enabled
 - Allow Wildcat to manage difficulty: Enabled
 
+#### Genesis Unleashed
+- Enable after you choose a start. Very next step.
+
 ## How to start playing
 
 Simply step up to the statue of mara and choose a start.
@@ -419,7 +458,7 @@ I thank you for that thought but you should probably donate to Wabbajack first. 
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Xanza, Jdsmith inspiring me to make this, y'all are neat.
+- Xanza and Jdsmith inspiring me to make this, y'all are neat.
 - Luca for all the testing, feedback and recommendations, you are amazing.
 - Althro for being such a resourceful person and helping with the Discord and development a lot.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
