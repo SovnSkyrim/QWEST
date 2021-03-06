@@ -49,7 +49,7 @@ The name and picture are a reference to the amazing and wholesome Quest Sprout c
 
 # Noteworthy Mods and what gameplay to expect.
 
-Depending on the choice of profile, you will have a very different approach to the list: Enairim will make you and your enemies stronger overall while Simonrim will remain simple and closer to Vanilla.
+Depending on the choice of profile, you will have a very different approach to the list: [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) will make you and your enemies stronger overall while [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746) will remain simple and closer to Vanilla.
 If you're unfamiliar with those overhauls, you should read their modpages as their changes are at the base of everything.
 
 - Survival -
@@ -219,7 +219,7 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 ## Profiles 
 
 QWEST! has 2 profiles, one with EnaiRim, one with SimonRim. The main difference is that EnaiRim is kinda unbalanced and very strong while SimonRim is kinda like what vanilla Skyrim should've been.
-You can look them up here: [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) and [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746)
+You can look them up here: [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) and [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746).
 
 To change the profile, there's a dropdown menu on the top left of MO2, the default profile is EnaiRim, so only change if you want the SimonRim one.
 
