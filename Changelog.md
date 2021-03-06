@@ -1,6 +1,6 @@
 ## 2.0 | Complete Overhaul
 
-**Released at**: `Unreleased`
+**Released at**: `06/03/2021`
 
 **Notes** : Not Savefile Compatible, the game is going to be way harder, looking way better, and you got a lot more diversity in what you'll encounter. According to my testers, the performance price for this update is 3FPS in the heaviest areas. 
 
