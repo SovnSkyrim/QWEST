@@ -173,6 +173,7 @@ Copy the all of the files from the `QWEST!/Game Folder Files` directory into you
 On a Ryzen 5 2400G paired with a GTX 950 2GB VRAM and 24GB RAM (never used more than 14GB, so 8GB RAM should be fine, **WHEN** installed on an SSD, if you use an HDD 16GB RAM minimum is recommended):
 BethINI is located within `QWEST!/Tools`.
 Make sure that Bethini is configured to the profile folder you will use in MO2 and not your vanilla INIs or any change will be rendered worthless!
+Here are the normal INI Path that you should have in the Setup tab: [EnaiRim](https://prnt.sc/10ha499) [SimonRim](https://cdn.discordapp.com/attachments/793809552353132566/818888086079012915/Capture.PNG). If one or the other doesn't show properly, use the browse option to manually set it up.
 
 - BethINI(Low)(locked to 60 FPS):
   - Everywhere(where it got tested): 60FPS
