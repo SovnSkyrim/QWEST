@@ -184,9 +184,7 @@ Here are the normal INI Path that you should have in the Setup tab: [EnaiRim](ht
   - Indoors: 60FPS
 
 - If you have 8GB RAM and **NO SSD** or if it still has frame drops, then I recommend:
-  - Disabling:
-    - The following mods in MO2 : [Stuff below the Separator](http://prntscr.com/x2p70m)
-  - And testing:
+  - Testing:
     - BethINI(Normal) -> BethINI(Poor) and stopping by the preset that has a playable framerate for you.
 
 ## Getting an ENB
