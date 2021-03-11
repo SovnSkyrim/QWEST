@@ -236,7 +236,7 @@ Third modification: [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by def
 
 Fourth modification: [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png)
 
-Fifth Modification is [NeverNude](https://prnt.sc/10ef6fx). The list comes with Nude Bodies but with a Spell Perk Item Distributor Addon that gives npcs underwear. You obviously remain naked under your armor. Simply tick the mods if you want to take no risk and have no nudity. (you can also tick off the SPID Addon ``Equippable Underwear for NPCs``.)
+Fifth Modification is [NeverNude](https://prnt.sc/10ef6fx). The list comes with Nude Bodies but with a Spell Perk Item Distributor Addon that gives npcs underwear. You obviously remain naked under your armor. Simply tick the mods if you want to take no risk and have no nudity. (you can also tick off ``Underwear for NPCs`` located under the "Dialogue and NPCs" separator.)
 
 Sixth Modification is [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container, corpse, or anything that you're hovering, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
 
