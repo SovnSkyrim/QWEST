@@ -462,6 +462,7 @@ I thank you for that thought but you should probably donate to Wabbajack first. 
 - Xanza and Jdsmith inspiring me to make this, y'all are neat.
 - Luca for all the testing, feedback and recommendations, you are amazing.
 - Althro for being such a resourceful person and helping with the Discord and development a lot.
+- zino for testing 2.0 and onwards updates, allowing for accurate feedback on performance for 2GB GPUs.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 
 ## Contact
