@@ -1,3 +1,70 @@
+## 2.1 | You will never finish the Museum and Player Customization Update
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible.
+
+Added:
+- Cheesemod for EVERYONE
+- The Wheels of Lull SE
+- Identity Crisis
+- Dwemer Spectres Special Edition
+- Complete Replica Fixes for Legacy of the Dragonborn
+- Heavy Armory - New Weapons
+- Royal Armory - New Artifacts
+- PrivateEye's Royal Armory - Reforged
+- Volkihar Knight - Vampire Armor
+- Kthonia's Unique Weapon Pack - Dragonborn Weapons
+- JaySuS Swords SE
+- Guards Armor Replacer SSE
+- Zim's Immersive Artifacts - Thane Weapons Only
+- Visual Animated Enchantments - VAE 
+- QRVAE - Qwinn's Refined Visual Animated Enchants
+- Strange Runes
+- Frozen Electrocuted Combustion
+- Improved Sparks
+- Mature Skin for CBBE
+- First Person Camera Height Fix
+- Adoption without Murder
+- Super Fast Get Up Animation
+- DLC Integration SE
+- Quest and Reward Delay for Legacy of the Dragonborn
+- Yes I'm Sure
+- Beard stubble
+- The Eyes Of Beauty SSE
+- Kala's Eyes
+- Kala's Eyes-Elf Eyes Updated with Orsimer
+- Realistic Hair Colors
+- Lovely Hairstyles SE
+- KS Hairdos SSE
+- Salt and Wind - Rough Hair for KS Hairdos SE
+- Hallgarth's Additional (Vanilla) Hair SE
+- Freckle Mania
+- Freckle Mania 2
+- Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
+- Community Overlays 2 (31-50) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
+- Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos
+- Female Makeup Suite - Face - RaceMenu Overlays of Eyeliner EyeShadow Contours and Highlights - Special Edition
+
+Fixed:
+- CBBE Patches for all armors to fix seams
+- Faralda should sell the starting spell instead of sending you to a court mage.
+- Zim's Dragon Improvement shouldnt change the name of Interesting NPCs/Wyrmstooth/LotD/VIGILANT's dragons.
+- Eye/brows duplicates from HMB 
+- Trying my best to fix Skin/Body Seams
+
+Updated:
+- Lucien - Immersive Fully Voiced Male Follower
+- Odin - Skyrim Magic Overhaul
+- Realistic Water 2
+- Papyrus Extender
+- Enbseries
+
+Removed:
+- Glow Be Gone
+- Song of the Green - Auri Follower 
+    - Only because she's removed from the Nexus, if you have the old file and want her, go to my Discord, I have instructions to enable her.
+
 ## 2.0 | Complete Overhaul
 
 **Released at**: `06/03/2021`
