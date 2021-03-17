@@ -1,6 +1,6 @@
 ## 2.1 | You will never finish the Museum and Player Customization Update
 
-**Released at**: `Unreleased`
+**Released at**: `17/03/2021`
 
 **Notes** : Not Savefile Compatible.
 
