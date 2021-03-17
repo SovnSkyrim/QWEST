@@ -451,6 +451,9 @@ Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support chann
 
 Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not bug reports.
 
+## Why is there mods related to Auri in MO2? Can I activate them?
+Go to my discord, in the pins of the channel #list-modifications.
+
 ## I want to support your work!
 
 I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
