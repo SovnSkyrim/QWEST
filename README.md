@@ -452,7 +452,12 @@ Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support chann
 Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not bug reports.
 
 ## Why is there mods related to Auri in MO2? Can I activate them?
+
 Go to my discord, in the pins of the channel #list-modifications.
+
+## Some Beards/hair is clipping through my head!
+
+Known and take other hair/beard. I can't edit mesh themselves and the mod comes with many more stuff so the bugged/clipping meshes are worth keeping.
 
 ## I want to support your work!
 
