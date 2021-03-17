@@ -56,6 +56,9 @@ Fixed:
 Updated:
 - Lucien - Immersive Fully Voiced Male Follower
 - Odin - Skyrim Magic Overhaul
+- Sunhelm
+- XLODGEN
+- Better Vampires NPCs Balance Patch
 - Realistic Water 2
 - Papyrus Extender
 - Enbseries
