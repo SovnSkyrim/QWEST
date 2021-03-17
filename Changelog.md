@@ -2,7 +2,7 @@
 
 **Released at**: `17/03/2021`
 
-**Notes** : Not Savefile Compatible.
+**Notes** : [Not Savefile Compatible. No really.](https://cdn.discordapp.com/attachments/747114679268147279/821774942961795112/unknown.png)
 
 Added:
 - Cheesemod for EVERYONE
