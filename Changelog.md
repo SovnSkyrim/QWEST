@@ -23,6 +23,7 @@ Added:
 - Strange Runes
 - Frozen Electrocuted Combustion
 - Improved Sparks
+- Realistic AI Detection
 - Mature Skin for CBBE
 - First Person Camera Height Fix
 - Adoption without Murder
