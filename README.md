@@ -342,7 +342,7 @@ MCMs are not automated due to a personal choice: There are many, many important 
 Remember that you can't switch race/sex using Showracemenu because of such a mod!
 
 #### Keep It Clean (Survival)
-- The mod should remain deactivated. After your first bath it will activate itself but only for the first bath so don't forget to disable it afterwards.
+- The mod should remain deactivated. No matter what.
 
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
