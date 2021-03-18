@@ -455,10 +455,9 @@ Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support ch
 
 Go to my discord, in the pins of the channel #list-modifications.
 
-## Some Beards/hair is clipping through my head! There's duplicate eyes! 
+## Some Beards/hair is clipping through my head! There's duplicate eyes! Mouth is clipping! NPCs look ugly!
 
-Known and take other hair/beard. I can't edit mesh themselves and the mod comes with many more stuff so the bugged/clipping meshes are worth keeping.
-For the eyes, it's simply because there's a mod that add those cool eyes to npcs, and the other is the original. The first mod that adds them to NPCs isn't using the full suite of the second mod, so I simply added it on top. It doesnt really matter which you use.
+All of this is known. Those are the consequences of using HMB II which has been community voted to stay. I am sick and tired of dealing with those issues and they're very minor. You are playing a quest and content oriented list and you're bothering me with graphical problems? Get a better PC and play Elysium.
 
 ## I can't talk to NPCs!
 
