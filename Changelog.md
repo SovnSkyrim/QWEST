@@ -1,3 +1,23 @@
+## 2.1.1 | Fuck HMB II
+
+**Released at**: `Unreleased`
+
+**Notes** : Savefile compatible
+
+Added:
+- Difficulty Tweaks Addons:
+    - Static Skill Leveling (Experience Mod Add-on)
+    - Ordinator for Spell Perk Item Distributor
+- Missives - The Witcher Board HD
+
+Removed:
+- CBBE 
+- Vitruvia
+- Nudity as a whole
+- Nevernude addon as Nudity is removed
+- Underwear for NPCs
+
+
 ## 2.1 | You will never finish the Museum and Player Customization Update
 
 **Released at**: `17/03/2021`
