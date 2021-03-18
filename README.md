@@ -236,7 +236,7 @@ Third modification: [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by def
 
 Fourth modification: [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png)
 
-Fifth Modification is [NeverNude](https://prnt.sc/10ef6fx). The list comes with Nude Bodies but with a Spell Perk Item Distributor Addon that gives npcs underwear. You obviously remain naked under your armor. Simply tick the mods if you want to take no risk and have no nudity. (you can also tick off ``Underwear for NPCs`` located under the "Dialogue and NPCs" separator.)
+Fifth Modification is the difficulty teaks. Disabled by default, one allows you to chose which skills to progress into upon leveling up, it's the [Static Skill Leveling for Experience](https://www.nexusmods.com/skyrimspecialedition/mods/30410). The second [allows NPCs to have Ordinator perks](https://www.nexusmods.com/skyrimspecialedition/mods/42022), this will make the game really, really harder, but you must play the EnaiRim profile. If you want any of those 2 mods, tick them in MO2.
 
 Sixth Modification is [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container, corpse, or anything that you're hovering, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
 
