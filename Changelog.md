@@ -1,6 +1,6 @@
 ## 2.1.1 | Fuck HMB II
 
-**Released at**: `Unreleased`
+**Released at**: `18/03/2021`
 
 **Notes** : Savefile compatible. This update is only because I'm sick of skin/face/brows/beards/NPC problems as a whole. For any further report of problems with those, refer to the readme.
 
