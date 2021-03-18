@@ -460,6 +460,10 @@ Go to my discord, in the pins of the channel #list-modifications.
 Known and take other hair/beard. I can't edit mesh themselves and the mod comes with many more stuff so the bugged/clipping meshes are worth keeping.
 For the eyes, it's simply because there's a mod that add those cool eyes to npcs, and the other is the original. The first mod that adds them to NPCs isn't using the full suite of the second mod, so I simply added it on top. It doesnt really matter which you use.
 
+## I can't talk to NPCs!
+
+Headwear that conceals your identity will stop NPCs from interacting with you, for more details check [Sneak Tools' Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/1863)
+
 ## I want to support your work!
 
 I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
