@@ -2,7 +2,7 @@
 
 **Released at**: `Unreleased`
 
-**Notes** : Savefile compatible
+**Notes** : Savefile compatible. This update is only because I'm sick of skin/face/brows/beards/NPC problems as a whole. For any further report of problems with those, refer to the readme.
 
 Added:
 - Difficulty Tweaks Addons:
@@ -11,7 +11,7 @@ Added:
 - Missives - The Witcher Board HD
 
 Removed:
-- CBBE 
+- CBBE - and everything that required it
 - Vitruvia
 - Nudity as a whole
 - Nevernude addon as Nudity is removed
