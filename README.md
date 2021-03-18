@@ -377,11 +377,12 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
   - Crafting Menu : Disabled
 
 #### SmoothCam  -for 3rd person players-
-- Compatibility 
-  - Archery Gameplay Overhaul: Enabled
 - Presets
   - Load Preset
     There are 2 presets available for your to use, I personally prefer the Modern one but some prefer EasyEase's, try both and see which you prefer!
+- Compatibility 
+  - Archery Gameplay Overhaul: Enabled
+  - Only this one needs to be enabled!
     
 #### SunHelm (Survival)
 - General Settings
