@@ -35,6 +35,8 @@ Updated
 - Legacy of the Dragonborn - The Curators Companion
 - Complete Replica Fixes for Legacy of the Dragonborn
 - Royal Armory - New Artifacts Plugin Replacer
+- Lucien - Immersive Fully Voiced Male Follower
+- Unofficial Identity Crisis LotD Patch
 
 Fixed
 - The Uncapper is present for static skill leveling to finally work as intended
