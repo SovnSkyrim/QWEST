@@ -27,7 +27,6 @@ Added
 - Revenant -Arch-Curate Vyrthur Voice Rework-
 - Horse Stamina HUD - Script-Free
 - Smooth DAR Combat Dodge
-- The Grand Paladin - 2021 (Remake)
 - Dragon Claws Auto-Unlock
 
 Updated
