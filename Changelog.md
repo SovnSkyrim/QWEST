@@ -1,3 +1,46 @@
+## 2.2.0 | Auri, more armor diversity and updates.
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile compatible.
+
+Added
+- Song of the Green - Auri Follower
+- Song of the Green - Auri Lenka Replacer 
+- The Grand Paladin - 2021 (Remake)
+- Vortikai's Dragon Aspect Toggle
+- Dragon Aspect - Remove Ancient Dragonborn
+- Legacy of The Dragonborn - Museum Exterior Fixes
+- The Blood Horker (Bloodmoon Creature Restoration Project) 
+- GRAHL - The Ice Troll (Bloodmoon Creature Restoration Project) 
+- Skyrim Outfitted - Which requires:
+    - Common Clothes Upscaled Textures (CCUT)
+    - Maid Outfits by zzjay and GraceDarkling
+    - Rugged Rogue Outfits
+    - Wilderness Witch Outfit
+    - Practical Pirate Outfit
+    - Colovian Noble Clothes
+    - Imperial Fine Clothes
+    - The Alchemist's Vestments
+- Dormant -Gargoyle Sounds Rework-
+- The Book Of The Wild -Enigma Series Chapter 3-
+- Revenant -Arch-Curate Vyrthur Voice Rework-
+- Horse Stamina HUD - Script-Free
+- Smooth DAR Combat Dodge
+- The Grand Paladin - 2021 (Remake)
+- Dragon Claws Auto-Unlock
+
+Updated
+- Legacy of the Dragonborn
+- Legacy of the Dragonborn - Official Patches
+- Legacy of the Dragonborn - The Curators Companion
+- Complete Replica Fixes for Legacy of the Dragonborn
+- Royal Armory - New Artifacts Plugin Replacer
+
+Fixed
+- The Uncapper is present for static skill leveling to finally work as intended
+
+
 ## 2.1.1 | Fuck HMB II
 
 **Released at**: `18/03/2021`
