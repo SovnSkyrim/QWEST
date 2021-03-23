@@ -2,7 +2,7 @@
 
 **Released at**: `Unreleased`
 
-**Notes** : Not Savefile compatible.
+**Notes** : Not Savefile compatible. Update happened because Auri is up again on the Nexus, it felt wrong to not have her in QWEST!.
 
 Added
 - Song of the Green - Auri Follower
