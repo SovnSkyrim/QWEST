@@ -2,7 +2,7 @@
 
 **Released at**: `24/03/2021`
 
-**Notes** : Savefile Compatible. The crashes were frequent enough to justify an update this close to 2.2.0 . If you're on that version, you should update.
+**Notes** : Savefile Compatible. 
 
 Added:
 - Keeping Warm - Scarves and Mufflers
