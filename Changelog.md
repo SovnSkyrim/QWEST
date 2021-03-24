@@ -1,6 +1,23 @@
+## 2.2.1 | Keeping warm and crash fixes
+
+**Released at**: `24/03/2021`
+
+**Notes** : Savefile Compatible. The crashes were frequent enough to justify an update this close to 2.2.0 . If you're on that version, you should update.
+
+Added:
+- Keeping Warm - Scarves and Mufflers
+- Misc Dialogue Edits
+- More Dialogue Options
+- KS Hairdos 1.7 Salt and Wind
+- Dovah Sonaak - Dragon Priest Masks SE
+
+Fixes:
+- Missing textures on a bunch of masks and armors
+- Potential Horse crashes.
+
 ## 2.2.0 | Auri, more armor diversity and updates.
 
-**Released at**: `Unreleased`
+**Released at**: `23/03/2021`
 
 **Notes** : Not Savefile compatible. Update happened because Auri is up again on the Nexus, it felt wrong to not have her in QWEST!.
 
