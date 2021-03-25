@@ -452,10 +452,6 @@ Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support chann
 
 Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not bug reports.
 
-## Why is there mods related to Auri in MO2? Can I activate them?
-
-Go to my discord, in the pins of the channel #list-modifications.
-
 ## Some Beards/hair is clipping through my head! There's duplicate eyes! Mouth is clipping! NPCs look ugly!
 
 All of this is known. Those are the consequences of using HMB II which has been community voted to stay. I am sick and tired of dealing with those issues and they're very minor. You are playing a quest and content oriented list and you're bothering me with graphical problems? Get a better PC and play Elysium.
