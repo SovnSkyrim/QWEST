@@ -178,14 +178,14 @@ Here are the normal INI Path that you should have in the Setup tab: [EnaiRim](ht
 - BethINI(Low)(locked to 60 FPS):
   - Everywhere(where it got tested): 60FPS
 
-- BethINI(Normal)(locked to 60 FPS): 
+- BethINI(Medium)(locked to 60 FPS): 
   - Outdoors: 30-40 FPS (average 40)
   - Cities: 40-60 FPS (average 50)
   - Indoors: 60FPS
 
 - If you have 8GB RAM and **NO SSD** or if it still has frame drops, then I recommend:
   - Testing:
-    - BethINI(Normal) -> BethINI(Poor) and stopping by the preset that has a playable framerate for you.
+    - BethINI(Medium) -> BethINI(Poor) and stopping by the preset that has a playable framerate for you.
 
 ## Getting an ENB
 
