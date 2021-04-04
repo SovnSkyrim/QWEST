@@ -321,6 +321,10 @@ MCMs are not automated due to a personal choice: There are many, many important 
 - System :
   - Load From File
 
+#### Genesis Surface Spawns
+  - Nights
+    - Spawn Only Night Time: Enabled
+
 #### Growl Werebeasts (EnaiRim)
 - Features
   - Invulnerable During Transformation: Enabled
@@ -428,7 +432,11 @@ Cycle through all the tabs
 - Allow Wildcat to manage difficulty: Enabled
 
 #### Genesis Unleashed
-- Enable after you choose a start. Very next step.
+  - Max Number of Dungeon Spawns: 5
+  - Allow Spawning at Player: Disabled
+  - Disable Surface Spawns: Enabled
+
+- Enable after you choose a start and interracted with the bed. Very next step basically.
 
 ## How to start playing
 
