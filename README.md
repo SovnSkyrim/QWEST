@@ -371,6 +371,13 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
 - Settings
     - Enable: Enabled
 
+#### Radiant Requirements
+- Settings
+  - Draugr Crypt 5
+  - Forsworn Camp: 5
+  - Vampire Lair : 10
+  - Falmer Hive: 10
+
 #### SkyUI
 - General → Item List :
   - Font Size : Small
