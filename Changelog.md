@@ -1,3 +1,123 @@
+## 3.0.0 | NPC/Sound/Music Overhaul and Lux
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible. 
+
+Added
+- High Poly Head
+- Complete NPC Overhaul
+    - High Poly NPC Overhaul - Skyrim Special Edition 2.0 (All Vanilla NPCs)
+    - Pride of Skyrim - AIO
+    - Metalsabers Beautiful Orcs of Skyrim
+    - Kalilies NPCs
+    - Pandorable's NPCs
+    - Pandorable's NPCs - Males
+    - Pandorable's NPCs - Dawnguard
+    - Pandorable's NPCs - Dragonborn
+    - Bijin NPCs SE
+    - Bijin Warmaidens SE
+    - Bijin Wives SE
+    - SC - KS Hairdos Retextured for Bijin NPCs Warmaidens Wives and Pandorable's NPcs Males Dawnguard Dragonborn
+    - Beards of Power - Sons of Skyrim (Already in but it stays; also trimmed down to have only good replacers)
+    - Pandorable's Lethal Ladies
+    - Pandorable's Shield-Sisters - Aela Ria Njada
+    - Gentle Muiri SE
+    - Valericaholic by rxkx22 - SSE
+    - Serana Re-Imagined (Already in but it stays)
+    - BeastHHBB (Already in but it stays)
+    - High Poly NPC Overhaul - Obscure's College of Winterhold
+    - High Poly NPC Overhaul - Organized Bandits In Skyrim Special Edition (OBIS SE)
+    - High Poly NPC Overhaul - Immersive College NPCs
+    - High Poly NPC Overhaul - Alternate Start Live Another Life (ASLAL)
+    - High Poly NPC Overhaul - Carriage and Ferry Travel Overhaul (CFTO)
+    - High Poly NPCs - Agents of Righteous Might
+    - High Poly NPCs - Beyond Reach
+    - High Poly NPCs - Interesting NPCs
+    - High Poly NPCs - Kyne's Temple Consequences
+    - High Poly NPCs - Skyrim Sewers 4
+    - High Poly NPCs - Teldryn Serious
+    - High Poly NPCs - The Gray Cowl of Nocturnal
+    - High Poly NPCs - The Tools of Kagrenac
+    - High Poly NPCs - The Wheels of Lull
+    - High Poly NPCs - Undeath
+    - High Poly NPCs - UNSLAAD
+    - High Poly NPCs - VIGILANT
+    - High Poly NPCs - Wintersun
+    - High Poly NPCs - Wyrmstooth
+    - Vigilant - NPC Overhaul + No Hoods and Wigs Addon 
+    - Cuyima Interesting NPCs SE
+    - Interesting NPCs Visual Overhaul by Mocia
+    - Legacy of the Dragonborn - NPC Overhaul by 1N
+    - Vilja Re-Imagined SSE
+    - Pandorable's Lucien replacer
+    - High-Poly Inigo Replacer
+- Hammet's Dungeon Pack
+- Land of Vominheim
+- Lux
+- Bibliophile's Arcanaeum
+- Kyne's Temple Consequences
+- Dream of Me - a Vindsvept Music Mod
+- Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)
+- DX Druid Armor
+- Ophelia Accesories
+- Necro Archer - Bound Arrow Reanimation
+- Survival Control Panel
+- Audio Overhaul for Skyrim SE
+- Immersive Sounds - Compendium
+- Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
+- Sounds of Skyrim Complete SE
+- Sounds of Barenziah
+- Barefoot Footstep Extended SE
+- Better Animal Footsteps
+- Sound Hammering Sounds
+- Improved Weapon Impact EFFECTS Correct Metal SE
+- Improved Weapon Impact EFFECTS Correct Metal SE - Immersive Sounds Patch
+- NPC Dialogue Audio Enhancer
+- Skeletons don't breathe SSE
+- Horse Sound Overhaul
+- IHSS - Improved Horse Step Sounds
+- Realistic Husky Sounds SSE
+- Soultrap Sound Edit - Calm Wind
+- Storm Lightning for SSE and VR (Minty Lightning 2019)
+- Thunder Sounds - WiZkiD Mix -
+- Diverse Skyrim - Battle of Whiterun Fix
+- Additional Dev Aveza locations for Legacy of the Dragonborn
+- Radiant Requirements MCM
+- Marked Treasure SSE
+- Legacy of the Dragonborn - FrankFamily's Paladin Replacer for the Crusader Set
+- VAE Effects for Summermyst
+- Lanterns Of Wyrmstooth (Unofficial LOS II addon for Wyrmstooth)
+- Cloaks Of Skyrim Retextured SE
+- Ashes - VIGILANT Witch Hunter Armor Retexture
+- Honeyside Black Briar Bar
+- Pet the Dog
+
+Updated:
+- Serana Dialogue Add-on
+- The Curator's Companion
+- Reliquary of Myth
+EnaiRim Profile:
+    - Odin
+Survival Profile:
+    - Sunhelm
+- Zangdar's Rudy Cathedral ENB for Lux 
+    - Was for ELFX/ELFX Enhancer before.
+
+Removed:
+- HMB II 
+    - Fuck HMB II
+- Horses on Patrols
+    - CTD fest. Couldn't control it, I loved the mod.
+- The Frozen North
+    - Using SunHelm's System now.
+- ELFX and Enhancer
+    - Switched to Lux.
+- Suspicious Guards
+    - I didn't like it in the end.
+- No Grass in Objects
+    - Was somehow making people have stutters, I still don't know how.
+
 ## 2.2.1 | Keeping warm and crash fixes
 
 **Released at**: `24/03/2021`
