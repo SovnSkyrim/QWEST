@@ -97,9 +97,10 @@ Updated:
 - Serana Dialogue Add-on
 - The Curator's Companion
 - Reliquary of Myth
-EnaiRim Profile:
+
+- EnaiRim Profile:
     - Odin
-Survival Profile:
+- Survival Profile:
     - Sunhelm
 - Zangdar's Rudy Cathedral ENB for Lux 
     - Was for ELFX/ELFX Enhancer before.
