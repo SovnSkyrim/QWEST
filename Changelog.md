@@ -52,6 +52,9 @@ Added
     - Vilja Re-Imagined SSE
     - Pandorable's Lucien replacer
     - High-Poly Inigo Replacer
+- CBBE
+- Bijin Skin
+- Vitruvia - Skin Texture for Males
 - Hammet's Dungeon Pack
 - Land of Vominheim
 - Lux
