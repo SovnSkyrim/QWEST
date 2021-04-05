@@ -1,6 +1,6 @@
 ## 3.0.0 | NPC/Sound/Music Overhaul and Lux
 
-**Released at**: `Unreleased`
+**Released at**: `05/04/2021`
 
 **Notes** : Not Savefile Compatible. 
 
