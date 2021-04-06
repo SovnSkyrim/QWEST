@@ -474,6 +474,10 @@ Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support ch
 
 Known and on purpose, don't bother me with that please.
 
+## A face part is crashing me!
+
+The 5th Facepart is a lie. Known and unsolvable.
+
 ## I can't talk to NPCs!
 
 Headwear that conceals your identity will stop NPCs from interacting with you, for more details check [Sneak Tools' Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/1863)
