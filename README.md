@@ -445,8 +445,7 @@ Cycle through all the tabs
   - Max Number of Dungeon Spawns: 5
   - Allow Spawning at Player: Disabled
   - Disable Surface Spawns: Enabled
-
-- Enable after you choose a start and interracted with the bed. Very next step basically.
+  - Enable after you choose a start and interracted with the bed. Very next step basically.
 
 ## How to start playing
 
