@@ -12,6 +12,7 @@ Added:
 Fixed:
 - Vilja not having the Solstheim Add-on 
 - Interesting NPCs having weird faces
+- bunch of other small stuff 
 
 Removed:
 - VHR - Vanilla Hair Replacer
