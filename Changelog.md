@@ -1,3 +1,31 @@
+## 3.0.1 | Fixes
+
+**Released at**: `unreleased`
+
+**Notes** : Savefile Compatible. 
+
+Added:
+- Arrow Bolts and Tweaks
+- Rally's Solstheim AIO
+- JS Lockpicking UI
+
+Fixed:
+- Vilja not having the Solstheim Add-on 
+- Interesting NPCs having weird faces
+
+Removed:
+- VHR - Vanilla Hair Replacer
+    - Made Lucien have funny hair
+- Cuyima's Interesting NPCs 
+    - Caused bugs while not being useful
+
+Updated:
+- SimonRim Profile specific:
+    - Mundus
+    - Manbeast 
+- Bruma and Other Patches for Convenient Horses
+- Castle Volkihar Rebuilt
+
 ## 3.0.0 | NPC/Sound/Music Overhaul and Lux
 
 **Released at**: `05/04/2021`
