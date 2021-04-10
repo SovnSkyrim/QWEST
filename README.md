@@ -397,6 +397,10 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
 - Compatibility 
   - Archery Gameplay Overhaul: Enabled
   - Only this one needs to be enabled!
+
+#### Sneak Tools (you should read that modpage if you want to play a sneak oriented character)
+- Patch
+  - Allow talk mask: Enabled
     
 #### SunHelm (Survival)
 - General Settings
