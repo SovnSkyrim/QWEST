@@ -241,7 +241,7 @@ Fifth Modification is the difficulty tweak that allows NPCs to have Ordinator Pe
 
 Sixth Modification is [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container, corpse, or anything that you're hovering, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
 
-Seventh is [NeverNude](http://prntscr.com/1152dvf). The list is Nude by default, ticking those should make it NeverNude, which is way better for Twitch or a skeptical wife!
+Seventh is [NeverNude](http://prntscr.com/1152dvf). The list is Nude by default, ticking those (and unticking Bijin Skin) should make it NeverNude, which is way better for Twitch or a skeptical wife!
 
 Eight and last modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in [MY Discord](https://discord.gg/ZgjVrXp) (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
