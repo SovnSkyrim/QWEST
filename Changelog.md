@@ -1,6 +1,6 @@
 ## 3.1.0 | More Weapons Diversity and New Armors
 
-**Released at**: `Unreleased`
+**Released at**: `14/04/2021`
 
 **Notes** : Not Savefile Compatible (you can try if you haven't met Serana and don't mind a lot of naked NPCs). 
 
