@@ -1,3 +1,38 @@
+## 3.1.0 | More Weapons Diversity and New Armors
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible (you can try if you haven't met Serana and don't mind a lot of naked NPCs). 
+
+Added:
+- Skyrim Weapons Expansion (for Listmaker)
+- Animated Armoury + LotD Patch
+- Lowered Hoods
+- Lowered Fur Hoods
+- Ulag's Legacy
+- Lustmord Vampire Armor
+- Northgirl Armor 
+- Plenty of Pendants - Completable Pain in the Necklace (East Empire Pendant Quest)
+- SkyUI Weapons Pack SE
+
+Removed:
+- Immersive Weapons 
+
+Tweaked: 
+- Immersive Armors' Distribution (Enable back the armors you want in MCM)
+- Dirt and Blood and Keep it Clean to work as intended.
+- Regenerated AllGUD Output
+
+Updated:
+- Zangdar's Rudy Cathedral ENB For Lux
+- Hammet's Dungeons Pack
+- Undeath - Classical Lichdom
+- Odin - Skyrim Magic Overhaul
+- Additional Dev Aveza locations for Legacy of the Dragonborn
+- Vigilant Armors and Weapons Retexture SE
+- Serana Dialogue Add-on
+- Skyrim Out Fitted
+
 ## 3.0.1 | Fixes
 
 **Released at**: `09/04/2021`
