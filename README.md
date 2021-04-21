@@ -47,6 +47,8 @@ It is a fork of the amazing SME/FT list; if you want to build your own list chec
 
 The name and picture are a reference to the amazing and wholesome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com). Their official Twitter is [here](https://twitter.com/swordscomic).
 
+# READING THIS README IN IT'S ENTIRITY IS REQUIRED FOR THE LIST TO WORK, IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". I am going to answer "readme" to any question answerred in this document, you're warned.
+
 # Noteworthy Mods and what gameplay to expect.
 
 Depending on the choice of profile, you will have a very different approach to the list: [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) will make you and your enemies stronger overall while [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746) will remain simple and closer to Vanilla.
