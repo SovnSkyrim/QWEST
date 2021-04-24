@@ -47,40 +47,47 @@ It is a fork of the amazing SME/FT list; if you want to build your own list chec
 
 The name and picture are a reference to the amazing and wholesome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com). Their official Twitter is [here](https://twitter.com/swordscomic).
 
-# READING THIS README IN IT'S ENTIRITY IS REQUIRED FOR THE LIST TO WORK, IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". I am going to answer "readme" to any question answerred in this document, you're warned.
+# READING THIS README IN ITS ENTIRITY IS REQUIRED FOR THE LIST TO WORK, IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". I am going to answer "readme" to any question answered in this document, you have been warned.
 
 # Noteworthy Mods and what gameplay to expect.
 
-Depending on the choice of profile, you will have a very different approach to the list: [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) will make you and your enemies stronger overall while [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746) will remain simple and closer to Vanilla.
-If you're unfamiliar with those overhauls, you should read their modpages as their changes are at the base of everything.
+Depending on the choice of profile, you will have a very different approach to the list. [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) will make you and your enemies stronger overall while [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746) will remain simple and closer to Vanilla.
+If you're unfamiliar with those overhauls, you should read their modpages as the changes are at the base of everything.
 
-- Survival -
+## Survival
 If you chose to not make any modifications and go with the survival mods, you will have way more micromanagement to do.
-First you'll need to eat and sleep to survive, second you'll need to survive the cold or your stamina will drain and you'll die, third you'll need to clean yourself or you'll have very bad prices and everyone will smell you when trying to sneak.
-You should definitely check the Skill Trees within your campfire on top of the vanilla skill trees, your arrows will have a weight and you will need to sleep to level up your Character level.
+
+1. You will need to eat and sleep to survive. 
+2. You will need to survive the cold or your stamina will drain and you'll die. 
+3. You will need to clean yourself or you'll have very bad prices and everyone will smell you when trying to sneak.
+
+You should definitely check the Skill Trees within your campfire on top of the vanilla skill trees, your arrows will have a weight and you will need to sleep to level up your Character level. If you're unfamiliar with the survival mods, have a read of [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667), [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/40746), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) and [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).
+
 Fast travel is disabled in multiple of these mods so there's no easy way to reactivate it at all times but there's an alternative: [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793).
-If you're unfamiliar with those mods, have a read on [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667), [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/40746), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) and [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).
+
 Lastly, all profiles have way better horse management thanks to [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519), you can even let one of your followers mount behind you thanks to [Ride Sharing](https://www.nexusmods.com/skyrimspecialedition/mods/11734)!
 
-- Added Quests -
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980) is the core spine of the list. QWEST! is the list with most addons, all Wabbajack lists overall, but many new lands aren't integrated with it, I'm especially thinking of [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) or [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180/?).
-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194), [Skyrim Sewers 4](https://www.nexusmods.com/skyrimspecialedition/mods/9320) and [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) are in and provide artifacts aswell as many new stuff to do, on top of those there is still The [Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168), [G.R.I.M](https://www.nexusmods.com/skyrimspecialedition/mods/41816), [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [Wyrmstooth](https://tes-mods.fandom.com/wiki/Wyrmstooth), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) or [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008). A much more detailled Spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/15h4lGfMr4z_1hqPp8LDVbTLLRqgjaQBUUSIYc6XtJGU/edit#gid=0).
+## Added Quests
 
-- Overhaul-ed Quests -
-From [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550) to [Save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681) with [Thieves' Guild Night On the Town](https://www.nexusmods.com/skyrimspecialedition/mods/42069) or [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/26788), many quests are changed.
-You should know that the [Thieves Guild have Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) now, and you can [Renounce the Daedra if you will](https://www.nexusmods.com/skyrimspecialedition/mods/36100), while [Vampires can skip Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/25783).  A much more detailled Spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/15h4lGfMr4z_1hqPp8LDVbTLLRqgjaQBUUSIYc6XtJGU/edit#gid=0).
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980) forms the core spine of the list. QWEST! is the list with most addons for the it, but many new lands aren't integrated with the musuem. These include [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) and [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180/?), all of which you can find in QWEST!
 
-- Followers -
-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194#) will provide a nice amount of high quality followers but there is still the unforgettable [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)), [Vilja](https://www.nexusmods.com/skyrimspecialedition/mods/6722), and even [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137). 
-There is also Serana [Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/32161) for all the love for the goth cutie.
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194), [Skyrim Sewers 4](https://www.nexusmods.com/skyrimspecialedition/mods/9320) and [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) are in and provide artifacts aswell as many new stuff to do. As well as those, you can find The [Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168), [G.R.I.M](https://www.nexusmods.com/skyrimspecialedition/mods/41816), [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [Wyrmstooth](https://tes-mods.fandom.com/wiki/Wyrmstooth), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) or [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008). A much more detailled Spreadsheet on the variety of quests in the list can be found [here](https://docs.google.com/spreadsheets/d/15h4lGfMr4z_1hqPp8LDVbTLLRqgjaQBUUSIYc6XtJGU/edit#gid=0).
 
-- Loot, Artefacts and Leveling -
-[Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) overhauls all vanilla Artifacts and [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308) coupled with [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342) makes sure you do not find spider webs in the dungeon chests.
-[Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) handles levels, quests will level your character levels, skills will not level it anymore, but they'll level independently. Also there's a skill cap to avoid powerleveling, it is determined by the Player Character level, you really should check the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/17751)!
+## Overhauled Quests
+From [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550) to [Save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681) with [Thieves' Guild Night On the Town](https://www.nexusmods.com/skyrimspecialedition/mods/42069) or [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/26788), many quests have been changed.
 
-- Enemies and General Difficulty -
+You should know that the [Thieves Guild have Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) now, and you can [Renounce the Daedra if you will](https://www.nexusmods.com/skyrimspecialedition/mods/36100), while [Vampires can skip Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/25783). A much more detailled Spreadsheet on the changes can be found [here](https://docs.google.com/spreadsheets/d/15h4lGfMr4z_1hqPp8LDVbTLLRqgjaQBUUSIYc6XtJGU/edit#gid=0).
+
+## Followers
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) will provide a nice amount of high quality followers but there is still the unforgettable [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)), [Vilja](https://www.nexusmods.com/skyrimspecialedition/mods/6722), and even [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137). There is also Serana [Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/32161) for all those who love the goth cutie.
+
+## Loot, Artefacts and Leveling 
+[Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) overhauls all vanilla Artifacts and [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308) coupled with [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342) makes sure you do not find spider webs in the dungeon chests. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes levelling so that exploring the world of Skyrim increase your level with skill levels increasing independently. There is a skill cap to avoid powerlevelling which is determined by the player character level. More details on this can be seen on the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/17751), which I recommend you read.
+
+## Enemies and General Difficulty 
 QWEST! isn't here to make the game feel like it's Dark Souls' difficulty. My philosophy on enemies is that diversity should be more important than difficulty, and that very diversity is gonna make the game more challenging. That is why you will find all kinds of bandits, draugrs, vampires, dragons, while they all have new cool spells due to [EEOS](https://www.nexusmods.com/skyrimspecialedition/mods/37228) and their spawns are increased due to [Genesis Unleashed](https://www.nexusmods.com/skyrimspecialedition/mods/23871).
-Here's a few mods adding diversity: For Draugrs we have: [DUI](https://www.nexusmods.com/skyrimspecialedition/mods/21775), [BriDO](https://www.nexusmods.com/skyrimspecialedition/mods/26188), [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238). Bandits have [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145) and it's Patrol addon. Vampires have [Better Vampire NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9510). Dragons have [Splendor](https://www.nexusmods.com/skyrimspecialedition/mods/9670), [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) and [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693). This list isn't exhaustive!
+
+A wide variety of mods are used to increase variety to the enemies you ecounter across the worldspaces. Draugrs have been improved using [DUI](https://www.nexusmods.com/skyrimspecialedition/mods/21775), [BriDO](https://www.nexusmods.com/skyrimspecialedition/mods/26188) and [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238). Bandits have been improved using [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145) and it's Patrol addon. Vampires have been improved through the use of [Better Vampire NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9510). Dragons are improved using [Splendor](https://www.nexusmods.com/skyrimspecialedition/mods/9670), [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) and [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693). This list is not exhaustive!
 
 ## Installation
 ### Pre-Installation
@@ -193,14 +200,13 @@ Here are the normal INI Path that you should have in the Setup tab: [EnaiRim](ht
 
 This list is aimed towards very low end PCs, but that doesn't mean ENB isn't an option.
 
-I recommend anyone with a 2GB card to skip this step and test in game, then check afterwards for what's following, ENB is the biggest performance hit in modding (if you don't go nuts with textures which I didn't). For the lucky ones with more than 2GB of VRAM but still low end, we have a tweaked [Zangdar's Rudy Cathedral](https://www.nexusmods.com/skyrimspecialedition/mods/39113) specifically made for the list.
-There is also another option which is ReShade, it's even less heavy but does less, instructions on this option are below The Truth ENB's installation instructions.
+For anyoner who has a 2GB vram card, I advise you to skip this step and test in game first. Once you have tested, come back and read the following. 
 
-To install Zangdar's Rudy Cathedral, navigate to `Your Installation Folder\ENB Presets`([here](http://prntscr.com/10e2nl4)) and simply drag and drop the contents of either the performance one or the higher end one to your Skyrim SE Directory (where the game .exe is). [Those](http://prntscr.com/10e2odv).
-On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini Preset, it is also very dependent on your PC, I do not recommend ENBs if your PC has an AMD GPU.
+ENB is the biggest performance hit in modding (provided you don't go crazy on textures and have lot of high poly stuff everywhere which I didn't), and for the lucky ones with more than 2GB of vram but still not a lot, a custom tweaked version of [Zangdar's Rudy Cathedral](https://www.nexusmods.com/skyrimspecialedition/mods/39113) that was specifically made for this list is included. To install Zangdar's Rudy Cathedral, navigate to `Your Installation Folder\ENB Presets`([here](http://prntscr.com/10e2nl4)) and simply drag and drop the contents of either the performance one or the higher end one to your Skyrim SE Directory (where the game .exe is). [Those](http://prntscr.com/10e2odv).
+On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini Preset. This is very dependent on your PC however so your mileage may vary.
 
-Now Let's talk about the ReShade option.
-ReShade is simpler than ENBs, they generally focus on color correction but if rightly used, they can enhance the game graphics nicely with even lower fps loss, couple that with a SKyrim set on Low and even the weaker gpus can experience more than vanilla Skyrim lighting.
+There is also another option which is ReShade. ReShade is simpler than ENBs as they generally focus on color correction but if rightly used, they can enhance the game graphics nicely with even lower fps loss. Couple that with a SKyrim set on Low and even the weaker gpus can experience more than vanilla Skyrim lighting.
+
 For Skyrim, it's very common for ReShade to be made with a certain ENB in mind, but some exist to be used on top of Vanilla Skyrim. I'll introduce you to 2 of them.
 - [BTS - Beautifully Textured Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/25489)
 - [Ulver](https://www.nexusmods.com/skyrimspecialedition/mods/40433)
@@ -222,11 +228,11 @@ Know that you can switch any ini at anytime during your gameplay, so if you want
 QWEST! has 2 profiles, one with EnaiRim, one with SimonRim. The main difference is that EnaiRim is kinda unbalanced and very strong while SimonRim is kinda like what vanilla Skyrim should've been.
 You can look them up here: [EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) and [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746).
 
-To change the profile, there's a dropdown menu on the top left of MO2, the default profile is EnaiRim, so only change if you want the SimonRim one.
+To change the profile, there's a dropdown menu on the top left of MO2. The default profile is EnaiRim, so only change if you want the SimonRim one.
 
-## Personalization
+## Personalisation
 
-On top of the 2 Profiles available for the core gameplay mods, QWEST! comes with some Quality of Life changes and gameplay mods that some may or may not enjoy. All of those are supported as written here, other modifications fall under Rule 11: No support will be given if modifications happen.
+On top of the 2 Profiles available for the core gameplay mods, QWEST! comes with some Quality of Life changes and gameplay mods that some may or may not enjoy. All of the modifcations detailed below are supported as written. No support will be given if any other modifications happen or you deviate from what is detailed below.
 
 First possible modifications is the [Survival Setup](http://prntscr.com/1152kn9). It is enabled by default as it has to be patched by Synthesis to work correctly. But if you follow carefully what I'm about to write, you will be able to remove it entirely. Yes entirely as I do not support removing only hypothermia or cleaning and washing while keeping food and sleep needs. There are 2 steps:
 - Untick all the mods under ``Survival Stuff`` ( [those](http://prntscr.com/1152kn9) ) 
