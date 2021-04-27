@@ -175,7 +175,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Copy Game Folder Files
 
-Copy the all of the files from the `QWEST!/Game Folder Files` directory into your game folder.
+When the installation is complete, copy the files in the `QWEST!\Game Folder Files` folder and paste them into your Skyrim folder (with the SkyrimSE.exe and the data folder). [HERE](http://prntscr.com/124984m)
 
 ## Graphical Settings
 
