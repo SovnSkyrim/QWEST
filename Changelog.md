@@ -1,3 +1,71 @@
+## 3.2.0 | Interior Texture Overhaul
+
+**Released at**: `Unreleased`
+
+**Notes** : No clue if it's savefile compatible. "No" will be my go-to answer; try at your own peril.
+
+Added:
+- Underground - a dungeon texture overhaul
+- Rudy HQ - Nordic Ruins SE + Pots + Chests 
+- Skyrim Landscape Overhaul - Stone Walls
+- RUSTIC CLUTTER Collection
+- Rudy HQ - Miscellaneous
+- Rudy HQ - Hay
+- Rudy HQ - Standings Stones
+- CC's HQ Caves
+- Vanilla Table Replacers
+- Basic Dining Set Replacer
+- Tihzz's Tankard HD Replacer
+- RUSTIC WINDOWS
+- RUSTIC SOULGEMS 
+- RUSTIC ELDERSCROLL
+- RUSTIC FURNITURE
+- RUSTIC RELIEFS
+- RUSTIC MAPS
+- ElSopa - HD Dirt Blast 
+- ElSopa - HD Remade Better Dust Piles 
+- ElSopa - HD Keys 
+- ElSopa - HD Dragonborn Skull
+- ElSopa - HD Saerek Skull
+- ElSopa - HD Ants
+- ElSopa - HD Papers
+- ElSopa - HD Glorious Dummies
+- DRAGON PRIEST by Kajuan
+- JS Dragon Claws SE
+- JS Purses and Septims SE
+- JS Shrines of the Divines SE
+- WiZkiD Signs 
+- Quality CubeMaps - HD Cube Maps
+- Valerica Re-Imagined
+- Additional Hearthfire Dolls
+- Extended Encounters and Wintersun - Vigilants Hunt True Daedra Worshippers
+- Wintersun Bosmeri Y'ffre
+- Draco's Beautiful Auroras and Nebulas
+- Vanilla Warpaints Absolution
+- NECROME -Skeletons Sounds Rework-
+- To Your Face Redux
+
+Updated:
+- Lux
+- Zangdar's Rudy Cathedral ENB for Lux
+- Manbeast 
+- Pride of Skyrim AIO
+- Quest and Reward Delay for Legacy of the Dragonborn
+- Skyrim Outfitted 
+- SSE Display Tweaks 
+- Papyrus Extender
+- Sky Idles 
+- Synthesis Patchers
+- DynDOLOD and Occlusion Outputs
+
+Removed:
+- Valericaholic 
+    - Replaced by Valerica Re-Imagined
+- Arrow Bolts and Tweaks
+    - Replaced by AmmoTweaks via Synthesis
+- To Your Face SE and VR
+    - Replaced with To Your Face Redux 
+
 ## 3.1.0 | More Weapons Diversity and New Armors
 
 **Released at**: `14/04/2021`
