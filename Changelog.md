@@ -1,6 +1,6 @@
 ## 3.2.0 | Interior Texture Overhaul
 
-**Released at**: `Unreleased`
+**Released at**: `28/04/2021`
 
 **Notes** : No clue if it's savefile compatible. "No" will be my go-to answer; try at your own peril.
 
