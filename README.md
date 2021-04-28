@@ -245,13 +245,15 @@ Third modification: [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by def
 
 Fourth modification: [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png)
 
-Fifth Modification is the difficulty tweak that allows NPCs to have Ordinator Perks; it'll make the experience much more challenging but I play with it myself. Here's the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42022).
+Fifth Modification is the difficulty tweak that allows NPCs to have Ordinator Perks; it'll make the experience much more challenging but I play with it myself. Here's the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42022). There's also one for Adamant; [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/47484).
 
 Sixth Modification is [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container, corpse, or anything that you're hovering, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
 
 Seventh is [NeverNude](http://prntscr.com/1152dvf). The list is Nude by default, ticking those (and unticking Bijin Skin) should make it NeverNude, which is way better for Twitch or a skeptical wife!
 
-Eight and last modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in [MY Discord](https://discord.gg/ZgjVrXp) (not Wabbajack's) if you want the details on how to use a controller with QWEST!
+Eight modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in [MY Discord](https://discord.gg/ZgjVrXp) (not Wabbajack's) if you want the details on how to use a controller with QWEST!
+
+Lastly there's a little lighting tweak which is the [brighter templates for Lux](http://prntscr.com/127n926). More something to check after having a feeling of the game already. It makes all the interior cells of the game a bit brighter. Don't forget to calibrate your monitor if you want to actually have good colors.
 
 ## How to start up QWEST!
 
