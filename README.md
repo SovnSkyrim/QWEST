@@ -496,6 +496,10 @@ Headwear that conceals your identity will stop NPCs from interacting with you, f
 
 1st person animations are overhauled by [First Person Combat Animations Overhaul 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/45177). If it bothers you, you can safely disable it in MO2.
 
+## My character T-Poses!
+
+Cap your framerate, either with BethINI, SSE Display Tweaks or Enb.
+
 ## I want to support your work!
 
 I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
