@@ -484,9 +484,9 @@ Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support ch
 
 Known and on purpose, don't bother me with that please.
 
-## A face part is crashing me!
+## A face part is crashing me! | Some hair/facial hair clips!
 
-The 5th Facepart is a lie. Known and unsolvable.
+The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a High Poly Head under Face Part, some hairstyle will remain bugged but it is known and I do not know how to fix them. The mod they're from doesn't only offer those bugged hairstyles so it remains for the rest of what it proposes.
 
 ## I can't talk to NPCs!
 
