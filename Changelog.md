@@ -1,6 +1,6 @@
 ## 3.2.1 | Updates, bugfixes and just released mods
 
-**Released at**: `Unreleased`
+**Released at**: `05/05/2021`
 
 **Notes** : Savefile Compatible - Be warned that Serana may be funky if she has already been approached. If you haven't been to Dimhollow yet, should be fine. If you're a vampire in EnaiRim, update at your own peril.
 
