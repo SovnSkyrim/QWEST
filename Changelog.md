@@ -2,7 +2,7 @@
 
 **Released at**: `Unreleased`
 
-**Notes** : Savefile Compatible - Be warned that Serana may be funky if she has already been approached. If you haven't been to Dimhollow yet, should be fine.
+**Notes** : Savefile Compatible - Be warned that Serana may be funky if she has already been approached. If you haven't been to Dimhollow yet, should be fine. If you're a vampire in EnaiRim, update at your own peril.
 
 Added:
 - Dynamic Things Alternative
