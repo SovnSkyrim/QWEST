@@ -1,3 +1,28 @@
+## 3.2.1 | Updates, bugfixes and just released mods
+
+**Released at**: `Unreleased`
+
+**Notes** : Savefile Compatible - Be warned that Serana may be funky if she has already been approached. If you haven't been to Dimhollow yet, should be fine.
+
+Added:
+- Dynamic Things Alternative
+- Indecent Exposure - Immersive Naked Reactions
+- Better SkyUI Config - Smart sorting by type
+- Daedric Shrines of Skyrim
+- Enemy Magelock - NPC Magic Casting Commitment
+
+Updated:
+- Sacrilege 
+- Serana Dialogue Add-on
+- Legacy of the Dragonborn - The Curator's Companion
+- Reliquary of Myth
+- SSE Display Tweaks
+- NECROME -Skeletons Sounds Rework-
+- Equip Enchantement Fix
+- Whiterun Mesh Fixes
+- Cuyi's Bosmeri Antlers
+- Sky Idles 
+
 ## 3.2.0 | Interior Texture Overhaul
 
 **Released at**: `28/04/2021`
