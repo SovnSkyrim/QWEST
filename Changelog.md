@@ -1,3 +1,23 @@
+## 3.2.2 | Size Shrieking
+
+**Released at**: `07/05/2021`
+
+**Notes** : Savefile Compatible.
+
+Added:
+- Cuyi's Campfire Backpacks
+- Penumbra -Vampire Lord Sounds Rework-
+- Hypertrichosis -Werewolf Sounds Rework-
+
+Updated:
+- Lux 
+- Dear Diary
+- Dynamic Things Alternative 
+
+Removed:
+- SSE Fixes
+    - Should have been removed months ago when SME/FT did. Should Fix some crashes.
+
 ## 3.2.1 | Updates, bugfixes and just released mods
 
 **Released at**: `05/05/2021`
