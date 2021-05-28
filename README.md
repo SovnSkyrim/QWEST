@@ -203,7 +203,7 @@ Bigger Skyrim modlists need a lot of memory, and when there is not enough availa
 A pagefile is a file on your disk Windows will use when there is not enough RAM available.
 Never disable the pagefile - this may lead to various issues on your system, such as this Skyrim crash.
 
-If you've never touched the pagefile, try performing the following steps:
+If you've never touched the pagefile, perform the following steps to prevent from memory crashes:
 1. Press Windows + R on your keyboard and enter `sysdm.cpl ,3`
 2. Under the Performance section, press 'Settings'
 3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
