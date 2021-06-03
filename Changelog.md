@@ -1,3 +1,116 @@
+## 3.3.0 | We try to reduce crashes on save loading Update 
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added:
+- Sovn's Handpicked NPCs - Carefully chosen 700+ NPCs from those overhauls:
+    - Pride of Skyrim
+    - Metalsaber's Beautiful Orcs
+    - Vahdin - Npc
+    - Northbourne NPCs of Falkreath Hold
+    - Northbourne NPCs of Whiterun Hold
+    - Northbourne NPCs of the Rift
+    - Northbourne NPCs of Winterhold
+    - Northbourne NPCs of Haafingar 
+    - Kalilies NPCs
+    - eeekie's Enhanced NPCs 
+    - Pandorable's NPCs
+    - Pandorable's Males 
+    - Pandorable's Males 2
+    - Pandorable's Dragonborn NPCs
+    - Pandorable's Dawnguard NPCs
+    - Pandorable's Black Briar
+    - Pandorable's Shield Sisters
+    - Pandorable's Lethal Ladies
+    - Pandorable's Warrior Women
+    - Pandorable's Brelyna
+    - Pandorable's Initiates
+    - Bijin NPCs
+    - Bijin Warmaidens
+    - Bijin Wives
+    - Beards of Power - Sons of Skyrim
+    - Gentle Muiri
+    - Serana Re-imagined
+    - Valerica Re-imagined
+    - Jarls Re-imagined
+    - Shield Sisters Re-imagined
+    - BeastHHBB
+- Better Vampire NPCs - Script Fix
+- The Curator's Comapanion - Fixed Scripts by TitansBane
+- Gladys the Corgi - A Custom Dog Follower Mod
+- Artifacts of Skyrim - Revised Edition
+- Modular Armory
+- Glacierslab SSE
+- SC - Glacierslab Addon 
+- SC - Cubemaps
+- Expressive Facial Animation -Male Edition-
+- Expressive Facial Animation -Female Edition-
+- Convenient Reading UI - SE
+- Beards
+- Animated Armoury - Fixes Rebalance Enchantments and Patches
+- Dog Backpacks and More
+- Tale of Two Mer - An Armor Variant Mod
+- Ancient Nord Stalhrim
+- Andrealphus' Exploit Fixes
+- Alpha Jab -Unarmed Combat Sounds Rework-
+- Valthume - Dragon Priest Voiced Sound Rework -
+- Arachnid -Spiders Sounds Rework SFX-
+- Phantasmagoria -Ghosts SFX Voice Rework-
+- Immersive Interactions - Animated Actions
+- Stay In Shape - A Pumping Iron Addon
+- Smooth Random Magic idle Animation
+- Unarmed Fighter Animations
+- Skytest Less Fear Patch
+- Stendar Rising
+- Silence is Golden
+- Thu'um Animated Shouts
+- Faster Mining Animation
+- Enemy Friendly Fire
+- Hide your Quests
+- Survival Only
+    - Immersive Interactions - Animated Actions
+    - Stay In Shape - A Pumping Iron Addon
+
+Updated:
+- Skyrim.ini and EngineFixes.toml to try avoiding "Crashes on Save Load" on Long Running Saves
+- Zangdar's Rudy Cathedral ENB for Lux
+- Legacy of the Dragonborn - 5.5.1
+- Legacy of the Dragonborn Patches (Official) - 2.5.2
+- Wyrmstooth - 1.19.3
+- Land of Vominheim - 2.0.2
+- Ordinator - 9.30.1
+- Arena - Arena But Worse
+- Lux - 2.3
+- Serana Dialogue Add-on - 2.5.5 
+- Animated Armoury - 2.1
+- Dynamic Things Alternative - 0.9
+- Nether's Follower Framework - 2.7.7
+- Skyrim Outfitted - 1.20
+- Dear Diary - 3.0.4
+- Wood and Paper - A Dear Diary Skin - 1.0.1
+- Better SkyUI Coinfig - 1.0.1
+- KS Hairdos - 1.8
+- SC - KS Hairdos Retextured - 1.8 
+- SunHelm - 2.0.5
+- Extended Encounters - 1.6.2
+- Frozen Electrocuted Combustion - 4.8.6
+- Dwemer Gates Don't Reset - 1.2.9
+- Smooth Random Sprint Animation - 2.1
+- Smooth Random Blocking Animation - 2.1
+- Become a Bard - Caslyn's Songbooks - 1.5
+- Missives - The Witcher Board HD - 2.0
+- Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER) - 5.0
+- Unequip Quiver - 1.4
+- Cuyi's Campfire Backpacks - Backpacks Renamed 
+- Diverse Skyrim - Battle of Whiterun Fix - 1.0.2
+- SSE Display Tweaks - 0.4.14
+- powerofthree's Papyrus Extender - 4.3.8
+- Essential Favorites - 2.1
+- More Informative Console - 0.42
+- Regenerated All Synthesis / DynDOLOD / Occlusion Patchers
+
 ## 3.2.2 | Size Shrieking
 
 **Released at**: `07/05/2021`
