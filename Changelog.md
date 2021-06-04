@@ -1,6 +1,17 @@
-## 3.3.0 | We try to reduce crashes on save loading Update 
+## 3.3.1 | Fixing NPCs
 
 **Released at**: `Unreleased`
+
+**Notes** : Savefile Compatible
+Fixed:
+- Missing body parts on NPCs
+
+Updated:
+- Gladys the Corgi
+
+## 3.3.0 | We try to reduce crashes on save loading Update 
+
+**Released at**: `03/06/2021`
 
 **Notes** : Not Savefile Compatible
 
