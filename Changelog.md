@@ -1,6 +1,6 @@
 ## 3.3.1 | Fixing NPCs
 
-**Released at**: `Unreleased`
+**Released at**: `04/06/2021`
 
 **Notes** : Savefile Compatible
 
