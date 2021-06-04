@@ -9,6 +9,7 @@ Fixed:
 
 Updated:
 - Gladys the Corgi
+- BeastHHBB
 
 ## 3.3.0 | We try to reduce crashes on save loading Update 
 
