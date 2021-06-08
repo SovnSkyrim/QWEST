@@ -103,6 +103,7 @@ I doubt you need to do this since you likely already have this installed. This p
 
 If you have your steam library in program files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
 I will not provide support to people with Skyrim in their Program Files folder.
+Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine, the best location would be ``C:\SteamLibrary`` if you have a single drive, or whichever Drive Letter you have on your main Games drive, such location is also called the root of the drive.
 
 #### Change Steams Update Behavior
 
