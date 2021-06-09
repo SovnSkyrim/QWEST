@@ -48,7 +48,7 @@ It is a fork of the amazing SME/FT list; if you want to build your own list chec
 
 The name and picture are a reference to the amazing and wholesome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com). Their official Twitter is [here](https://twitter.com/swordscomic).
 
-# READING THIS README IN ITS ENTIRITY IS REQUIRED FOR THE LIST TO WORK, IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". I am going to answer "readme" to any question answered in this document, you have been warned.
+# READING THIS README IN ITS ENTIRITY IS REQUIRED FOR THE LIST TO WORK, IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". I am going to answer "readme" to any question answered in this document, you have been warned. THIS LIST MASSIVELY CHANGES THE GAME, AND I'VE PUT MY OWN TWEAKS INTO IT, YOU WOULDNT HAVE THE SAME EXPERIENCE IF YOU MODDED THE GAME YOURSELF WITH THE SAME MODS, THUS, DO NOT REPORT ANY BUG/ERROR/ISSUE/PROBLEM TO MOD AUTHORS BUT ONLY TO ME THROUGH WABBAJACK'S OR MY DISCORD.
 
 # Noteworthy Mods and what gameplay to expect.
 
