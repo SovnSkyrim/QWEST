@@ -517,6 +517,18 @@ Headwear that conceals your identity will stop NPCs from interacting with you, f
 
 Cap your framerate, either with BethINI, SSE Display Tweaks or Enb.
 
+## The game is too dark! Brightness isn't right! I wanna modify the enb shadow strenght/brightness/lights settings!
+
+The game is darker BY DESIGN, it is NORMAL that it's not as bright as the vanilla game!
+
+For all users:
+- Refer to the Brightness part of the Personalization part of the readme
+- Calibrate your monitor with deep range (google it, not hard, doesn't come natively on monitors tho)
+- Use [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633) (you can also make it brighter in it's MCM
+
+For ENB Users:
+- When ingame, press Shift+Enter to open ENB Menu. In the right tab, called Shader Parameters at the top, select 'ENBEFFECT.FX' You will see different options for every time of day and night, and a separate slider for Interior Brightness. Dont forget to save configuration all the way in the top left.
+
 ## I want to support your work!
 
 I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
