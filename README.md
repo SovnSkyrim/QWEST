@@ -497,10 +497,6 @@ Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support chann
 
 Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not bug reports.
 
-## Serana Re-Imagined is ticked off in the right panel.
-
-Known and on purpose, don't bother me with that please.
-
 ## A face part is crashing me! | Some hair/facial hair clips!
 
 The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a High Poly Head under Face Part, some hairstyle will remain bugged but it is known and I do not know how to fix them. The mod they're from doesn't only offer those bugged hairstyles so it remains for the rest of what it proposes.
@@ -524,7 +520,7 @@ The game is darker BY DESIGN, it is NORMAL that it's not as bright as the vanill
 For all users:
 - Refer to the Brightness part of the Personalization part of the readme
 - Calibrate your monitor with deep range (google it, not hard, doesn't come natively on monitors tho)
-- Use [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633) (you can also make it brighter in it's MCM
+- Use [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633) (you can also make it brighter in it's MCM)
 
 For ENB Users:
 - When ingame, press Shift+Enter to open ENB Menu. In the right tab, called Shader Parameters at the top, select 'ENBEFFECT.FX' You will see different options for every time of day and night, and a separate slider for Interior Brightness. Dont forget to save configuration all the way in the top left.
