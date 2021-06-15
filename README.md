@@ -528,6 +528,8 @@ For all users:
 For ENB Users:
 - When ingame, press Shift+Enter to open ENB Menu. In the right tab, called Shader Parameters at the top, select 'ENBEFFECT.FX' You will see different options for every time of day and night, and a separate slider for Interior Brightness. Dont forget to save configuration all the way in the top left.
 
+Those are the ONLY tweaks available without changing LIGHTING MODS THEMSELVES, which is NOT SUPPORTED. You WILL need xEdit knowledge to do so, and it'd be EXTREMELY tedious.
+
 ## I want to support your work!
 
 I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
