@@ -516,6 +516,9 @@ Headwear that conceals your identity will stop NPCs from interacting with you, f
 
 Cap your framerate, either with BethINI, SSE Display Tweaks or Enb.
 
+## My Legacy of the Dragonborn (LOTD) Quests are not starting up even though I have the number of Relics the Wiki says I need!!
+Due to having 4000 displays possible, we use [Quest and Reward Delay for LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/44923). Use their new chart to know which number of relic you need to start the quests.
+
 ## The game is too dark! Brightness isn't right! I wanna modify the enb shadow strenght/brightness/lights settings!
 
 The game is darker BY DESIGN, it is NORMAL that it's not as bright as the vanilla game!
