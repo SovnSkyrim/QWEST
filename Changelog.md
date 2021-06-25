@@ -36,7 +36,7 @@ Updated:
 - Legacy of the Dragonborn SSE - 5.5.2
 - Legacy of the Dragonborn Patches (Official) - 2.5.3
 - Legacy of the Dragonborn SSE - The Curators Companion - 6.0.4
-- Artifacts of Skyrim - Revised Edition - 1.0.9
+- Artifacts of Skyrim - Revised Edition - 1.1.0
 - Beyond Reach - 4.5
 - Beyond Reach - Tweaks and Enhancements - 2.4.4
 - The Grand Paladin 2021 - 1.3
