@@ -1,3 +1,68 @@
+## 3.4.0 | Maintenance Update 1 - Mod Updates and Newly made mods 
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible
+
+Added: 
+- Skyrim's Got Talent - Improve as a Bard
+- BA Bard Songs - Required by Skyrim's Got Talent
+- Immersive World Encounters SE
+- Immersive World Encounters AddOn - High Poly Uniques
+- Airgetlam -Modern Magic Sounds Rework-
+- powerofthree's Tweaks
+- Scrambled Bugs
+- The Paarthurnax Dilemma - Voiced Dialogue
+- Shadows Of Sunlight - In Small Exterior World Spaces
+- Courageous Women of Skyrim AIO 
+- Savage Skyrim (Only Skeletons)
+- High Poly Canticle Tree
+- High Poly Soul Husks
+- 3D Junipers - Trees and Berries
+- 3-Vane Fletching for Ebony Arrows
+- Sufficiently Optimized Snowberries 3D
+- High Poly Blackreach Mushrooms
+- Improved Dwemer Glass
+- Adjusted Visual Animated Enchants (AVAE)
+- Runway Walk Animation
+- Dirt and Blood - Seamless Soap Texture SE
+
+Updated:
+- Cleaned Skyrim SE Textures - 1.2.3.2
+- Unofficial Skyrim Special Edition Patch - 4.2.5b
+- SSE Display Tweaks - 0.4.15-1
+- Legacy of the Dragonborn SSE - 5.5.2
+- Legacy of the Dragonborn Patches (Official) - 2.5.3
+- Legacy of the Dragonborn SSE - The Curators Companion - 6.0.4
+- Artifacts of Skyrim - Revised Edition - 1.0.9
+- Beyond Reach - 4.5
+- Beyond Reach - Tweaks and Enhancements - 2.4.4
+- The Grand Paladin 2021 - 1.3
+- Adamant - A Perk Overhaul - 5.0
+- Wintersun - Faiths of Skyrim - 3.2.0
+- SunHelm Survival and needs - 2.0.6
+- Sovn's NPCs - Handpicked - Added Courageous Women of Skyrim and some other updates like Pandorable's and Pride of Skyrim
+- Serana Dialogue Add-On - 2.6.1
+- Serana Dialogue Add-On NFF Patch - 5.0
+- Gladys the Corgi - A Custom Dog Follower Mod - 1.0.3
+- Reliquary of Myth - Artifact Overhaul - 3.9.2
+- Undeath - Classical Lichdom - 2.40
+- Legacy of the Dragonborn - FrankFamily's Paladin Replacer for the Crusader Set - 1.1
+- Unofficial Identity Crisis TCC Patch - 1.0.3
+- More to Say - 8.0.1
+- Dynamic Things Alternative - 0.10.1
+- Daedric Shrines of Skyrim - 1.0.1
+- Dear Diary - 3.0.5
+- Wood and Paper - SkyUI - Dear Diary Skin - 1.0.2
+- Markarth - A Reflective Experience - 1.3.1
+- Andrealphus' Exploit Fixes - Dont Read Elder Scrolls While Swimming - 1.1
+- Bright Waterfall Fix for ENB - 3.3.1
+- Faster Mining Animation (DAR) - 1.2
+
+Removed: 
+- Become a Bard (and all it's Addons)
+    - Using Skyrim's Got Talent instead.
+
 ## 3.3.1 | Fixing NPCs
 
 **Released at**: `04/06/2021`
