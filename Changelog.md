@@ -13,6 +13,7 @@ Added:
 - Airgetlam -Modern Magic Sounds Rework-
 - powerofthree's Tweaks
 - Scrambled Bugs
+- Dwemer Fairies SSE + Particle Patch + Handplaced by Sovn
 - Immersive Fossil Mining Drop Rate Adjustment Redux for Good Guys
 - The Paarthurnax Dilemma - Voiced Dialogue
 - Shadows Of Sunlight - In Small Exterior World Spaces
