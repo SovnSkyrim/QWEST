@@ -9,6 +9,7 @@ Added:
 - BA Bard Songs - Required by Skyrim's Got Talent
 - Immersive World Encounters SE
 - Immersive World Encounters AddOn - High Poly Uniques
+- Tonal Architect (Both Profiles)
 - Airgetlam -Modern Magic Sounds Rework-
 - powerofthree's Tweaks
 - Scrambled Bugs
