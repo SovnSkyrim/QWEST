@@ -40,7 +40,6 @@ Updated:
 - Beyond Reach - 4.5
 - Beyond Reach - Tweaks and Enhancements - 2.4.4
 - The Grand Paladin 2021 - 1.3
-- Adamant - A Perk Overhaul - 5.0
 - Wintersun - Faiths of Skyrim - 3.2.0
 - SunHelm Survival and needs - 2.0.6
 - Sovn's NPCs - Handpicked - Added Courageous Women of Skyrim and some other updates like Pandorable's and Pride of Skyrim
