@@ -1,3 +1,22 @@
+## 3.4.1 | SimonRim Fixes and Updates
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible for SimonRim users!!
+
+Added:
+- EnbLight (A single texture from it, so enchanted items generate light around you, performance impact should be null)
+
+Updated:
+- Adamant - A Perk Overhaul - 5.0.1
+- Adamant - Shrines and Amulets - 5.0.3
+- Wyrmstooth - 1.19.4
+- Serana Dialogue Add-On - 2.6.3
+- Conditional Expressions - Subtle Face Animations - 1.12
+- More Informative Console - 0.43
+- Silence is Golden - 1.1
+
+
 ## 3.4.0 | Maintenance Update 1 - Mod Updates and Newly made mods 
 
 **Released at**: `25/06/2021`
