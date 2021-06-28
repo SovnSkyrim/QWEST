@@ -1,6 +1,6 @@
 ## 3.4.1 | SimonRim Fixes and Updates
 
-**Released at**: `Unreleased`
+**Released at**: `28/06/2021`
 
 **Notes** : Not Savefile Compatible for SimonRim users!!
 
