@@ -533,6 +533,12 @@ For ENB Users:
 
 Those are the ONLY tweaks available without changing LIGHTING MODS THEMSELVES, which is NOT SUPPORTED. You WILL need xEdit knowledge to do so, and it'd be EXTREMELY tedious.
 
+## "I am bothered by the way NPC look in the game!" and "How do NPC look?? Are they rugged? Are they supermodels? are they vanilla?"
+
+I really do not care and won't take your opinion into account, I've scoured a fuckton of NPC overhaul (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits MY tastes.
+If you wander how they look like, [here's a document which lists what overhauls who (for vanilla NPCs)]. If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [High Poly NPC Overhaul - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44155). 
+Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take criticism from.
+
 ## I want to support your work!
 
 I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
