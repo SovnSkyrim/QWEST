@@ -536,7 +536,11 @@ Those are the ONLY tweaks available without changing LIGHTING MODS THEMSELVES, w
 ## "I am bothered by the way NPC look in the game!" and "How do NPC look?? Are they rugged? Are they supermodels? are they vanilla?"
 
 I really do not care and won't take your opinion into account, I've scoured a fuckton of NPC overhaul (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits MY tastes.
-If you wander how they look like, [here's a document which lists what overhauls who (for vanilla NPCs)]. If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [High Poly NPC Overhaul - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44155). 
+
+If you wonder how they look like, [here's a document which lists what overhauls who (for vanilla NPCs)]. 
+
+If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [High Poly NPC Overhaul - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44155). 
+
 Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take criticism from.
 
 ## I want to support your work!
