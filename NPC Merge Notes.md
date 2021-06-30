@@ -1,4 +1,4 @@
-## PA44 Thieves Guild
+## Pride of Skyrim - Thieves Guild
 - MercerFrey "Mercer Frey" [NPC_:0001B07C]
 - Syndus "Syndus" [NPC_:00029DAA]
 - Arnskar "Arnskar Ember-Master" [NPC_:00029DAD]
@@ -10,14 +10,14 @@
 - RavynImyan "Ravyn Imyan" [NPC_:000B03A4]
 - WEJS11Sigar "Sigar" [NPC_:000B85BE]
 
-## PA44 Companions
+## Pride of Skyrim - Companions
 - VignarGrayMane "Vignar Gray-Mane" [NPC_:00013BB5]
 - Farkas "Farkas" [NPC_:0001A692]
 - Vilkas "Vilkas" [NPC_:0001A694]
 - Brill "Brill" [NPC_:0001A6A2]
 - Athis "Athis" [NPC_:0001A6D5]
 
-## PA44 Riften
+## Pride of Skyrim - Riften
 - Aerin "Aerin" [NPC_:00013346]
 - Asgeir "Asgeir Snow-Shod" [NPC_:0001334B]
 - Shadr "Shadr" [NPC_:00013371]
@@ -30,7 +30,7 @@
 - Unmid "Unmid Snow-Shod" [NPC_:000371D7]
 - Briehl "Briehl" [NPC_:000585FB]
 
-## PA44 Reach
+## Pride of Skyrim - Reach
 - Madanach "Madanach" [NPC_:000133A7]
 - Endon "Endon" [NPC_:00013395]
 - Skaggi "Skaggi Scar-Face" [NPC_:000133B8]
@@ -40,10 +40,10 @@
 - Enmon "Enmon" [NPC_:00013B6C]
 - TacitusSallustius "Tacitus Sallustius" [NPC_:0001402D]
 
-## PA44 Winterhold
+## Pride of Skyrim - Winterhold
 - Dagur "Dagur" [NPC_:0001C183]
 
-## PA44 Solitude
+## Pride of Skyrim - Solitude
 - Addvar "Addvar" [NPC_:00013255]
 - Erikur "Erikur" [NPC_:00013272]
 - FalkFirebeard "Falk Firebeard" [NPC_:00013274]
@@ -58,11 +58,11 @@
 - Rulindil "Rulindil" [NPC_:00039F1F]
 - AquilliusAeresius "Aquillius Aeresius" [NPC_:000D6AD8]
 
-## PA44 Windhelm 
+## Pride of Skyrim - Windhelm 
 - AvalAtheron "Aval Atheron" [NPC_:00014140]
 - Nurelion "Nurelion" [NPC_:00014148]
 
-## PA44 SmallTowns
+## Pride of Skyrim - SmallTowns
 - Lokir [0004679A]
 - Rorik "Rorik" [NPC_:000136B2]
 - Mralki "Mralki" [NPC_:000136B6]
@@ -73,7 +73,7 @@
 - HHpilgrim01 "Barknar" [NPC_:000BC079]
 - Benor "Benor" [NPC_:000135E8]
 
-## PA44 Whiterun
+## Pride of Skyrim - Whiterun
 - CarriageDriverWhiterun "Bjorlam" [NPC_:00013669]
 - Anoriath "Anoriath" [NPC_:00013B97]
 - Elrindir "Elrindir" [NPC_:00013B9E]
@@ -102,7 +102,7 @@
 - Sigurd "Sigurd" [NPC_:000CDD72]
 - AcolyteJenssen "Acolyte Jenssen" [NPC_:000D3E79]
 
-## PA44 FalkreathRiverwood
+## Pride of Skyrim - FalkreathRiverwood
 - Kust [0001364C]
 - Runil [0001364D]
 - Bolund [00013651]
@@ -121,7 +121,7 @@
 - Orgnar [00013479]
 - Sven "Sven" [NPC_:0001347F]
 
-## PA44 MiscMale
+## Pride of Skyrim - MiscMale
 - Odfel "Odfel" [NPC_:000136C4]
 - GrogmarGroBurzag "Grogmar gro-Burzag" [NPC_:000136C6]
 - CWFieldCOImperialRift "Legate Fasendil" [NPC_:0008454F]
@@ -134,7 +134,7 @@
 - CommanderMaro "Commander Maro" [NPC_:0001D4B5]
 - GaiusMaro "Gaius Maro" [NPC_:00044050]
 
-## PA44 CW EastmarchWinterhold
+## Courageous Women of Skyrim - EastmarchWinterhold
 - Tormir "Tormir" [NPC_:0001403D]
 - GemmaUriel "Gemma Uriel" [NPC_:00014040] 
 - Hillevi "Hillevi Cruel-Sea" [NPC_:0001411F]
@@ -144,11 +144,11 @@
 - dunAnsilvundLuahAlSkaven "Lu'ah Al-Skaven" [NPC_:0002333A]
 - dunIronbindSalma "Salma" [NPC_:0006CD5A]
 
-## PA44 CW Haafingar
+## Courageous Women of Skyrim - Haafingar
 - Gianna "Gianna" [NPC_:0004BCC3]
 - HousecarlSolitude "Jordis the Sword-Maiden" [NPC_:000A2C8F] 
 
-# PA44 CW PaleReachHjaalmarch
+# Courageous Women of Skyrim - PaleReachHjaalmarch
 - Bothela "Bothela" [NPC_:0001338B] 
 - Daighre "Daighre" [NPC_:00013391]
 - Faleen "Faleen" [NPC_:00013397]
@@ -162,12 +162,12 @@
 - VigilantCarcette "Keeper Carcette" [NPC_:000BFB55]
 - dunFrostmereCryptEisa "Eisa Blackthorn" [NPC_:000D001A] 
 
-## PA44 CW Rift
+## Courageous Women of Skyrim - Rift
 - Niluva "Niluva Hlaalu" [NPC_:0001336E]
 - Lynly "Lynly Star-Sung" [NPC_:000136BC] 
 - TembaWideArm "Temba Wide-Arm" [NPC_:000658D2]
 
-## PA44 CW WhiterunFalkreath
+## Courageous Women of Skyrim - WhiterunFalkreath
 - CamillaValerius "Camilla Valerius" [NPC_:0001347B] 
 - Narri "Narri" [NPC_:00013654]
 - Tekla "Tekla" [NPC_:00013656]
