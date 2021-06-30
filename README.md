@@ -537,7 +537,7 @@ Those are the ONLY tweaks available without changing LIGHTING MODS THEMSELVES, w
 
 I really do not care and won't take your opinion into account, I've scoured a fuckton of NPC overhaul (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits MY tastes.
 
-If you wonder how they look like, [here's a document which lists what overhauls who (for vanilla NPCs)]. 
+If you wonder how they look like, [here's a document which lists what overhauls who (for vanilla NPCs)](https://github.com/SovnSkyrim/QWEST/blob/main/NPC%20Merge%20Notes.md). 
 
 If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [High Poly NPC Overhaul - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44155). 
 
