@@ -373,14 +373,14 @@ MCMs are not automated due to a personal choice: There are many, many important 
 - Activation
   - Compass Activation
     - Key press toggles : Enabled
+
+#### Immersive W. Encounters
+- NEW EVENTS
+  - NPCs: Jarl's Housecarls: Disabled (causes issues)
  
 #### Imperious Racials (EnaiRim)
 - Nothing is really important, you can toggle stuff depending on your Race though!
 Remember that you can't switch race/sex using Showracemenu because of such a mod!
-
-#### Immerisve W. Encounters
-- NEW EVENTS
-  - NPCs: Jarl's Housecarls: Disabled (causes issues)
 
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
