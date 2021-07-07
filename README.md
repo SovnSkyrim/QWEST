@@ -251,8 +251,8 @@ To change the profile, there's a dropdown menu on the top left of MO2. The defau
 
 On top of the 2 Profiles available for the core gameplay mods, QWEST! comes with some Quality of Life changes and gameplay mods that some may or may not enjoy. All of the modifcations detailed below are supported as written. No support will be given if any other modifications happen or you deviate from what is detailed below.
 
-First possible modifications is the [Survival Setup](http://prntscr.com/1152kn9). It is enabled by default as it has to be patched by Synthesis to work correctly. But if you follow carefully what I'm about to write, you will be able to remove it entirely. Yes entirely as I do not support removing only hypothermia or cleaning and washing while keeping food and sleep needs. There are 2 steps:
-- Untick all the mods under ``Survival Stuff`` ( [those](http://prntscr.com/1152kn9) ) 
+First possible modifications is the [Survival Setup](https://prnt.sc/19ack0b). It is enabled by default as it has to be patched by Synthesis to work correctly. But if you follow carefully what I'm about to write, you will be able to remove it entirely. Yes entirely as I do not support removing only hypothermia or cleaning and washing while keeping food and sleep needs. There are 2 steps:
+- Untick all the mods under ``Survival Stuff`` ( [those](https://prnt.sc/19ack0b) ) 
 - Tick the ``Synthesis No Survival`` at the bottom of the left pannel corresponding to your profile.
 Please note that there's a neat little mod on top of all of those that is disabled by default; called [Just Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501), it enables blood to appear as you take damage on you and enemies, and goes away as you regenerate health! More detail on the modpage but if you want it, just enable it! It obviously doesn't work when Dirt and Blood is on so it's off by default. 
 
