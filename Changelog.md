@@ -1,6 +1,6 @@
 ## 3.5.0 | Maintenance Update 2 - Mod Updates and Newly made mods 
 
-**Released at**: `Unreleased`
+**Released at**: `07/07/2021`
 
 **Notes** : Not Savefile Compatible.
 
