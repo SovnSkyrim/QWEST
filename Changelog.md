@@ -1,3 +1,48 @@
+## 3.5.0 | Maintenance Update 2 - Mod Updates and Newly made mods 
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible.
+
+Added:
+- Headhunter - Bounties Redone
+- UNDERDOG - Animations
+- HD Vigilant Project - Jyggalag
+- HD Vigilant Project - Pelinal
+- HD Vigilant Project - Amulet of Kings
+- Ordinator - Scrambled Bugs compatibility (and other minor fixes)
+- Royal Armory - No Visible Quest and Experience Patch
+- Hide Quest Items in Container Menu
+- Sweeping Organizes Stuff - Use Broom to Clean Mess
+- Ordinator J'zargo Expert Destruction Dialogue Fix
+- JS Instruments of Skyrim SE
+- Colossus -Giants SFX Voice Rework
+
+Updated:
+- Beyond Reach - 4.51
+- Wyrmstooth - 1.19.4
+- Adamant - A Perk Overhaul - 5.0.3
+- Adamant Addons - Shrines and Amulets - 5.0.2
+- Serana Dialogue Add-On - 2.6.5
+- Immersive World Encounters. FINAL SE - 3.3
+- Extended Encounters - 1.6.3
+- Skyrim's Got Talent - Improve As a Bard - 1.21
+- True Hunter - 3.0
+- Strange Runes - 3.6.1
+- Frozen Electrocuted Combustion - 4.9.4
+- Dirt and Blood - Dynamic Visual Effects - 2.1
+- Just Blood - Dirt and Blood Lite - 1.1
+- Missives - Worldspace Additions - All Patches Latest Version
+- Bright Waterfall Fix for ENB - 3.3.2
+- powerofthree's Papyrus Extender - 4.4.1
+- Airgetlam -Modern Magic Sounds Rework- - 3.1
+
+Removed:
+- Legacy of the Dragonborn - Generic Tourists
+    - Author is a crybaby and took it off Nexus. Don't know where it is now.
+- A lute from Witcher 3 
+    - Replaced by JS Instruments of Skyrim SE
+
 ## 3.4.1 | SimonRim Fixes and Updates
 
 **Released at**: `28/06/2021`
