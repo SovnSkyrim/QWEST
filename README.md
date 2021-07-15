@@ -499,9 +499,9 @@ Cycle through all the tabs
 
 ## How to start playing
 
-After confirming your character, never use showracemenu to change it's race or sex, you will then be able to start the game. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option. This also allows to check the ```Skyrim Unbound``` MCM to personalize a bit your start. 
-Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! 
-You cannot escape your destiny!
+After you finish customizing all the MCMs, the last thing to check is the Skyrim Unbound MCM. You can safely experiment with all the options in there, EXCEPT choosing a Non-Dragonborn character.
+Anything else in that menu can be customized to your liking. When youre ready, simply press the start adventure button in the Unbound MCM. You will then be prompted to create your character as usual.
+Please Note: Do NOT change sex or race with showracemenu after first confirming your character.
 
 ## FAQ
 
