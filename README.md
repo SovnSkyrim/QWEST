@@ -548,6 +548,12 @@ If you do not find someone, they're either from [Pride of Skyrim AIO](https://ww
 Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache.
 I cannot please everybody, so I decided to please myself.
 
+## Creation Club (CC Content) Support?
+
+Never gonna happen, I don't like paid mods, at all, I don't think they're that high quality, and maintaining 2 profiles is already painful, so 2 more (EnaiRim CC and SimonRim CC) would be extremely annoying (we're talking running Synthesis 8 times, DynDOLOD and Occlusion 4 time).
+CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will never be treated as such.
+Using them with QWEST! would be like installing your own mods: Support is forfeited; and they will NOT work without patching.
+
 ## I want to support your work!
 
 I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
