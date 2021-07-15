@@ -1,6 +1,6 @@
 ## 3.6.0 | Maintenance Update 3 - Cleaning, Mod Updates and Newly made mods
 
-**Released at**: `Unreleased`
+**Released at**: `16/07/2021`
 
 **Notes** : Not Savefile Compatible.
 
