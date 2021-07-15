@@ -51,7 +51,7 @@ Removed:
 - Armor Variants Expansion
     - Residue of old QWEST! versions, not incredible and caused some NPCs to be naked.
 - Inigo
-    - A majority of people likes him, I don't. It is made so poorly it's barely holding together, kinda like my original modding list. Many issues that I cannot fix where reported. On top of that, add that users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final. A tutorial on how to restore him back has been added to #list-modifications in my own Discord.
+    - A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final. A tutorial on how to restore him back has been added to #list-modifications [in my own Discord](https://discord.gg/ZgjVrXp).
 - Ride Sharing
     - Sometimes work, sometimes doesn't, unsure why. Couldn't reliably make it work so it's gone.
 - Nether's Follower Framework
