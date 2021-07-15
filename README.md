@@ -414,7 +414,7 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
     - Enable: Enabled
 
 #### Quick Inventory - Allows you to trade items with your follower quickly
-- Hotkery : Set to whichever you like, X is fine by default.
+- Hotkey : Set to whichever you like, X is fine by default.
 
 #### Radiant Requirements
 - Settings
