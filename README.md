@@ -66,7 +66,7 @@ You should definitely check the Skill Trees within your campfire on top of the v
 
 Fast travel is disabled in multiple of these mods so there's no easy way to reactivate it at all times but there's an alternative: [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793).
 
-Lastly, all profiles have way better horse management thanks to [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519), you can even let one of your followers mount behind you thanks to [Ride Sharing](https://www.nexusmods.com/skyrimspecialedition/mods/11734)!
+Lastly, all profiles have way better horse management thanks to [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519)!
 
 ## Added Quests
 
@@ -81,6 +81,9 @@ You should know that the [Thieves Guild have Requirements](https://www.nexusmods
 
 ## Followers
 [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) will provide a nice amount of high quality followers but there is still the unforgettable [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)), [Vilja](https://www.nexusmods.com/skyrimspecialedition/mods/6722), and even [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137). There is also Serana [Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/32161) for all those who love the goth cutie.
+
+Followers behavior have also greatly changed: [No Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/43618), [you can heal them when down](https://www.nexusmods.com/skyrimspecialedition/mods/26493), [they'll get injured (but shouldn't die if you follow my instructions)](https://www.nexusmods.com/skyrimspecialedition/mods/38043), [access their inventory quickly](https://www.nexusmods.com/skyrimspecialedition/mods/47165) and even [manage their outfit](https://www.nexusmods.com/skyrimspecialedition/mods/48974) or [teach them spells](https://www.nexusmods.com/skyrimspecialedition/mods/17384)!! 
+
 
 ## Loot, Artefacts and Leveling 
 [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) overhauls all vanilla Artifacts and [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308) coupled with [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342) makes sure you do not find spider webs in the dungeon chests. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes levelling so that exploring the world of Skyrim increase your level with skill levels increasing independently. There is a skill cap to avoid powerlevelling which is determined by the player character level. More details on this can be seen on the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/17751), which I recommend you read.
@@ -270,11 +273,16 @@ Seventh is [NeverNude](http://prntscr.com/1152dvf). The list is Nude by default,
 
 Eight modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in [MY Discord](https://discord.gg/ZgjVrXp) (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
-Lastly there's a little lighting tweak which is the [brighter templates for Lux](http://prntscr.com/127n926). More something to check after having a feeling of the game already. It makes all the interior cells of the game a bit brighter. Don't forget to calibrate your monitor if you want to actually have good colors.
-
 ## How to start up QWEST!
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+
+Upon pressing New Game, you will spawn on the walls of Helgen burning down. Once all the messages on top right are gone, set the MCMs like listed below.
+If you press enter, you will be teleported to a location where you will be able to personalize your character.
+After confirming your character, never use showracemenu to change it's race or sex, you will then be able to start the game. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option.
+
+Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! 
+You cannot escape your destiny!
 
 ## Updating
 
@@ -290,6 +298,9 @@ Updating is like installing. You only have to make sure that you select the same
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
 MCMs are not automated due to a personal choice: There are many, many important tweaks, informations, and usefull stuff in them that can solve problems or make your experience better. Those are my own and what I recommend for the least amount of problems and a balanced experience.
+
+Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! 
+You cannot escape your destiny!
 
 #### Game Difficulty
 - The difficulty in this Modlist is quite harder due to Genesis Spawns and enemy diversity brought by Draugr Upgrades and Improvements, OBIS or Better Vampire NPCs. I highly suggest playing in Adept or Expert and putting it higher only if you feel it's too easy.
@@ -350,9 +361,9 @@ MCMs are not automated due to a personal choice: There are many, many important 
     - Modesty Male: Disabled
     - Modesty Female: Disabled
 
-#### Follower Framework
-- System :
-  - Load From File
+#### Follower Death/Injury
+- Settings
+     - Death Chance: 0% Upon Kneeling
 
 #### Genesis Surface Spawns
   - Nights
@@ -401,6 +412,9 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
 #### OBIS - Patrols
 - Settings
     - Enable: Enabled
+
+#### Quick Inventory - Allows you to trade items with your follower quickly
+- Hotkery : Set to whichever you like, X is fine by default.
 
 #### Radiant Requirements
 - Settings
@@ -484,7 +498,9 @@ Cycle through all the tabs
 
 ## How to start playing
 
-Simply step up to the statue of mara and choose a start.
+After confirming your character, never use showracemenu to change it's race or sex, you will then be able to start the game. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option. This also allows to check the ```Skyrim Unbound``` MCM to personalize a bit your start. 
+Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! 
+You cannot escape your destiny!
 
 ## FAQ
 
@@ -528,7 +544,6 @@ Due to having 4000 displays possible, we use [Quest and Reward Delay for LOTD](h
 The game is darker BY DESIGN, it is NORMAL that it's not as bright as the vanilla game!
 
 For all users:
-- Refer to the Brightness part of the Personalization part of the readme
 - Calibrate your monitor with deep range (google it, not hard, doesn't come natively on monitors tho)
 - Use [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633) (you can also make it brighter in it's MCM)
 
@@ -553,6 +568,10 @@ I cannot please everybody, so I decided to please myself.
 Never gonna happen, I don't like paid mods, at all, I don't think they're that high quality, and maintaining 2 profiles is already painful, so 2 more (EnaiRim CC and SimonRim CC) would be extremely annoying (we're talking running Synthesis 8 times, DynDOLOD and Occlusion 4 time).
 CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will never be treated as such.
 Using them with QWEST! would be like installing your own mods: Support is forfeited; and they will NOT work without patching.
+
+## Inigo...?
+
+A majority of people likes him, I don't. It is made so poorly it's barely holding together, kinda like my original modding list. Many issues that I cannot fix where reported when it was in the list. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final. A tutorial on how to restore him back has been added to #list-modifications [in my own Discord]((https://discord.gg/ZgjVrXp).
 
 ## I want to support your work!
 
