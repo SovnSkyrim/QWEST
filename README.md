@@ -571,7 +571,7 @@ Using them with QWEST! would be like installing your own mods: Support is forfei
 
 ## Inigo...?
 
-A majority of people likes him, I don't. It is made so poorly it's barely holding together, kinda like my original modding list. Many issues that I cannot fix where reported when it was in the list. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final. A tutorial on how to restore him back has been added to #list-modifications [in my own Discord]((https://discord.gg/ZgjVrXp).
+A majority of people likes him, I don't. It is made so poorly it's barely holding together, kinda like my original modding list. Many issues that I cannot fix where reported when it was in the list. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final. A tutorial on how to restore him back has been added to #list-modifications [in my own Discord](https://discord.gg/ZgjVrXp).
 
 ## I want to support your work!
 
