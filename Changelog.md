@@ -1,3 +1,73 @@
+## 3.6.0 | Maintenance Update 3 - Cleaning, Mod Updates and Newly made mods
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile Compatible.
+
+Added:
+- Skyrim Unbound Reborn
+- Ultimate College of Winterhold 
+- Apothecary - An Alchemy Overhaul
+    - Added to both the EnaiRim and SimonRim Profiles
+- Skeever 14k
+- Kaidan 2
+- Kaidan 2 Visual Overhaul by PoeticAnt44
+- A new follower setup with:
+    - Minimalistic Follower Framework
+    - Quick inventory
+    - SNIFF - Simple No Internal Friendly Fire
+    - Simple Outfit System
+    - Stay With Me SSE
+    - Field Medic
+    - Follower Death and Injury Chance - Followers Can die
+        - This enables them to become essential through MCM, it's not setup so they can die. Follow the readme.
+    - Simple Follower Sandbox
+    - Teach Followers Spells Through Spell Tomes SE
+    - SOT Carry Weight
+- Banshee -Wisp Mother Sounds Rework-
+- Dragon Priest Fix - Behaviour Overhaul
+- Lunar Forge Crafting
+- SimonRim Profile Only
+    - Forceful Tongue - Shouts Overhaul
+
+Updated:
+- Lux - 2.4
+- Zangdar's Rudy Cathedral ENB for Lux - 1.14
+    - This change brings the brighter templates to the main module, it is not optional anymore.
+- Adamant - A Perk Overhaul - 5.0.4
+- Scion - A Vampire Overhaul - 1.2.0
+- Mundus - A Standing Stone Overhaul - 1.6.0
+- Aetherius - A Race Overhaul - 2.5.2
+- Reliquary of Myth - Artifact Overhaul - 3.9.4
+- Land of Vominheim - 2.03
+- Headhunter - Bounties Redone - 1.15
+- Honed Metal SSE Updated - 1.21
+- Shadows Of Sunlight - In Small Exterior World Spaces - 0.4
+- More to Say - 8.0.3
+
+Removed:
+- Alternate Start - Live Another Life 
+    - Wanted something fresh, Skyrim Unbound provides more choices and doesn't force you to go through the Main Quest as much, may be quite refreshing. Lastly I dislike the Guildmaster Start or the Solitude Docks start so those are gone as well. (also I like less Arthmoor)
+- Armor Variants Expansion
+    - Residue of old QWEST! versions, not incredible and caused some NPCs to be naked.
+- Inigo
+    - A majority of people likes him, I don't. It is made so poorly it's barely holding together, kinda like my original modding list. Many issues that I cannot fix where reported. On top of that, add that users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final. A tutorial on how to restore him back has been added to #list-modifications in my own Discord.
+- Ride Sharing
+    - Sometimes work, sometimes doesn't, unsure why. Couldn't reliably make it work so it's gone.
+- Nether's Follower Framework
+    - A new follower setup has been added due to this mod not being hosted on Nexus anymore but partly on Schaken which is known to host pedophilic content so I do not wish my work to be associated with such disgusting practices.
+
+- Regenerated xLODGEN Terrain/DynDOLOD/Occlusion/Bodyslide
+
+Silent Fixes since 3.5.0:
+- T-pose problems when disabling the survival setup
+- Dodge mod problems when using the survival setup
+- poisoning extended not working 
+- dialogue stuck fix
+- invisible helmets
+- updated hide quest items in containers
+- VectorPlexus link for High Poly Head
+
 ## 3.5.0 | Maintenance Update 2 - Mod Updates and Newly made mods 
 
 **Released at**: `07/07/2021`
