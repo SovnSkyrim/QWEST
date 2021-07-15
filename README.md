@@ -230,6 +230,7 @@ There is also another option which is ReShade. ReShade is simpler than ENBs as t
 For Skyrim, it's very common for ReShade to be made with a certain ENB in mind, but some exist to be used on top of Vanilla Skyrim. I'll introduce you to 2 of them.
 - [BTS - Beautifully Textured Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/25489)
 - [Ulver](https://www.nexusmods.com/skyrimspecialedition/mods/40433)
+- [Lucid-Icrous Lightweight](https://www.nexusmods.com/skyrimspecialedition/mods/45771)
 
 You can have both at the same time in your Skyrim, so if you want to try both you can download them and follow the installation instructions:
 
