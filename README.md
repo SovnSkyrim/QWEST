@@ -227,7 +227,7 @@ On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini P
 
 There is also another option which is ReShade. ReShade is simpler than ENBs as they generally focus on color correction, but if properly used, they can enhance the game's graphics nicely with even lower fps loss. Couple that with a Skyrim set on Low, and even the weaker GPUs can experience more than vanilla Skyrim lighting.
 
-For Skyrim, it's very common for ReShade to be made with a certain ENB in mind, but some exist to be used on top of Vanilla Skyrim. I'll introduce you to two of them.
+For Skyrim, it's very common for ReShade to be made with a certain ENB in mind, but some exist to be used on top of Vanilla Skyrim. I'll introduce you to three of them.
 - [BTS - Beautifully Textured Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/25489)
 - [Ulver](https://www.nexusmods.com/skyrimspecialedition/mods/40433)
 - [Lucid-Icrous Lightweight](https://www.nexusmods.com/skyrimspecialedition/mods/45771)
