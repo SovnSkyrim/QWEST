@@ -533,12 +533,12 @@ Headwear that conceals your identity will stop NPCs from interacting with you, f
 1st person animations are overhauled by [First Person Combat Animations Overhaul 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/45177). If it bothers you, you can safely disable it in MO2.
 
 ## What perk does the new weapons use?
-Rapiers get Sword perks
-Pikes get great sword perks
-Halberds get two handed axe perks
-Quarter Staffs get War Hammer perks
-Claws get dagger perks
-Whips get mace perks
+- Rapiers get Sword perks
+- Pikes get great sword perks
+- Halberds get two handed axe perks
+- Quarter Staffs get War Hammer perks
+- Claws get dagger perks
+- Whips get mace perks
 
 ## My character T-Poses!
 
