@@ -369,6 +369,11 @@ Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will resul
   - Nights
     - Spawn Only Night Time: Enabled
 
+#### Genesis Unleashed
+  - Max Number of Dungeon Spawns: 5
+  - Allow Spawning at Player: Disabled
+  - Disable Surface Spawns: Enabled
+
 #### Growl Werebeasts (EnaiRim)
 - Features
   - Invulnerable During Transformation: Enabled
@@ -489,12 +494,6 @@ Cycle through all the tabs
 #### Wildcat (EnaiRim)
 - Disable Injuries: Enabled
 - Allow Wildcat to manage difficulty: Enabled
-
-#### Genesis Unleashed
-  - Max Number of Dungeon Spawns: 5
-  - Allow Spawning at Player: Disabled
-  - Disable Surface Spawns: Enabled
-  - Enable after you made your character and left the room you were in to do your character. 
 
 ## How to start playing
 
