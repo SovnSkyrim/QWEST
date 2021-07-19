@@ -1,6 +1,15 @@
-## 3.6.1 | Maintenance Update 4 | NPCs - Updates 
+## 3.6.2 | BSA Corruption Fix
 
 **Released at**: `Unreleased`
+
+**Notes** : Savefile Compatible - You want to update if you were on 3.6.0 or 3.6.1.
+
+Fix:
+- CTD From loading the game due to BSA Size being too big for the game to handle.
+
+## 3.6.1 | Maintenance Update 4 | NPCs - Updates 
+
+**Released at**: `19/07/2021`
 
 **Notes** : Savefile Compatible - You want to update if you were on 3.6.0.
 
