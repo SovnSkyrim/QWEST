@@ -1,4 +1,4 @@
-## Pride of Skyrim - Thieves Guild
+## PA44 Thieves Guild
 - MercerFrey "Mercer Frey" [NPC_:0001B07C]
 - Syndus "Syndus" [NPC_:00029DAA]
 - Arnskar "Arnskar Ember-Master" [NPC_:00029DAD]
@@ -8,16 +8,14 @@
 - Hewnon "Hewnon Black-Skeever" [NPC_:00095FD5]
 - Garthar "Garthar" [NPC_:000B03A3]
 - RavynImyan "Ravyn Imyan" [NPC_:000B03A4]
-- WEJS11Sigar "Sigar" [NPC_:000B85BE]
 
-## Pride of Skyrim - Companions
+
+## PA44 Companions
 - VignarGrayMane "Vignar Gray-Mane" [NPC_:00013BB5]
-- Farkas "Farkas" [NPC_:0001A692]
-- Vilkas "Vilkas" [NPC_:0001A694]
 - Brill "Brill" [NPC_:0001A6A2]
 - Athis "Athis" [NPC_:0001A6D5]
 
-## Pride of Skyrim - Riften
+## PA44 Riften
 - Aerin "Aerin" [NPC_:00013346]
 - Asgeir "Asgeir Snow-Shod" [NPC_:0001334B]
 - Shadr "Shadr" [NPC_:00013371]
@@ -30,7 +28,7 @@
 - Unmid "Unmid Snow-Shod" [NPC_:000371D7]
 - Briehl "Briehl" [NPC_:000585FB]
 
-## Pride of Skyrim - Reach
+## PA44 Reach
 - Madanach "Madanach" [NPC_:000133A7]
 - Endon "Endon" [NPC_:00013395]
 - Skaggi "Skaggi Scar-Face" [NPC_:000133B8]
@@ -40,10 +38,10 @@
 - Enmon "Enmon" [NPC_:00013B6C]
 - TacitusSallustius "Tacitus Sallustius" [NPC_:0001402D]
 
-## Pride of Skyrim - Winterhold
+## PA44 Winterhold
 - Dagur "Dagur" [NPC_:0001C183]
 
-## Pride of Skyrim - Solitude
+## PA44 Solitude
 - Addvar "Addvar" [NPC_:00013255]
 - Erikur "Erikur" [NPC_:00013272]
 - FalkFirebeard "Falk Firebeard" [NPC_:00013274]
@@ -58,11 +56,11 @@
 - Rulindil "Rulindil" [NPC_:00039F1F]
 - AquilliusAeresius "Aquillius Aeresius" [NPC_:000D6AD8]
 
-## Pride of Skyrim - Windhelm 
+## PA44 Windhelm 
 - AvalAtheron "Aval Atheron" [NPC_:00014140]
 - Nurelion "Nurelion" [NPC_:00014148]
 
-## Pride of Skyrim - SmallTowns
+## PA44 SmallTowns
 - Lokir [0004679A]
 - Rorik "Rorik" [NPC_:000136B2]
 - Mralki "Mralki" [NPC_:000136B6]
@@ -73,7 +71,7 @@
 - HHpilgrim01 "Barknar" [NPC_:000BC079]
 - Benor "Benor" [NPC_:000135E8]
 
-## Pride of Skyrim - Whiterun
+## PA44 Whiterun
 - CarriageDriverWhiterun "Bjorlam" [NPC_:00013669]
 - Anoriath "Anoriath" [NPC_:00013B97]
 - Elrindir "Elrindir" [NPC_:00013B9E]
@@ -102,7 +100,7 @@
 - Sigurd "Sigurd" [NPC_:000CDD72]
 - AcolyteJenssen "Acolyte Jenssen" [NPC_:000D3E79]
 
-## Pride of Skyrim - FalkreathRiverwood
+## PA44 FalkreathRiverwood
 - Kust [0001364C]
 - Runil [0001364D]
 - Bolund [00013651]
@@ -120,8 +118,10 @@
 - Alvor [00013475]
 - Orgnar [00013479]
 - Sven "Sven" [NPC_:0001347F]
+- Sinding [000136AC]
+- DA05SindingGhost [00090CF2]
 
-## Pride of Skyrim - MiscMale
+## PA44 MiscMale
 - Odfel "Odfel" [NPC_:000136C4]
 - GrogmarGroBurzag "Grogmar gro-Burzag" [NPC_:000136C6]
 - CWFieldCOImperialRift "Legate Fasendil" [NPC_:0008454F]
@@ -134,7 +134,7 @@
 - CommanderMaro "Commander Maro" [NPC_:0001D4B5]
 - GaiusMaro "Gaius Maro" [NPC_:00044050]
 
-## Courageous Women of Skyrim - EastmarchWinterhold
+## PA44 CW EastmarchWinterhold
 - Tormir "Tormir" [NPC_:0001403D]
 - GemmaUriel "Gemma Uriel" [NPC_:00014040] 
 - Hillevi "Hillevi Cruel-Sea" [NPC_:0001411F]
@@ -144,11 +144,11 @@
 - dunAnsilvundLuahAlSkaven "Lu'ah Al-Skaven" [NPC_:0002333A]
 - dunIronbindSalma "Salma" [NPC_:0006CD5A]
 
-## Courageous Women of Skyrim - Haafingar
+## PA44 CW Haafingar
 - Gianna "Gianna" [NPC_:0004BCC3]
 - HousecarlSolitude "Jordis the Sword-Maiden" [NPC_:000A2C8F] 
 
-# Courageous Women of Skyrim - PaleReachHjaalmarch
+# PA44 CW PaleReachHjaalmarch
 - Bothela "Bothela" [NPC_:0001338B] 
 - Daighre "Daighre" [NPC_:00013391]
 - Faleen "Faleen" [NPC_:00013397]
@@ -162,12 +162,12 @@
 - VigilantCarcette "Keeper Carcette" [NPC_:000BFB55]
 - dunFrostmereCryptEisa "Eisa Blackthorn" [NPC_:000D001A] 
 
-## Courageous Women of Skyrim - Rift
+## PA44 CW Rift
 - Niluva "Niluva Hlaalu" [NPC_:0001336E]
 - Lynly "Lynly Star-Sung" [NPC_:000136BC] 
 - TembaWideArm "Temba Wide-Arm" [NPC_:000658D2]
 
-## Courageous Women of Skyrim - WhiterunFalkreath
+## PA44 CW WhiterunFalkreath
 - CamillaValerius "Camilla Valerius" [NPC_:0001347B] 
 - Narri "Narri" [NPC_:00013654]
 - Tekla "Tekla" [NPC_:00013656]
@@ -210,8 +210,6 @@
 - Matlara [00013640]
 - Torolf [00013641]
 - Gunnar Stone-Eye [00013643]
-- Sinding [000136AC]
-- DA05SindingGhost [00090CF2]
 - Festus Krex [0001BDB2]
 - Festus Krex [000E0D6F]
 - Gunjar [0009B0AD]
@@ -236,6 +234,8 @@
 - Einarth "Einarth" [NPC_:0002C6CC]
 - Borri "Borri" [NPC_:0002C6CE]
 - CommanderCaius "Commander Caius" [NPC_:00038257]
+- Farkas "Farkas" [NPC_:0001A692]
+- Vilkas "Vilkas" [NPC_:0001A694]
 
 ## Northbourne NPCs of the Rift
 - Atub [00019E18]
@@ -365,7 +365,7 @@
 - Heimskr "Heimskr" [NPC_:00013BAC]
 - Aicantar "Aicantar" [NPC_:0001402E]
 
-## Pandorable's NPCs
+## Pandorable's NPCs    
 - Aia Arria [0001325C]
 - Bryling "Bryling" [NPC_:00013265]
 - Erdi [00013271]
