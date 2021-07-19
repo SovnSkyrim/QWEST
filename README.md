@@ -524,6 +524,8 @@ Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support ch
 
 The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a High Poly Head under Face Part, some hairstyle will remain bugged but it is known and I do not know how to fix them. The mod they're from doesn't only offer those bugged hairstyles so it remains for the rest of what it proposes.
 
+Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) to solve them, I talk to the author so don't worry, it'll come. Play with them for now.
+
 ## I can't talk to NPCs!
 
 Headwear that conceals your identity will stop NPCs from interacting with you, for more details check [Sneak Tools' Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/1863)
