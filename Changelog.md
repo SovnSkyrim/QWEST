@@ -1,3 +1,23 @@
+## 3.6.1 | Maintenance Update 4 | NPCs - Updates 
+
+**Released at**: `Unreleased`
+
+**Notes** : Savefile Compatible - You want to update if you were on 3.6.0.
+
+Tweaked:
+- Using [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) instead of NPC Plugin Chooser for the NPC Merge
+    - Made some adjustements on choosen NPCs - Should also fix the NPC problems
+
+Added:
+- OBIS-Missives Addon and OBIS-Missives-HeadHunter Addon
+
+Updated:
+- Lux - 2.5 - Ninja Update
+- Artifacts of Skyrim - Revised Edition - 1.1.1
+- Headhunter - Bounties Redone - 1.20
+- AI Overhaul SSE - 1.6.5
+- Apothecary - An Alchemy Overhaul - 1.1.0
+
 ## 3.6.0 | Maintenance Update 3 - Cleaning, Mod Updates and Newly made mods
 
 **Released at**: `16/07/2021`
