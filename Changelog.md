@@ -1,6 +1,6 @@
 ## 3.6.2 | BSA Corruption Fix
 
-**Released at**: `Unreleased`
+**Released at**: `19/07/2021`
 
 **Notes** : Savefile Compatible - You want to update if you were on 3.6.0 or 3.6.1.
 
