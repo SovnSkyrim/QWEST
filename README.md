@@ -168,6 +168,12 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
 
+If Wabbajack stalls on the MEGA.NZ files, get the files below and place them AS IS in the downloads folder you've selected, then restart Wabbajack completely. It's only those 4.
+- https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo
+- https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0
+- https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
+- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
+
 **x is not a whitelisted download**:
 
 This can happen when I update the modlist. Check if a new update is available and wait if there is none.
