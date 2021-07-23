@@ -371,7 +371,7 @@ Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will resul
 - Settings
      - Death Chance: 0% Upon Kneeling
 
-- The list contains ways to add Spells or manage outfits for Followers. Do not use those features with Lucien, Kaidan, Skeever, Gladys, or Vilja (Auri/Hoth should be fine) as they have their own follower framework. Do not give them spell tomes or outfits outside of their designated support ( [Lucien's spelllearning for example](https://josephrussellauthor.com/Lucien_Spells.html) )
+- The list contains ways to add Spells or manage outfits for Followers. Do not use those features with Lucien, Kaidan, Skeever, Gladys, or Vilja (Auri/Hoth/Interesting NPCs'  Followers should be fine) as they have their own follower framework. Do not give them spell tomes or outfits outside of their designated support ( [Lucien's spell-earning for example](https://josephrussellauthor.com/Lucien_Spells.html) ).
 
 #### Genesis Surface Spawns
   - Nights
