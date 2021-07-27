@@ -1,3 +1,41 @@
+## 3.6.2 | Maintenance Update 4 | Follower Framework and updates
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile compatible. Switching Follower Framework is not recommended at all mid save! Don't attempt it!
+
+Added:
+- Nether's Follower Framework
+    - He took it off of the problematic site + current setup doesn't seem to work that well (it was in my testing, sad) 
+- Ordinator - 20% More Perk 
+    - I always thought it was like that, that's to show how much time I play the game.
+For the Survival Setup:
+    - Eating Animations and Sounds SE
+    - Eating animations - My HD version - by Xtudo
+    - Winterhold College Communal Shower (Keep It Clean)
+
+Removed:
+- The old follower setup:
+    - Minimalistic Follower Framework
+    - Quick inventory
+    - SNIFF - Simple No Internal Friendly Fire
+    - Simple Outfit System
+    - Stay With Me SSE
+    - Field Medic
+    - Follower Death and Injury Chance - Followers Can die
+    - Simple Follower Sandbox
+    - Teach Followers Spells Through Spell Tomes SE
+    - SOT Carry Weight
+
+Updated:
+- Realistic Water 2 - 3.1.1
+- Illustrious Whiterun - 1.4
+- Wheels of Lull - 5.1.0
+- Lux - 2.6
+- Ultimate College of Winterhold - 1.1.0
+- Draugr Upgrades and Improvements - 2.4.1
+- OBIS-Missives Addon and OBIS-Missives-HeadHunter Addon - 1.03
+
 ## 3.6.2 | BSA Corruption Fix
 
 **Released at**: `19/07/2021`
