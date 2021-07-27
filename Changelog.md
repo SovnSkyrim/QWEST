@@ -9,7 +9,7 @@ Added:
     - He took it off of the problematic site + current setup doesn't seem to work that well (it was in my testing, sad) 
 - Ordinator - 20% More Perk 
     - I always thought it was like that, that's to show how much time I play the game.
-For the Survival Setup:
+- For the Survival Setup:
     - Eating Animations and Sounds SE
     - Eating animations - My HD version - by Xtudo
     - Winterhold College Communal Shower (Keep It Clean)
