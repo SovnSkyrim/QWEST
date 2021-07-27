@@ -1,4 +1,4 @@
-## 3.6.2 | Maintenance Update 5 | Follower Framework and updates
+## 3.6.3 | Maintenance Update 5 | Follower Framework and updates
 
 **Released at**: `Unreleased`
 
