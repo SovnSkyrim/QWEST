@@ -82,9 +82,6 @@ You should know that the [Thieves Guild have Requirements](https://www.nexusmods
 ## Followers
 [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) will provide a nice amount of high quality followers but there is still the unforgettable [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)), [Vilja](https://www.nexusmods.com/skyrimspecialedition/mods/6722), [Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/47558), [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164), and even [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137). There is also [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/32161) for all those who love the goth cutie.
 
-Followers' behaviors have also greatly changed: [No Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/43618), [you can heal them when down](https://www.nexusmods.com/skyrimspecialedition/mods/26493), [they'll get injured (but shouldn't die if you follow my instructions)](https://www.nexusmods.com/skyrimspecialedition/mods/38043), [access their inventory quickly](https://www.nexusmods.com/skyrimspecialedition/mods/47165), and even [manage their outfit](https://www.nexusmods.com/skyrimspecialedition/mods/48974) or [teach them spells](https://www.nexusmods.com/skyrimspecialedition/mods/17384)!! 
-
-
 ## Loot, Artefacts and Leveling 
 [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) overhauls all vanilla Artifacts and [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308) - coupled with [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342) - makes sure you do not find spider webs in the dungeon chests. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes leveling so that exploring the world of Skyrim increases your character level, with individual skill levels increasing independently. There is a skill cap to avoid powerleveling which is determined by the player character level. More details on this can be seen on the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/17751), which I recommend you read.
 
@@ -367,12 +364,11 @@ Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will resul
     - Modesty Male: Disabled
     - Modesty Female: Disabled
 
-#### Follower Death/Injury
+#### Follower Framework
+- System :
 - Settings
+  - Load From File
      - Death Chance: 0% Upon Kneeling
-
-- The list contains ways to add Spells or manage outfits for Followers. Do not use those features with Lucien, Kaidan, Skeever, Gladys, or Vilja (Auri/Hoth/Interesting NPCs'  Followers should be fine) as they have their own follower framework. Do not give them spell tomes or outfits outside of their designated support ( [Lucien's spell-learning for example](https://josephrussellauthor.com/Lucien_Spells.html) ).
-- How to know if it's from a separate mod and not their normal framework? Simple, get a vanilla follower like Lydia or Uthgerd, and compare the dialogue options. If they're similar, they're from the added mod, if the vanilla follower does not have the same options, it's added by the unique follower.
 
 #### Genesis Surface Spawns
   - Nights
@@ -426,9 +422,6 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
 #### OBIS - Patrols
 - Settings
     - Enable: Enabled
-
-#### Quick Inventory - Allows you to trade items with your follower quickly
-- Hotkey : Set to whichever you like, X is fine by default.
 
 #### Radiant Requirements
 - Settings
