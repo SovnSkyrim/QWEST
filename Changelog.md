@@ -1,6 +1,6 @@
 ## 3.6.3 | Maintenance Update 5 | Follower Framework and updates
 
-**Released at**: `Unreleased`
+**Released at**: `28/07/2021`
 
 **Notes** : Not Savefile compatible. Switching Follower Framework is not recommended at all mid save! Don't attempt it!
 
