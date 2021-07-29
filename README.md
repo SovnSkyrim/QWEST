@@ -368,7 +368,6 @@ Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will resul
 - System :
 - Settings
   - Load From File
-     - Death Chance: 0% Upon Kneeling
 
 #### Genesis Surface Spawns
   - Nights
