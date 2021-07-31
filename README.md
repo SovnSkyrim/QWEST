@@ -596,8 +596,9 @@ I thank you for that thought but you should probably donate to Wabbajack first. 
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Xanza and Jdsmith inspiring me to make this, y'all are neat.
 - Luca for all the testing, feedback and recommendations, you are amazing.
-- Althro for being such a resourceful person and helping with the Discord and development a lot.
+- Althro for managing and curating the discord and being a very resourceful person. None of my work would simply exist without you. 
 - zino for testing 2.0 and onwards updates, allowing for accurate feedback on performance for 2GB GPUs.
+- TheSpaniard, Chri3i and Chanka for all the support you're doing in the discord.
 - Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
 
 ## Contact
