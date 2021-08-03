@@ -157,6 +157,8 @@ The download and installation process can take a very long time depending on you
 7. Click the Go/Begin button.
 8. Wait for Wabbajack to finish.
 
+Depending on hardware, the installation time may vary. As this is aimed at very low specs, expect it to take like 8h or more to complete. Leaving it over-night is recommended. Support queries where Wabbajack has not yet failed will not be taken into account.
+
 ### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
