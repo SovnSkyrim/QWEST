@@ -576,6 +576,16 @@ If you do not find someone, they're either from [Pride of Skyrim AIO](https://ww
 
 Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache. I cannot please everybody, so I decided to please myself.
 
+## MAIN QUEST??? MIRMULNIR?? DRAGONS?? BLEAK FALLS BARROW??
+
+Taken from [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)'s Modpage:
+
+The game begins with no dragons, Skyrim Unbound delays them depending on the MCM settings. By default, dragons at word walls appear after a week or two of in-game time. After another week or so, dragons start to appear randomly. In the MCM you can customize the delay and choose between timed and leveled modes.
+
+The first few chapters of the main questline are bypassed, meaning you no longer have to obtain the Dragonstone for Farengar or defeat Mirmulnir for the Jarl of Whiterun. When you absorb a dragon soul for the first time, you'll be summoned to High Hrothgar by the Greybeards after a while. The first word of the Unrelenting Force will be learned automatically after this, or you can find it earlier in Bleak Falls Barrow.
+
+The way of becoming a thane of Whiterun is changed. Complete The Blessings of Nature quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standart thaneship quest (help people of the hold and buy a house to become a thane) will be avialable.
+
 ## Creation Club (CC Content) Support?
 
 Never gonna happen. I don't like paid mods at all, I don't think they're that high quality, and maintaining two profiles is already painful, so two more (EnaiRim CC and SimonRim CC) would be extremely annoying (we're talking running Synthesis eight times, DynDOLOD and Occlusion four times each).
