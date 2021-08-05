@@ -1,3 +1,22 @@
+## 3.7.0 | Maintenance Update 6 | Fuck Arthmoor and HyperCasual
+
+**Released at**: `05/08/2021`
+
+**Notes** : Not Savefile compatible. Not worth updating if using 3.6.0 or later. 
+
+Added:
+- HyperCasual Profile - Removes all enemy changes for the ultimate god-mode Skyrim!
+- Paarthurnax - Quest Expansion
+
+Removed:
+- All of Arthmoor's Mods except USSEP
+    - Gildergreen Regrown
+    - Castle Volkihar Rebuilt
+    - The Paarthurnax Dilemma
+
+Updated:
+- Lux - 2.7
+
 ## 3.6.3 | Maintenance Update 5 | Follower Framework and updates
 
 **Released at**: `28/07/2021`
