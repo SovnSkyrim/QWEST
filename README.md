@@ -285,6 +285,20 @@ Seventh is [NeverNude](http://prntscr.com/1152dvf). The list is Nude by default,
 
 Eight modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in [MY Discord](https://discord.gg/ZgjVrXp) (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
+## HyperCasual - Another Profile
+
+QWEST! also comes with a unique profile called "HyperCasual", it removes all enemy modifications so the game is increasingly easier. It is selected just like you'd choose between EnaiRim or SimonRim, but this one features the full EnaiRim experience to make sure you become a powerful hero!
+
+It is very different to the other profile so only those modifications can be made to it:
+- Paper UI
+- Unequip Quiver
+- Oblivion Style HUD
+- Quick Loot
+- NeverNude
+- Gamepad Guide
+
+You cannot use SimonRim on this profile! Doing so voids support! 
+
 ## How to start up QWEST!
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
