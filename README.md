@@ -146,6 +146,12 @@ Wabbajack will not work with Windows 7, I will not offer any kind of support for
 
 ## Downloading and Installing
 
+To prepare the download, and make sure Wabbajack doesn't stall on those files; download those 4 mods manually: 
+- https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo
+- https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0
+- https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
+- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
+
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
@@ -153,7 +159,7 @@ The download and installation process can take a very long time depending on you
 3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "QWEST!".
 4. Select the created folder in 3. as your installation folder.
 5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-6. Select the created folder in 5. as your downloads folder.
+6. Select the created folder in 5. as your downloads folder. Place the downloaded MEGA files above AS IS in the downloads folder.
 7. Click the Go/Begin button.
 8. Wait for Wabbajack to finish.
 
