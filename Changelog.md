@@ -1,3 +1,45 @@
+## Maintenance Update 7 | Mod Updates + Cleaning
+
+**Released at**: `Unreleased`
+
+**Notes** : Not Savefile compatible.
+
+Added:
+- Livia Salvian Revamped - Custom-Voiced Follower
+- Barghest -Death Hound Sounds Rework-
+- SIRIN -Hagraven Sounds Rework-
+- Legacy of the Dragonborn - Furniture Management
+- Legacy of The Dragonborn - museum dome sunlight and shadows
+- Quick Cloaks for Legacy of the Dragonborn
+- Obscure's College of Winterhold NPC Stuck in Staircase Fix
+- Faster Woodcutting Animation (DAR)
+- the following Synthesis Patchers
+    - SynBookSmart
+    - DisplaySpellTomeLevelPatcher
+    - StaffGenerator
+
+Updated:
+- Lux - 2.8
+- Smoothcam - 1.4.2
+- Serana Dialogue Add-On - 2.7.0 | NFF/SDE Patches 
+- Gladys the Corgi - A Custom Dog Follower Mod - 1.04
+- Odin - Skyrim Magic Overhaul - 1.9
+- Adamant - A Perk Overhaul - 5.1.5
+- Mundus - A Standing Stone Overhaul - 1.6.1
+- Forceful Tongue - 3.0.1
+- Apothecary - An Alchemy Overhaul - 1.1.2
+- Fossil Mining - 3.1
+- Underdog Animations - 1.9.1
+- NPC AI Process Position Fix - 4.05c
+- Dynamic Things Alternative - 0.11
+- Bright Waterfall Fix for ENB - 3.3.3
+
+Removed:
+- Ultimate College of Winterhold
+    - Mirror of Aldrnari, too many issues; not gonna come back unless FPS is fixed. Obscure's College remain only.
+- Artifacts of Skyrim - Revised Edition
+    - Gives me headaches for the list; not even that great, questionable errors in the patches.
+
 ## 3.7.0 | Maintenance Update 6 | Fuck Arthmoor and HyperCasual
 
 **Released at**: `05/08/2021`
