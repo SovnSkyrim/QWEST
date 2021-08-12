@@ -1,6 +1,6 @@
 ## Maintenance Update 7 | Mod Updates + Cleaning
 
-**Released at**: `Unreleased`
+**Released at**: `12/08/2021`
 
 **Notes** : Not Savefile compatible.
 
