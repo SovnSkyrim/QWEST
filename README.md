@@ -152,7 +152,7 @@ To prepare the download, and make sure Wabbajack doesn't stall on those files; d
 - https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
 - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+**The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.**
 
 1. Open Wabbajack
 2. Browse the Gallery and Select QWEST!
@@ -163,7 +163,7 @@ The download and installation process can take a very long time depending on you
 7. Click the Go/Begin button.
 8. Wait for Wabbajack to finish.
 
-Depending on hardware, the installation time may vary. As this is aimed at very low specs, expect it to take like 8h or more to complete. Leaving it over-night is recommended. Support queries where Wabbajack has not yet failed will not be taken into account.
+Depending on hardware, the installation time may vary. As this is aimed at very low specs, expect it to take like 12h or more to complete. Leaving it over-night is recommended. Support queries where Wabbajack has not yet failed will not be taken into account.
 
 ### Problems with Wabbajack
 
