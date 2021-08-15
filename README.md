@@ -163,7 +163,9 @@ To prepare the download, and make sure Wabbajack doesn't stall on those files; d
 7. Click the Go/Begin button.
 8. Wait for Wabbajack to finish.
 
-Depending on hardware, the installation time may vary. As this is aimed at very low specs, expect it to take like 12h or more to complete. Leaving it over-night is recommended. Support queries where Wabbajack has not yet failed will not be taken into account.
+**Depending on hardware, the installation time may vary. As this is aimed at very low specs, expect it to take like 12h or more to complete. Leaving it over-night is recommended. Support queries where Wabbajack has not yet failed will not be taken into account.**
+
+No, the files aren't stuck extracting. Yes building BSAs takes time. No you shouldn't restart Wabbajack. 
 
 ### Problems with Wabbajack
 
