@@ -1,5 +1,13 @@
 # QWEST!
 
+![Tinvaak-banner](https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST.webp)
+
+Wabbajack Modlist Installer by The QWEST Dev Team.
+
+### Note, this readme will be retired once QWEST 4.0 launches. For now, please follow all of the information below.
+
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/qwest/badge.json)
+
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
@@ -36,19 +44,13 @@
 
 # Preamble
 
-QWEST! was born after a few friends were talking about how some of their friends couldn't enjoy cool quests in modded Skyrim, even with Wabbajack, due to the hardware requirements. This list has very few graphical enhancements which can be removed if you find you're struggling to run it.
+Designed to be a "Mighty Modlist for Mini Machines", QWEST was born after a few people were talking about how some people they knew couldn't enjoy a modded Sykrim due to the hardware requirements. The list has a graphical suite that improves the visuals whilst also being friendly to users with 2GB of VRAM. If you can run vanilla Skyrim, you should be able to run this. In QWEST, you will find major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth, new armors and weapons, new music and reworked weathers and lighting. There are many more changes which are detailed in the changes to gameplay file.
 
-I chose mods that overhaul almost all of the vanilla quests, added some major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth and the Forgotten city, and also overhauled the animations a bit. You'll also find new music, new armors and weapons that are linked to LotD and vanilla enhancing weathers and lighting. You even have the choice between EnaiRim and SimonRim with the 2 available Profiles!
-
-If you can run vanilla Skyrim, you should be able to run this.
-
-If you have any questions regarding the list, you're free to ask in the [Wabbajack Discord](https://discord.gg/wabbajack) or [my own personal server](https://discord.gg/ZgjVrXp).
-
-It is a fork of the amazing SME/FT list; if you want to build your own list check it out [here](https://github.com/EzioTheDeadPoet/SME-FT-)!
+The list was originally created by Sovn and was passed to the QWEST Dev Team after Sovn wished to stop working on the list. If you have any queries regarding the list, please ask them in the [Wabbajack Discord](https://discord.gg/wabbajack) or the community server.
 
 The name and picture are a reference to the amazing and wholesome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com). Their official Twitter is [here](https://twitter.com/swordscomic).
 
-# READING THIS README IN ITS ENTIRETY IS REQUIRED FOR THE LIST TO WORK. IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". I am going to answer "readme" to any question answered in this document - you have been warned. THIS LIST MASSIVELY CHANGES THE GAME, AND I'VE PUT MY OWN TWEAKS INTO IT. YOU WOULDNT HAVE THE SAME EXPERIENCE IF YOU MODDED THE GAME YOURSELF WITH THE SAME MODS; THUS, DO NOT REPORT ANY BUG/ERROR/ISSUE/PROBLEM TO MOD AUTHORS BUT ONLY TO ME THROUGH WABBAJACK'S OR MY DISCORD.
+**Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
 # Noteworthy Mods and what gameplay to expect.
 
@@ -80,7 +82,7 @@ From [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19
 You should know that the [Thieves Guild have Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) now, and you can [Renounce the Daedra if you will](https://www.nexusmods.com/skyrimspecialedition/mods/36100), while [Vampires can skip Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/25783). A much more detailed Spreadsheet on the changes can be found [here](https://docs.google.com/spreadsheets/d/15h4lGfMr4z_1hqPp8LDVbTLLRqgjaQBUUSIYc6XtJGU/edit#gid=0).
 
 ## Followers
-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) will provide a nice amount of high quality followers but there is still the unforgettable [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)), [Vilja](https://www.nexusmods.com/skyrimspecialedition/mods/6722), [Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/47558), [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164), and even [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137). There is also [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/32161) for all those who love the goth cutie.
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) will provide a nice amount of high quality followers but there is still the unforgettable [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([with her cute face overhaul!](https://www.nexusmods.com/skyrimspecialedition/mods/29345)), [Vilja](https://www.nexusmods.com/skyrimspecialedition/mods/6722), [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075), [Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/47558), [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164), and even [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137). There is also [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) and [Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/32161) to overhaul Serana.
 
 ## Loot, Artefacts and Leveling 
 [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) overhauls all vanilla Artifacts and [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308) - coupled with [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342) - makes sure you do not find spider webs in the dungeon chests. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes leveling so that exploring the world of Skyrim increases your character level, with individual skill levels increasing independently. There is a skill cap to avoid powerleveling which is determined by the player character level. More details on this can be seen on the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/17751), which I recommend you read.
@@ -91,60 +93,55 @@ QWEST! isn't here to make the game feel like it has a sort of "Dark Souls" diffi
 A wide variety of mods are used to increase variety to the enemies you encounter across Tamriel. Draugrs have been diversified using [DUI](https://www.nexusmods.com/skyrimspecialedition/mods/21775), [BriDO](https://www.nexusmods.com/skyrimspecialedition/mods/26188) and [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238). Bandit types have been implemented via [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145) and its Patrol addon. Vampires have been improved through the use of [Better Vampire NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9510). Dragons are enhanced using [Splendor](https://www.nexusmods.com/skyrimspecialedition/mods/9670), [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) and [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693). This list is not exhaustive!
 
 ## Installation
+
 ### Pre-Installation
 
-These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
+These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-#### Steam Library
+#### Steam Config
 
-If you have your steam library in program files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
-I will not provide support to people with Skyrim in their Program Files folder.
-Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be ``C:\SteamLibrary`` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
+##### Disable the Steam Overlay
 
-#### Change Steam's Update Behavior
+The Steam Overlay can cause issues with ENB and is recommended to be turned off.
+
+Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+
+#### Change Steams Update Behavior
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
-To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-#### Set the Game language to English
+#### Set the Game language and Windows Region to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+This entire Modlist is in English and 99% of all mods you will find are also in English. Some mods can break when using a non English version of Windows. Ensure that your Windows Regional Format is set to English. 
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133).
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to complelety wipe the game.
 
-If you ever used Vortex to mod Skyrim SE, using the Shredder becomes a critically important step, as Vortex will conflict heavily with any Wabbajack installation, so backup your stuff or shred it.
+### It is *vital* that your Binkw64.dll is unmodified and *not* a replacement from another mod. If you have a version that is not 292KB in size, delete it and verify your game files.
 
-## Start Skyrim
+#### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
-
-1. Leave the quality to what Skyrim sets it to, but you can lower it if you wish. FPS gain is minor though.
-2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3. Set _Antialiasing_ to _Off_
-4. Check _Windowed Mode_ and _Borderless_
-
+After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
 
-## Preparations
+#### Preparations
 
-Download the release to a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads, OneDrive or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+#### Downloading and Installing
 
-Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
-
-## Downloading and Installing
+The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 To prepare the download, and make sure Wabbajack doesn't stall on those files; download those 4 mods manually: 
 - https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo
@@ -152,34 +149,22 @@ To prepare the download, and make sure Wabbajack doesn't stall on those files; d
 - https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
 - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
 
-**The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.**
+1. Open Wabbajack and click on browse modlists.
+2. Download the modlist from the Wabbajack UI.
+3. Once the download is done, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/QWEST`). The downloads path should automatically fill in the installation path.
+4. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
+5. Select the created folder in 4. as your downloads folder. Place the downloaded MEGA files above AS IS in the downloads folder.
+6. Click the Go/Begin button
+7. Wait for Wabbajack to finish
+8. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
-1. Open Wabbajack
-2. Browse the Gallery and Select QWEST!
-3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "QWEST!".
-4. Select the created folder in 3. as your installation folder.
-5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-6. Select the created folder in 5. as your downloads folder. Place the downloaded MEGA files above AS IS in the downloads folder.
-7. Click the Go/Begin button.
-8. Wait for Wabbajack to finish.
-
-**Depending on hardware, the installation time may vary. As this is aimed at very low specs, expect it to take like 12h or more to complete. Leaving it over-night is recommended. Support queries where Wabbajack has not yet failed will not be taken into account.**
-
-No, the files aren't stuck extracting. Yes building BSAs takes time. No you shouldn't restart Wabbajack. 
-
-### Problems with Wabbajack
+##### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
-
-If Wabbajack stalls on the MEGA.NZ files, get the files below and place them AS IS in the downloads folder you've selected, then restart Wabbajack completely. It's only those 4.
-- https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo
-- https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0
-- https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
-- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
+If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist.
 
 **x is not a whitelisted download**:
 
@@ -189,6 +174,10 @@ This can happen when I update the modlist. Check if a new update is available an
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
+**Windows is reporting that a virus has been detected**:
+
+Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+
 ### Post-Installation
 
 ## Copy Game Folder Files
@@ -197,10 +186,9 @@ When the installation is complete, copy the files in the `QWEST!\Game Folder Fil
 
 ## Graphical Settings
 
-On a Ryzen 5 2400G paired with a GTX 950 2GB VRAM and 24GB RAM (never used more than 14GB, so 8GB RAM should be fine, **WHEN** installed on an SSD, if you use an HDD 16GB RAM minimum is recommended):
-BethINI is located within `QWEST!/Tools`.
-Make sure that Bethini is configured to the profile folder you will use in MO2 and not your vanilla INIs or any changes will be rendered worthless!
-Here are the normal INI Paths that you should have in the Setup tab: [EnaiRim](https://prnt.sc/10ha499) [SimonRim](https://cdn.discordapp.com/attachments/793809552353132566/818888086079012915/Capture.PNG). If one or the other doesn't show properly, use the browse option to manually set it up.
+If you wish to change your ini settings, which is recommended if you have 2GB of vram, then navigate to BethINI which is located in `QWEST!\Tools` and run the program. Make sure that you select the correct profile you wish to play, these are show here for [EnaiRim](https://prnt.sc/10ha499) and [SimonRim](https://cdn.discordapp.com/attachments/793809552353132566/818888086079012915/Capture.PNG). If one or the other doesn't show properly, use the browse option to manually set it up.
+
+Listed below is some information regarding the presets in BethINI
 
 - BethINI (Low) (locked to 60 FPS):
   - Everywhere (where it got tested): 60FPS
@@ -230,22 +218,19 @@ Otherwise, set a custom size for the drive it's currently on and increase the ma
 
 ## Getting an ENB
 
-This list is aimed towards very low end PCs, but that doesn't mean ENB isn't an option.
+Whilst this list is aimed towards lower end PCs, that does not mean that an ENB is not an option for you. If you have 2GB of vram, it is advised that you test in game first to check your performance and then come back to this section.
 
-For anyone who has a 2GB VRAM card, I advise you to skip this step and test in-game first. Once you have tested, come back and read the following. 
-
-ENB is the biggest performance hit in modding (provided you don't go crazy on textures and have lots of high poly stuff everywhere - which I didn't), and for the lucky ones with more than 2GB of VRAM but still not a lot, a custom tweaked version of [Zangdar's Rudy Cathedral](https://www.nexusmods.com/skyrimspecialedition/mods/39113) that was specifically made for this list is included. To install Zangdar's Rudy Cathedral, navigate to `Your Installation Folder\ENB Presets`([here](http://prntscr.com/10e2nl4)) and simply drag and drop the contents of either the performance one or the higher-end one to your Skyrim SE Directory (where the game .exe is). [Those](http://prntscr.com/10e2odv).
+This list includes a custom tweaked variation of [Zangdar's Rudy Cathedral](https://www.nexusmods.com/skyrimspecialedition/mods/39113) that was specifically made for this list. To install this ENB, navigate to `Your Installation Folder\ENB Presets`([here](http://prntscr.com/10e2nl4)) and simply drag and drop the contents of either the performance one or the higher-end one ([as shown in this picture](http://prntscr.com/10e2odv) to your Skyrim SE Directory (where the game .exe is).
 
 On 2GB Cards, the average fps is 30 with the Low End Preset and Medium Bethini Preset. This is very dependent on your PC, however, so your mileage may vary.
 
-There is also another option which is ReShade. ReShade is simpler than ENBs as they generally focus on color correction, but if properly used, they can enhance the game's graphics nicely with even lower fps loss. Couple that with a Skyrim set on Low, and even the weaker GPUs can experience more than vanilla Skyrim lighting.
+If you find that the ENB is too intensive for your system, you can try a ReShade preset which can offer a similar style of graphics but with much less performance cost. Here are three Reshades that are recommended for usage with QWEST!
 
-For Skyrim, it's very common for ReShade to be made with a certain ENB in mind, but some exist to be used on top of Vanilla Skyrim. I'll introduce you to three of them.
 - [BTS - Beautifully Textured Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/25489)
 - [Ulver](https://www.nexusmods.com/skyrimspecialedition/mods/40433)
 - [Lucid-Icrous Lightweight](https://www.nexusmods.com/skyrimspecialedition/mods/45771)
 
-You can have both at the same time in your Skyrim, so if you want to try both, you can download them and follow the installation instructions:
+To install a reshade follow these instructions:
 
 - Download the latest ReShade Version from [here](https://reshade.me/)
 - Open ReShade.exe, Select SkyrimSE.exe as the game you want to install it to. 
@@ -266,26 +251,31 @@ To change the profile, there's a dropdown menu on the top left of MO2. The defau
 
 ## Personalisation
 
-On top of the two profiles available for the core gameplay mods, QWEST! comes with some quality of Life changes and gameplay mods that some may or may not enjoy. All of the modifcations detailed below are supported as written. No support will be given if any other modifications are made, or if you deviate from what is detailed below.
+QWEST! has some options for personalisation within what is provided in the list. Do note that these are the only changes which are supported, any other changes are not supported. Discussion of these changes should be done in the community server which is linked in the main wabbajack discord.
 
-First possible modification is the [Survival Setup](https://prnt.sc/19gynoq). It is enabled by default as it has to be patched by both Synthesis and Nemesis, and has a specific Load Order for the right panel to work correctly. But if you follow carefully what I'm about to write, you will be able to remove it entirely. Yes, entirely, as I do not support removing only hypothermia or cleaning and washing while keeping food and sleep needs. There are two steps:
+### Survival
+
+Survival is enabled by default due to it being part of the finishing line patchers and requires a certain order to work correctly. It is designed to be either enabled or disabled and not in portions. In order to disable it,
 - Untick all the mods under ``Survival Stuff`` ( [those](https://prnt.sc/19gynoq) ) 
 - Tick the ``Synthesis No Survival`` corresponding to your profile and ``Nemesis No Survival`` at  [the bottom of the left panel of MO2](http://prntscr.com/19h0hon).
-Please note that there's a neat little mod on top of all of those that is disabled by default; called [Just Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501). It enables blood to appear as you take damage on you and enemies, and goes away as you regenerate health! More detail on the modpage but if you want it, just enable it! It obviously doesn't work when Dirt and Blood is on so it's off by default. 
 
-Second modification: [Paper Ui](http://prntscr.com/xb9im1). It is enabled by default but you can disable one or both of these depending on what you want.
+If you have survival disabled but wish to visually see your character get bloody, enable the [Just Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501) mod.
 
-Third modification: [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by default, it'll make your Player Character unequip it's ammunition every time you go out of combat if turned on.
+### Other modifications
 
-Fourth modification: [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an Oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png).
+- [Paper Ui](http://prntscr.com/xb9im1). It is enabled by default but you can disable one or both of these depending on what you want.
 
-Fifth Modification is the difficulty tweak that allows NPCs to have Ordinator Perks; disabled by default, it'll make the experience much more challenging but I play with it myself. Here's the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/42022). There's also one for Adamant (also disabled by default); [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/47484).
+- [Unequip Quiver](http://prntscr.com/xb9k5u). Disabled by default, it'll make your Player Character unequip it's ammunition every time you go out of combat if turned on.
 
-Sixth Modification is [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
+- [Oblivion Style HUD](http://prntscr.com/xb9lrc). Disabled by default, it'll make the UI have an Oblivion style like [this](https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1511538957-694432832.png).
 
-Seventh is [NeverNude](http://prntscr.com/1152dvf). The list is Nude by default, ticking those (and unticking Bijin Skin) should make it NeverNude, which is way better for Twitch or a skeptical wife!
+- NPC Difficulty. Disabled by default, this will make your experience much more challenging. Ensure you only activate the correct one for your profile.
 
-Eight modification: [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in [MY Discord](https://discord.gg/ZgjVrXp) (not Wabbajack's) if you want the details on how to use a controller with QWEST!
+- [Quick Loot](http://prntscr.com/10eh3rd). Enabled by default, it adds a little box showing the inventory of whatever container or corpse that you're currently looking at, so you know what's inside without opening it. If you do not want that, simply untick the mod. (It's under the "Quality of Life" Separator in MO2)
+
+- [NeverNude](http://prntscr.com/1152dvf). The list is Nude by default, ticking those (and unticking Bijin Skin) should make it NeverNude, which is way better for Twitch or a skeptical wife!
+
+- [Gamepad Guide](http://prntscr.com/xb9op3). Disabled by default, ask for the Gamepad guide in the community server (not Wabbajack's) if you want the details on how to use a controller with QWEST!
 
 ## HyperCasual - Another Profile
 
@@ -299,7 +289,7 @@ It is very different to the other profile so only those modifications can be mad
 - NeverNude
 - Gamepad Guide
 
-You cannot use SimonRim on this profile! Doing so voids support! 
+This profile is EnaiRim by default and **cannot** be used with SimonRim.
 
 ## How to start up QWEST!
 
@@ -310,7 +300,7 @@ Upon pressing New Game, you will spawn on the walls of Helgen burning down. Once
 If you press enter, you will be teleported to a location where you will be able to personalize your character.
 After confirming your character, never use showracemenu to change its race or sex; you will then be able to start the game. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option.
 
-Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
+Owing to certain quest mods used, you must **ensure** that you are playing as a dragonborn. Failure to do so will break questlines.
 
 ## Updating
 
@@ -325,9 +315,7 @@ Updating is like installing. You only have to make sure that you select the same
 ## In-Game MCM Options
 Once the game has loaded, wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
-MCMs are not automated due to a personal choice: There are many important tweaks, a mountain of informations, and useful stuff in them that can solve problems or make your experience better. Those are my own and what I recommend for the least amount of problems and a balanced experience.
-
-Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
+MCMs are currently not automated. The below settings are recommended for a balanced experience.
 
 #### Game Difficulty
 - The difficulty in this Modlist is quite harder due to Genesis Spawns and enemy diversity brought by Draugr Upgrades and Improvements, OBIS, and Better Vampire NPCs. I highly suggest playing on Adept or Expert, and putting it higher only if you feel it's too easy.
@@ -411,7 +399,6 @@ Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will resul
 #### Heartbreaker (Optional) 
 - Main Settings
     - Learn Spell Power: Enabled
-    - It gives you a power to put npcs in stagger once per IRL hour so you can rip out their hearts; you can also bind it so you can do it anytime.
   
 #### Immersive HUD
 - Activation
@@ -421,10 +408,6 @@ Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will resul
 #### Immersive W. Encounters
 - NEW EVENTS
   - NPCs: Jarl's Housecarls: Disabled (causes issues)
- 
-#### Imperious Racials (EnaiRim)
-- Nothing is really important, you can toggle stuff depending on your Race though!
-Remember that you can't switch race/sex using Showracemenu because of such a mod!
 
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
@@ -497,7 +480,6 @@ Remember that you can't switch race/sex using Showracemenu because of such a mod
     - You cannot dodge in the Starting Cell, you need to choose a path first.
     - **The first time you dodge, you'll be stuck in a weird position in the air. Press G (or your dodge swap key) twice to be unstuck.**
 
-
 - Npc Settings :
   - NPC Dodge AI: Disabled
 
@@ -537,27 +519,21 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 Although I do not see why someone would have such a screen with the targeted minimals of the list, here's a document made by Mantis to help you solve such problems. [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing)
 
-## I have a question
+## I have a question/ I found a bug
 
-Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not support over in game stuff or suggestions.
-
-## I have a bug
-
-Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not bug reports.
+Please report it in the support channel or in the relevant channel in the community server.
 
 ## A face part is crashing me! | Some hair/facial hair clips!
 
-The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a High Poly Head under Face Part, some hairstyle will remain bugged but it is known and I do not know how to fix them. The mod they're from doesn't only offer those bugged hairstyles so it remains for the rest of what it proposes.
-
-Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) to solve them, I talk to the author so don't worry, it'll come. Play with them for now.
+The face part is due to High Poly Head and is currently unfixable. The latter is a known issue and is currently being worked on.
 
 ## I can't talk to NPCs!
 
-Headwear that conceals your identity will stop NPCs from interacting with you, for more details check [Sneak Tools' Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/1863)
+Headwear that conceals your identity will stop NPCs from interacting with you, for more details check [Sneak Tools' Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/1863).
 
 ## First Person animations are weird, how do I fix??
 
-1st person animations are overhauled by [First Person Combat Animations Overhaul 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/45177). If it bothers you, you can safely disable it in MO2.
+1st person animations are overhauled by [First Person Combat Animations Overhaul 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/45177). You can safely disable this in the MO2 left pane should you wish to.
 
 ## What perk does the new weapons use?
 - Rapiers get Sword perks
@@ -571,58 +547,32 @@ Headwear that conceals your identity will stop NPCs from interacting with you, f
 
 Cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
 
-## My Legacy of the Dragonborn (LOTD) Quests are not starting up even though I have the number of Relics the Wiki says I need!!
-Due to having 4000 displays possible, we use [Quest and Reward Delay for LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/44923). Use their new chart to know which number of relic you need to start the quests.
+## My Legacy of the Dragonborn (LOTD) Quests are not starting up even though I have the number of Relics the Wiki says I need.
+The mod [Quest and Reward Delay for LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/44923) changes the requirements for the quests. Please use their new chart to see the requirements for starting the quests
 
-## The game is too dark! Brightness isn't right! I wanna modify the ENB shadow strength/brightness/lights settings!
+## The game is a bit too dark/I want to change some ENB settings.
 
-The game is darker BY DESIGN, it is NORMAL that it's not as bright as the vanilla game!
+Firstly, please calibrate your monitor to ensure your settings are correct. Most monitors are not properly calibrated when they ship from the factory, so it is advised to calibrate them.
 
-For all users:
-- Calibrate your monitor with deep range (google it, not hard, doesn't come natively on monitors though)  
-- Use [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633) (you can also make it brighter in its MCM)
+[Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633) is also included to facilitate making the game brighter. You can adjust the brightness of this in the MCM menu.
 
-For ENB Users:
+Should you wish to change the ENB follow this:
+
 - When in game, press Shift+Enter to open ENB Menu. In the right tab, called Shader Parameters at the top, select 'ENBEFFECT.FX' You will see different options for every time of day and night, and a separate slider for Interior Brightness. Dont forget to save configuration all the way in the top left.  
-- A tip for editing the ENB menu in game: open the console first, otherwise you'll be mindlessly clicking and attacking things while the game is still actively reading your inputs.
 
-Those are the ONLY tweaks available without changing LIGHTING MODS THEMSELVES, which is NOT SUPPORTED. You WILL need xEdit knowledge to do so, and it'd be EXTREMELY tedious.
+## How do I start the main quest?
 
-## "I am bothered by the way NPCs look in the game!" and "How do NPCs look?? Are they rugged? Are they supermodels? Are they vanilla?"
+In order to start the main quest, you need to either hit the level you specified or the daytime specified in the Skyrim unbound MCM menu (this defaults to 7-21 days). Instead of doing the first few quests, you will be summoned by the Greybeards after killing the dragon.
 
-I really do not care and won't take your opinion into account. I've scoured a lot of NPC overhauls (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits MY tastes.
-
-If you wonder how they look, [here's a document which lists what overhauls who (for vanilla NPCs)](https://github.com/SovnSkyrim/QWEST/blob/main/NPC%20Merge%20Notes.md). 
-
-If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [High Poly NPC Overhaul - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44155). 
-
-Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache. I cannot please everybody, so I decided to please myself.
-
-## MAIN QUEST??? MIRMULNIR?? DRAGONS?? BLEAK FALLS BARROW??
-
-Taken from [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)'s Modpage:
-
-The game begins with no dragons, Skyrim Unbound delays them depending on the MCM settings. By default, dragons at word walls appear after a week or two of in-game time. After another week or so, dragons start to appear randomly. In the MCM you can customize the delay and choose between timed and leveled modes.
-
-The first few chapters of the main questline are bypassed, meaning you no longer have to obtain the Dragonstone for Farengar or defeat Mirmulnir for the Jarl of Whiterun. When you absorb a dragon soul for the first time, you'll be summoned to High Hrothgar by the Greybeards after a while. The first word of the Unrelenting Force will be learned automatically after this, or you can find it earlier in Bleak Falls Barrow.
-
-The way of becoming a thane of Whiterun is changed. Complete The Blessings of Nature quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standart thaneship quest (help people of the hold and buy a house to become a thane) will be avialable.
+The way of becoming a thane of Whiterun is also changed. Complete The Blessings of Nature quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be avialable.
 
 ## Creation Club (CC Content) Support?
 
-Never gonna happen. I don't like paid mods at all, I don't think they're that high quality, and maintaining two profiles is already painful, so two more (EnaiRim CC and SimonRim CC) would be extremely annoying (we're talking running Synthesis eight times, DynDOLOD and Occlusion four times each).
-
-CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will never be treated as such.
-
-Using them with QWEST! would be like installing your own mods: Support is forfeited and they will NOT work without patching.
+Not supported.
 
 ## Inigo...?
 
-A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final. A tutorial on how to restore him back has been added to #list-modifications [in my own Discord](https://discord.gg/ZgjVrXp) (Available only by opting in the Rules 11 role in #Important-info).
-
-## I want to support your work!
-
-I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
+SoonTM. If you wish to restore him, please follow the guide that's pinned in the community server.
 
 ## Credits and Thanks
 
