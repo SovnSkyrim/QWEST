@@ -42,13 +42,13 @@ I chose mods that overhaul almost all of the vanilla quests, added some major mo
 
 If you can run vanilla Skyrim, you should be able to run this.
 
-If you have any questions regarding the list, you're free to ask in the [Wabbajack Discord](https://discord.gg/wabbajack) or [my own personal server](https://discord.gg/ZgjVrXp).
+If you have any questions regarding the list, you're free to ask in the [Wabbajack Discord](https://discord.gg/wabbajack).
 
 It is a fork of the amazing SME/FT list; if you want to build your own list check it out [here](https://github.com/EzioTheDeadPoet/SME-FT-)!
 
 The name and picture are a reference to the amazing and wholesome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com). Their official Twitter is [here](https://twitter.com/swordscomic).
 
-# READING THIS README IN ITS ENTIRETY IS REQUIRED FOR THE LIST TO WORK. IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". I am going to answer "readme" to any question answered in this document - you have been warned. THIS LIST MASSIVELY CHANGES THE GAME, AND I'VE PUT MY OWN TWEAKS INTO IT. YOU WOULDNT HAVE THE SAME EXPERIENCE IF YOU MODDED THE GAME YOURSELF WITH THE SAME MODS; THUS, DO NOT REPORT ANY BUG/ERROR/ISSUE/PROBLEM TO MOD AUTHORS BUT ONLY TO ME THROUGH WABBAJACK'S OR MY DISCORD.
+### Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.
 
 # Noteworthy Mods and what gameplay to expect.
 
@@ -539,11 +539,11 @@ Although I do not see why someone would have such a screen with the targeted min
 
 ## I have a question
 
-Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not support over in game stuff or suggestions.
+Ask it in the community server, link is in the support channel in the Wabbajack Discord.
 
 ## I have a bug
 
-Report it in my Discord, link [here](https://discord.gg/ZgjVrXp). The support channel in the Wabbajack Discord is for Installation questions, not bug reports.
+Report it in it in the community server, link is in the support channel in the Wabbajack Discord.
 
 ## A face part is crashing me! | Some hair/facial hair clips!
 
@@ -596,8 +596,6 @@ If you wonder how they look, [here's a document which lists what overhauls who (
 
 If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [High Poly NPC Overhaul - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44155). 
 
-Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache. I cannot please everybody, so I decided to please myself.
-
 ## MAIN QUEST??? MIRMULNIR?? DRAGONS?? BLEAK FALLS BARROW??
 
 Taken from [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)'s Modpage:
@@ -618,11 +616,7 @@ Using them with QWEST! would be like installing your own mods: Support is forfei
 
 ## Inigo...?
 
-A majority of people like him. I personally don't. On top of that, users reported non-issues from other Wabbajack lists to his Nexus page which led them to make a public pinned post about their [non favorable stance with what we do](http://prntscr.com/1b2tt18) so I am not going to use him any further in QWEST!. This decision is final. A tutorial on how to restore him back has been added to #list-modifications [in my own Discord](https://discord.gg/ZgjVrXp) (Available only by opting in the Rules 11 role in #Important-info).
-
-## I want to support your work!
-
-I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933). If you still want to only support me, my patreon is [here](https://www.patreon.com/Sovn).
+Coming soon. For now, please follow then pinned information in the community server.
 
 ## Credits and Thanks
 
