@@ -313,7 +313,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 ## In-Game MCM Options
-Once the game has loaded, wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
+Once the game has loaded, wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section. Do not press enter as you will be teleported into an area which will nullify all MCM's completed after it. Make sure you are still above Helgen whilst yuou are completing MCM's.
 
 MCMs are currently not automated. The below settings are recommended for a balanced experience.
 
@@ -460,7 +460,7 @@ MCMs are currently not automated. The below settings are recommended for a balan
 - Patch
   - Allow talk mask: Enabled
     
-#### SunHelm (Survival)
+#### SunHelm (Survival) - Only do once you have fully completed Character creation and are in the worldspace.
 - General Settings
   - General
     - SunHelm Suvival : Enabled (close MCMs and wait a bit in game)
