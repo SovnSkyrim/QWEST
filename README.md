@@ -148,6 +148,7 @@ To prepare the download, and make sure Wabbajack doesn't stall on those files; d
 - https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0
 - https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY
 - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg
+- https://mega.nz/file/qaAkBbza#fPEAIJhodpzM8Gz4ASpxdZ9jp9q7cJaTPVTk9GPM9GI
 
 1. Open Wabbajack and click on browse modlists.
 2. Download the modlist from the Wabbajack UI.
