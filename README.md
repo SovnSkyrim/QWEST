@@ -1,6 +1,6 @@
 # QWEST!
 
-![Tinvaak-banner](https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST.webp)
+![QWEST-banner](https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST_New.webp)
 
 Wabbajack Modlist Installer by The QWEST Dev Team.
 
