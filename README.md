@@ -6,8 +6,6 @@ Wabbajack Modlist Installer by The QWEST Dev Team.
 
 ### Note, this readme will be retired once QWEST 4.0 launches. For now, please follow all of the information below.
 
-![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/qwest/badge.json)
-
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
