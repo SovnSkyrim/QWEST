@@ -44,7 +44,7 @@ Wabbajack Modlist Installer by The QWEST Dev Team.
 
 Designed to be a "Mighty Modlist for Mini Machines", QWEST was born after a few people were talking about how some people they knew couldn't enjoy a modded Skyrim due to the hardware requirements. The list has a graphical suite that improves the visuals whilst also being friendly to users with 2GB of VRAM. If you can run vanilla Skyrim, you should be able to run this. In QWEST, you will find major mods such as Legacy of the Dragonborn, Interesting NPC's, Wyrmstooth, new armors and weapons, new music and reworked weathers and lighting. There are many more changes which are detailed in the changes to gameplay file.
 
-The list was originally created by Sovn and was passed to the QWEST Dev Team after Sovn wished to stop working on the list. If you have any queries regarding the list, please ask them in the [Wabbajack Discord](https://discord.gg/wabbajack) or the community server.
+This list, alongside [Aldrnari](https://github.com/SovnSkyrim/Aldrnari), is part of ``Sovn's Modding Legacy on Wabbajack``. This means it has originally been developped entirely by **Sovn** but is not actively being developped by him. The development of the list is currently **ongoing**; the ``QWEST! Dev Team`` took over on the **17th of August 2021** which means the latest version  developped by Sovn is the ``3.7.1 - Maintenance Update 7``. If you have any queries regarding the list, please ask them in the [Wabbajack Discord](https://discord.gg/wabbajack) or the community server.
 
 The name and picture are a reference to the amazing and wholesome Quest Sprout comic available on [swordscomic.com](https://swordscomic.com). Their official Twitter is [here](https://twitter.com/swordscomic).
 
