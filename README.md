@@ -4,7 +4,7 @@
 
 Wabbajack Modlist Installer by The QWEST Dev Team.
 
-### Note, this readme will be retired once QWEST 4.0 launches. For now, please follow all of the information below.
+### Note, this readme will be retired once QWEST 3.8 launches. For now, please follow all of the information below.
 
 - [Preamble](#preamble)
 - [Installation](#installation)
