@@ -1,5 +1,11 @@
 # QWEST!
 
-![QWEST-banner](https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST_New.webp)
+![QWEST-banner](https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST.webp)
 
-# THIS README IS OUT OF DATE. PLEASE DO NOT USE THIS README. PLEASE USE THE ONE THAT OPENED FOR YOU WHEN YOU INSTALLED THE LIST.
+You either die a hero or live long enough to become a villain.
+
+It became a villain.
+
+I should've let it die.
+
+I did not, and I saw my work squandered, tarnished.
